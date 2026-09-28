@@ -1,4 +1,4 @@
-# Individual question trends
+# Market and state attitudes in Ukraine
 
 95 separate chart sets (PNG, editable SVG and data CSV), drawn from audited national estimates.
 Open index.html for the searchable, offline gallery. Download PNG files alongside the HTML.

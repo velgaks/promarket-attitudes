@@ -17,6 +17,8 @@
 !/scripts/*.py
 /docs/*
 !/docs/*.csv
+!/docs/SOURCES.md
+!/docs/REPRODUCIBILITY.md
 !/docs/visual_review.json
 !/docs/question_trends_visual_review.json
 /data/*

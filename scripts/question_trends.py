@@ -286,7 +286,7 @@ def gallery(records):
     payload = json.dumps(content, ensure_ascii=False).replace('</', '<\\/')
     template = '''<!doctype html>
 <html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Ukraine: individual question trends</title>
+<title>Market and state attitudes in Ukraine</title>
 <style>
 *{box-sizing:border-box}body{margin:0;color:#151515;background:#fff;font:15px/1.5 system-ui,sans-serif}
 header{padding:20px 28px;border-bottom:1px solid #ddd}h1{font-size:23px;margin:0 0 5px}p{margin:0;color:#555}
@@ -303,7 +303,7 @@ th,td{padding:7px 12px;border-bottom:1px solid #ddd;text-align:right}th:first-ch
 .methods{font-size:13px;color:#555;padding-top:12px}.count{font-size:12px;color:#555;margin:0 0 8px}
 @media(max-width:800px){.layout{display:block}aside{position:static;height:auto;border-right:0;padding-bottom:8px}#list{max-height:190px;overflow:auto}main{padding:10px}header{padding:16px}h1{font-size:21px}}
 </style>
-<header><h1>Ukraine: individual question trends</h1><p>58 separate charts · At least two observed years · Latest observation in 2019 or later</p></header>
+<header><h1>Market and state attitudes in Ukraine</h1><p>A synthesis of attitudes toward markets and the state’s role in the economy, drawn from international and Ukrainian surveys.</p></header>
 <div class="layout"><aside><label for="search">Find a question</label><input id="search" type="search" placeholder="Competition, taxes, land…">
 <label for="survey">Survey</label><select id="survey"><option value="">All surveys</option><option>WVS</option><option>EVS</option><option>Pew</option><option>Monitoring</option><option>ESS</option><option>ISSP</option></select>
 <label for="type">Display</label><select id="type"><option value="">All question types</option><option value="numeric">Numeric means</option><option value="ordinal">Grouped ordered categories</option><option value="nominal">All unordered options</option></select>
@@ -311,7 +311,21 @@ th,td{padding:7px 12px;border-bottom:1px solid #ddd;text-align:right}th:first-ch
 <main><div class="toolbar"><span id="position" class="position"></span><button id="prev" aria-label="Previous chart">Previous</button><button id="next" aria-label="Next chart">Next</button>
 <button id="png">PNG</button><button id="svg">SVG</button><button id="csv">Data CSV</button></div>
 <div id="chart" role="img"></div><details><summary>Values and measurement</summary><div id="definition" class="methods"></div><table><thead><tr><th>Year</th><th>Response</th><th>Estimate</th><th>95% lower</th><th>95% upper</th></tr></thead><tbody id="values"></tbody></table></details>
-<details><summary>Selection and comparability</summary><div class="methods">One chart per complete question within each survey. Numeric rating scales show means. Verbal ordinal categories combine positive and negative answers, keeping neutral, undecided and other responses separate. Nominal questions show every option. Multiple-answer options belong on one chart, with market/state options highlighted; none in the audited inventory meet this gallery’s date and repetition criteria. WVS and EVS samples remain separate. Lines connect actual survey observations; annual estimates are not created. All LiTS series end before the cutoff and are excluded. Coverage is the project's audited sources, not every possible historical survey release. Territorial coverage and survey methods changed across waves; see the research note's Limitations section. Categorical shares include all respondents, including nonresponse. Numeric means use valid ratings: 1–10 in WVS/EVS, 0–10 in ESS. ESS round 3 pools December 2006–January 2007 interviews; the 2006–07 point is placed at 2007. The 2022 ESS point is the separate Ukrainian related study (18 January–8 February); 2024 is round 11. Earlier ESS intervals are approximate; 2022/2024 use strata and sampling clusters. ESS 2024 covers the accessible resident population during the war. The spontaneous “against democracy” response is not a numeric rating and is excluded from those means; its share is exported. ISSP compares 2009 and 2019. Its monetary questions show means in nominal monthly UAH after taxes; price inflation affects those levels. ISSP tax wording refers to higher taxes, without specifying a share of income. ISSP intervals are approximate because sampling identifiers are unavailable. The ZIP includes the complete inclusion/exclusion audit and source trace.</div></details>
+<details><summary>Sources and methodology</summary><div class="methods">
+<p>__CHART_COUNT__ question-level trends. Each series has at least two observations and a latest observation in 2019 or later. Lines connect actual survey years.</p>
+<p>Numeric questions show weighted means with 95% confidence intervals. Ordered responses combine positive and negative categories, retaining middle and missing responses. Nominal questions show all options. Numeric means use valid answers; categorical shares include nonresponse.</p>
+<ul>
+<li><strong>WVS:</strong> Adults aged 18+, national weights, aligned scale directions and approximate intervals. <a href="https://doi.org/10.14281/18241.25">Haerpfer et al. (2024), time series v5.0</a>.</li>
+<li><strong>EVS:</strong> Weighted adult estimates and approximate intervals; shown separately from WVS for comparison. <a href="https://doi.org/10.4232/1.14021">EVS (2022), ZA7503 v3.0.0</a>.</li>
+<li><strong>Pew:</strong> Published Ukrainian percentages, retaining rounding and nonresponse. Fieldwork years are used, including 2015 for the report published in 2017. <a href="https://github.com/velgaks/promarket-attitudes/blob/main/docs/SOURCES.md#pew-research-center">Reports and toplines</a>.</li>
+<li><strong>Monitoring:</strong> Published national tables; differently worded questions remain separate. No intervals are inferred from percentages alone. <a href="https://isnasu.org.ua/publish/ukrainske-suspilstvo/issues.php">Institute of Sociology, NAS of Ukraine</a>.</li>
+<li><strong>ESS:</strong> Weighted adult estimates; 2022/2024 intervals account for strata and sampling clusters, earlier intervals are approximate. The 2022 observation is a separate Ukrainian ESS-related study. The 2006–07 fieldwork point is plotted at 2007. <a href="https://github.com/velgaks/promarket-attitudes/blob/main/docs/SOURCES.md#european-social-survey-ess">Dataset editions and citations</a>.</li>
+<li><strong>ISSP:</strong> Weighted adult estimates for 2009 and 2019, with approximate intervals. Monetary amounts are monthly after-tax UAH at current prices. <a href="https://doi.org/10.4232/1.12777">ISSP 2009</a>; <a href="https://doi.org/10.4232/1.13853">Oksamytna and Ivashchenko, Ukraine 2019</a>.</li>
+<li><strong>LiTS:</strong> Included in the project’s aggregate tables; its 2016 endpoint falls outside this gallery’s selection. <a href="https://www.ebrd.com/home/what-we-do/office-of-the-chief-economist/lits/life-in-transition-survey-data.html">EBRD and World Bank, rounds I–III</a>.</li>
+</ul>
+<p>Territorial coverage and survey methods change across waves. <a href="https://github.com/velgaks/promarket-attitudes/blob/main/docs/SOURCES.md#comparability">Comparability details</a>.</p>
+</div></details>
+<p class="count"><a href="https://github.com/velgaks/promarket-attitudes/blob/main/docs/SOURCES.md">Full source citations</a> · <a href="https://github.com/velgaks/promarket-attitudes">About the project</a></p>
 </main></div>
 <script>const DATA=__DATA__;
 let shown=DATA.slice(),current=DATA[0];
@@ -336,7 +350,7 @@ const canvas=document.createElement('canvas');canvas.width=3300;canvas.height=22
 const blob=await new Promise(resolve=>canvas.toBlob(resolve,'image/png'));download(blob,selected.id+'.png','image/png');
 }finally{URL.revokeObjectURL(url);button.disabled=false}};filter();
 </script></html>'''
-    (OUT/'index.html').write_text(template.replace('__DATA__',payload).replace('58 separate charts',f'{len(records)} separate charts'),encoding='utf8')
+    (OUT/'index.html').write_text(template.replace('__DATA__',payload).replace('__CHART_COUNT__',str(len(records))),encoding='utf8')
 
 
 def main():
@@ -370,7 +384,7 @@ def main():
             original=original[original.age_group.eq('All')|original.age_group.isna()]
         original=original.assign(_order=original.response.map({v:i for i,v in enumerate(r['data'].response.unique())})).sort_values(['_order','year'])
         assert np.allclose(original[['estimate','ci_low','ci_high']],r['data'][['estimate','ci_low','ci_high']],equal_nan=True)
-    notes = f'''# Individual question trends
+    notes = f'''# Market and state attitudes in Ukraine
 
 {len(records)} separate chart sets (PNG, editable SVG and data CSV), drawn from audited national estimates.
 Open index.html for the searchable, offline gallery. Download PNG files alongside the HTML.
@@ -424,7 +438,7 @@ def package_exports(records):
             archive.write(path,path.relative_to(OUT))
         for name in source_names + ['monitoring_analysis_trace.csv','monitoring_published_results.csv','extended_published_trace.csv','question_trend_validation.json','ess_validation.json','ess_sample_audit.csv','ess_estimates.csv','ess_sensitivity.csv','ess_variable_inventory.csv','issp_validation.json','issp_estimates.csv','issp_sample_audit.csv','issp_variable_inventory.csv','issp_sensitivity.csv','issp_monetary_audit.csv','issp_published_checks.csv','issp_correlations.csv','issp_joint_agreement.csv']:
             archive.write(TABLES/name,'source_tables/'+name)
-        for name in ['question_crosswalk.csv','extended_question_definitions.csv','monitoring_indicator_definitions.csv','question_trend_definitions.csv','ess_question_crosswalk.csv','ess_variable_catalogue.csv','issp_question_crosswalk.csv','issp_variable_catalogue.csv']:
+        for name in ['SOURCES.md','REPRODUCIBILITY.md','question_crosswalk.csv','extended_question_definitions.csv','monitoring_indicator_definitions.csv','question_trend_definitions.csv','ess_question_crosswalk.csv','ess_variable_catalogue.csv','issp_question_crosswalk.csv','issp_variable_catalogue.csv']:
             archive.write(ROOT/'docs'/name,'docs/'+name)
         for name in ['issp_analysis.py','issp_documentation.py','acquire_issp_sources.py','ess_analysis.py','question_trends.py','question_trend_data.py','extended_attitudes.py','extended_published.py','monitoring_extract.py','acquire.py','figures.py','question_inventory.py','analyze.py']:
             archive.write(ROOT/'scripts'/name,'scripts/'+name)

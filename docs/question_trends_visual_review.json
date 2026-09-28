@@ -33,7 +33,7 @@
     "evs__e069_13.svg": "b13444a9766d970db007c82eaf0313d5876127ffad72d7a07a08a2df3e8dd5dc",
     "evs__f116.png": "ac568814828ca49e6c67e1374edc11c0b509f694d42065f543bf534340c4a4f4",
     "evs__f116.svg": "06300a9a81f386b7a58912fa1196c8d6133443c9a1eb8ed831a65fc207f24e59",
-    "index.html": "b0cb4f6742e85c8c4ca5346e04be4b999e0aa7484f498b0c15027d99773e7699",
+    "index.html": "e6c613b2f5983a62102ae9736a275a275367d64113a1ca297991e543872ee985",
     "issp__ahead_bribes.png": "f35cdccb97164fd841ec3498f23638c7c54431c8a5a0be9874553c7593c503bd",
     "issp__ahead_bribes.svg": "11c741eb3300afc7a8f19cff0cd5a1fd673a83687dd451488f4280cd4f5dcf9f",
     "issp__ahead_connections.png": "5e8952e3d098e80a46ee321b23346a43f38b5085aa563e9d34f58b8736230c7d",
@@ -211,5 +211,6 @@
     "errors": [],
     "desktopHorizontalOverflow": false
   },
-  "review_date": "2026-09-28"
+  "review_date": "2026-09-28",
+  "homepage_review": "2026-09-28: Revised project title and short introduction inspected in browser; source-specific methods disclosure and citation links verified. All 95 embedded chart records are byte-identical to the preceding gallery."
 }
