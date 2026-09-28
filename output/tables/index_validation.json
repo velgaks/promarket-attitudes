@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "endpoint_and_complete_case_checks": "passed",
+  "weighted_composite_identity": "passed",
+  "lits_binary_rescaling_including_intervals": "passed",
+  "definition": "Fixed equal weights and fixed 0-100 endpoints; no within-wave standardisation",
+  "interpretation": "Descriptive aggregation only. Inspect weighted alpha/correlations; no reliability cutoff or validated common trait is asserted."
+}

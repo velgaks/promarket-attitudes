@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "variables_audited": 2240,
+  "included_items": 47,
+  "item_waves": 63,
+  "html_items": [
+    "gincdif",
+    "imbgeco",
+    "gvctzpv",
+    "grdfinc",
+    "gvctzpvc",
+    "grdfincc"
+  ],
+  "rounds": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    10,
+    11
+  ],
+  "weight": "pspwght; includes design weight; R11 supplied pspwght equals dweight",
+  "checks": [
+    "Ukraine only; unique round/respondent keys",
+    "Adults 18+; missing ages excluded",
+    "All observed codes labelled",
+    "All categorical shares sum to 100",
+    "Actual interview years",
+    "Numeric means retain original 0\u201310 scale",
+    "Weighted/unweighted and common-region sensitivity exported",
+    "Full design retained for age domains"
+  ]
+}

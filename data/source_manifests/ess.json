@@ -1,0 +1,50 @@
+{
+  "acquired": "2026-09-25",
+  "files": [
+    {
+      "file": "data\\raw\\ess\\ESS2e03_6-ESS3e03_7-ESS4e04_6-ESS5e03_6-ESS6e02_7-ESS11e04_2-subset.sav",
+      "sha256": "3aef7081ad1e48f989b7c93ef68f05e922159010a21d894d10d83899b764a852",
+      "bytes": 33020784
+    },
+    {
+      "file": "data/raw/ess/ESS10UAe4.sav",
+      "sha256": "4dd67ab20a1ddf8df15f5000e7302e0fd68bc35a46357afea0e2b47d455c3aa8",
+      "bytes": 1771922
+    }
+  ],
+  "documentation": [
+    {
+      "file": "data\\documentation\\ess\\change.log",
+      "sha256": "a2a942de56f11dc494346c26f25883017322690fa92fc1da6135d252c08f372d"
+    },
+    {
+      "file": "data\\documentation\\ess\\ESS Round 10 UA UKR Source Questionnaire.pdf",
+      "sha256": "0bed74f5cb12ce3774890b1c19a47317ccb869ee5debe14cf991b3fcc2a45527"
+    },
+    {
+      "file": "data\\documentation\\ess\\ESS2_data_documentation_report_e03_7.pdf",
+      "sha256": "a3cc984f4ebd5763b2221884571f24c870c976b1bc0bbd4eae95a3a9c3ca8f3b"
+    },
+    {
+      "file": "data\\documentation\\ess\\README.md",
+      "sha256": "40ed568c6ac1a96c965dd0899af2c9a14de5a2d5551b4ea1029a53b28fb9ca4f"
+    },
+    {
+      "file": "data\\documentation\\ess\\Sampling procedure and weighting.pdf",
+      "sha256": "cbd6963668a12cf050b15a8784507ee2a69d51ca8d93c544a087b2eb7a2dd0db"
+    },
+    {
+      "file": "data\\raw\\ess\\ESS2e03_6-ESS3e03_7-ESS4e04_6-ESS5e03_6-ESS6e02_7-ESS11e04_2-subset codebook.html",
+      "sha256": "152c41ee9802e52a786bbd386029a99c4cf6f64369644941976bf6d60b93a463"
+    }
+  ],
+  "archive": {
+    "file": "data/raw/ess/ESS2e03_6-ESS3e03_7-ESS4e04_6-ESS5e03_6-ESS6e02_7-ESS11e04_2-subset.zip",
+    "sha256": "39c0c137a87c659492023b5f5980b8a075109bd9c3ee98b82afe858c03181013"
+  },
+  "sources": [
+    "https://www.europeansocialsurvey.org/data-portal",
+    "https://github.com/KSE-Sociological-Center/ESS10_Ukraine"
+  ],
+  "instructions": "Download Ukraine, all variables, ESS rounds 2\u20136 and 11 from the ESS data wizard as SPSS plus codebook. Put the supplied subset ZIP and ESS10UAe4.sav in data/raw/ess. R10 is an associated study from the Ukrainian team, not an integrated ESS round. Do not pool duplicate versions."
+}

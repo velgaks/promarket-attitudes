@@ -1,0 +1,4 @@
+﻿survey,year,item,denominator,estimate,se,ci_low,ci_high,n_valid,n_domain,n_psu,design_df,kish_n,weight_sum,weighted,variance_method
+ESS,2009,gincdif__dfincac,all eligible adults,37.543315402659076,1.550475985146649,34.50244236713015,40.584188438188,1798,1798,1845,1844,975.6709010464692,1797.102615531534,True,Approximate weighted respondent linearization; PSU/stratum unavailable in supplied file
+ESS,2009,smdfslv__dfincac,all eligible adults,35.094226583156015,1.5287039807556149,32.09605391945894,38.09239924685309,1798,1798,1845,1844,975.6709010464692,1797.102615531534,True,Approximate weighted respondent linearization; PSU/stratum unavailable in supplied file
+ESS,2009,gincdif__sblazy,all eligible adults,12.825624704811494,1.0960636776313555,10.675968396386562,14.975281013236426,1798,1798,1845,1844,975.6709010464692,1797.102615531534,True,Approximate weighted respondent linearization; PSU/stratum unavailable in supplied file

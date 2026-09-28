@@ -1,0 +1,152 @@
+﻿question,survey,years,items
+Private vs state ownership; benefits vs harms of competition; individual vs government responsibility; income equality vs incentives for effort,WVS,"1996, 2006, 2011, 2020",E036;E039;E037;E035
+Is higher pay fair for a more efficient and reliable secretary?,WVS,"1996, 2006",C059
+Does hard work bring a better life?,WVS,"1996, 2006, 2011, 2020",E040
+Can wealth grow so there is enough for everyone?,WVS,"1996, 2006, 2011",E041
+Is poverty due to laziness rather than unfair treatment?,WVS,1996,E131
+Do poor people have a chance to escape poverty?,WVS,1996,E132
+Are taxing the rich to help the poor and state aid for unemployment essential to democracy?,WVS,"2006, 2011, 2020",E224;E227
+Is state equalisation of incomes essential to democracy?,WVS,"2011, 2020",E233A
+Is claiming benefits to which you are not entitled never justifiable?,WVS,"1996, 2006, 2011, 2020",F114A
+Is cheating on taxes never justifiable?,WVS,"1996, 2006, 2011, 2020",F116
+Confidence in labour unions and major companies,WVS,"1996, 2006, 2011, 2020",E069_05;E069_13
+Do you have confidence in banks?,WVS,"2011, 2020",E069_41
+Do older people receive more than their fair share from government?,WVS,2011,A209
+Would you give part of your income to protect the environment?,WVS,2006,B001
+Would you accept higher taxes to prevent environmental pollution?,WVS,"1996, 2006",B002
+Should government reduce pollution without costing you money?,WVS,2006,B003
+Should economic growth and jobs take priority over environmental protection?,WVS,"1996, 2006, 2011, 2020",B008
+Should owners run businesses or appoint their managers?,WVS,1996,C060
+Should foreign goods be freely imported?,WVS,1996,E062
+Is a free-market economy right for the country’s future?,WVS,1996,E127
+Is the government doing too little to fight poverty?,WVS,1996,E133
+Private vs state ownership; benefits vs harms of competition; individual vs government responsibility; income equality vs incentives for effort,EVS,"1999, 2008, 2020",E036;E039;E037;E035
+Is higher pay fair for a more efficient and reliable secretary?,EVS,1999,C059
+Are taxing the rich to help the poor and state aid for unemployment essential to democracy?,EVS,2020,E224;E227
+Is state equalisation of incomes essential to democracy?,EVS,2020,E233A
+Is claiming government benefits never justifiable (earlier item)?,EVS,"1999, 2008",F114
+Is claiming benefits to which you are not entitled never justifiable?,EVS,2020,F114A
+Is cheating on taxes never justifiable?,EVS,"1999, 2008, 2020",F116
+Confidence in labour unions and major companies,EVS,"1999, 2008, 2020",E069_05;E069_13
+Do you have confidence in the social security system?,EVS,"1999, 2008, 2020",E069_09
+Would you give part of your income to protect the environment?,EVS,"1999, 2008",B001
+Would you accept higher taxes to prevent environmental pollution?,EVS,1999,B002
+Should government reduce pollution without costing you money?,EVS,1999,B003
+Should economic growth and jobs take priority over environmental protection?,EVS,2020,B008
+Should unemployed people accept any available job?,EVS,"1999, 2008, 2020",E038
+Should the state give firms more freedom?,EVS,"1999, 2008",E042
+Should the government take measures to reduce differences in income levels?,ESS,"2005, 2007, 2009, 2011, 2013, 2022, 2024",gincdif
+Importance of poverty protection and reducing income gaps for democracy,ESS,"2013, 2022",gvctzpv;grdfinc
+Income differences as rewards for effort; small living-standard differences as a condition of fairness,ESS,2009,dfincac;smdfslv
+Government decrease/increase taxes and social spending?,ESS,2009,ditxssp
+Business profits vs customer service; collusion to keep prices high; consumer protection,ESS,2005,bsnprft;frmwktg;cmprcti
+Tax honesty; making money honestly; whether society benefits from everyone looking after themselves,ESS,2005,ctzchtx;mnyacth;scbevts
+"Should higher/lower earners receive more, or equal pensions and unemployment benefits?",ESS,2009,earnpen;earnueb
+"Government responsibility for childcare, healthcare, jobs, care leave, pensions and unemployment provision",ESS,2009,gvcldcr;gvhlthc;gvjbevn;gvpdlwk;gvslvol;gvslvue
+Government do more to prevent people falling into poverty?,ESS,2011,gvprppv
+When should immigrants obtain rights to social benefits/services?,ESS,2009,imsclbn
+"Someone paying cash without receipt to avoid VAT or tax, how wrong?",ESS,2005,pyavtxw
+"Effects of social benefits: business taxes, work/family, immigration, equality, laziness, mutual care, self-reliance, poverty and the economy",ESS,2009,sbbsntx;sbcwkfm;sbenccm;sbeqsoc;sblazy;sblwcoa;sblwlka;sbprvpv;sbstrec
+Taxation for higher versus lower earners?,ESS,2009,txearn
+Do employees pretend to be sick; do unemployed people try to find work?,ESS,2009,prtsick;uentrjb
+"Benefit misuse, insufficient help and failure to receive legal entitlements",ESS,2009,bennent;insfben;lbenent
+Fines for unequal pay for equal work; requiring equal parental leave,ESS,2024,fineqpy;eqparlv
+Does government actually protect against poverty and reduce income gaps?,ESS,"2013, 2022",gvctzpvc;grdfincc
+Is immigration bad or good for Ukraine's economy?,ESS,"2005, 2007, 2009, 2011, 2013, 2022, 2024",imbgeco
+Immigrants receive more or less than they contribute?,ESS,2009,imrccon
+"Trust in honest dealings by financial companies, public officials and tradespeople",ESS,2005,tstfnch;tstpboh;tstrprh
+Government should reduce income differences?,ISSP,"2009, 2019",redistribution
+Income differences are too large?,ISSP,"2009, 2019",income_gap
+Government should provide a decent living for unemployed people?,ISSP,"2009, 2019",unemployed_living
+"Should richer people pay higher, the same or lower taxes?",ISSP,"2009, 2019",tax_rich
+Is it fair that richer people can buy better healthcare?,ISSP,"2009, 2019",buy_health
+Is it fair that richer people can buy better education for their children?,ISSP,"2009, 2019",buy_education
+People in wealthy countries should pay additional tax to help poorer countries?,ISSP,2019,aid_tax
+Companies should reduce differences in employee pay?,ISSP,2019,company_pay_gap
+Government should spend less on benefits for poor people?,ISSP,2009,cut_poor_benefits
+Large income differences are necessary for prosperity?,ISSP,2019,inequality_prosperity
+People from poor countries should be allowed to work in wealthy countries?,ISSP,2019,labour_migration
+"What should determine pay: responsibility, qualifications, performance and family needs",ISSP,"2009, 2019",pay_children;pay_education;pay_performance;pay_responsibility
+"What should determine pay: responsibility, qualifications, performance and family needs",ISSP,2009,pay_effort;pay_family
+Who should have the greatest responsibility for reducing income differences?,ISSP,2019,responsibility
+Workers need extra pay to acquire skills and qualifications?,ISSP,2019,skill_premium
+Which shape of society would you prefer for Ukraine?,ISSP,"2009, 2019",society_ideal
+Importance for getting ahead: having ambition?,ISSP,2009,ahead_ambition
+"What helps people get ahead: family resources, education, effort, connections and discrimination",ISSP,"2009, 2019",ahead_bribes;ahead_connections;ahead_education;ahead_gender;ahead_parents;ahead_political;ahead_race;ahead_religion;ahead_wealth;ahead_work
+How angry do differences in wealth between rich and poor make you?,ISSP,2019,anger
+Confidence in business and industry?,ISSP,2008,business_confidence
+Economic conflict between social groups,ISSP,"2009, 2019",conflict_class;conflict_management;conflict_rich_poor
+How much conflict is there between top and bottom of society?,ISSP,2009,conflict_top_bottom
+Getting to the top requires being corrupt?,ISSP,2009,corrupt_to_top
+Students from the best secondary schools have the best chances of university education?,ISSP,2009,elite_school_access
+People have equal chances of entering university regardless of background?,ISSP,2009,equal_university
+Economic differences between rich and poor countries are too large?,ISSP,2019,global_gap
+Is government successful in reducing income differences?,ISSP,2019,gov_success
+Is the income distribution in Ukraine fair?,ISSP,2019,income_fair
+Inequality persists because ordinary people do not unite against it?,ISSP,2019,inequality_collective
+Inequality persists because it benefits the rich and powerful?,ISSP,2019,inequality_power
+Politicians do not care about reducing income differences?,ISSP,2019,politicians_indifferent
+Only the rich can afford university?,ISSP,2009,rich_university
+Which diagram best describes the shape of Ukrainian society?,ISSP,"2009, 2019",society_actual
+Are current taxes on high incomes too high or too low?,ISSP,"2009, 2019",tax_level
+"Estimated monthly earnings of doctors, corporate chairmen, shop assistants, factory workers and ministers (nominal UAH)",ISSP,"2009, 2019",earn_actual_chairman;earn_actual_doctor;earn_actual_minister;earn_actual_shop;earn_actual_worker
+"Preferred monthly earnings of doctors, corporate chairmen, shop assistants, factory workers and ministers (nominal UAH)",ISSP,"2009, 2019",earn_ideal_chairman;earn_ideal_doctor;earn_ideal_minister;earn_ideal_shop;earn_ideal_worker
+Is a market economy preferable to any other economic system?,LiTS,"2006, 2010, 2016",market
+Benefits vs harms of competition; income equality vs incentives; private vs state ownership,LiTS,"2010, 2016",competition;income_incentives;private_ownership
+Should the gap between rich and poor be reduced?,LiTS,"2006, 2010, 2016",reduce_gap
+"What should happen to privatised firms: retain current owners, nationalise or re-privatise?",LiTS,2006,keep_private;nationalise;reprivatise
+"Importance of connections for government jobs, private-sector jobs and permits",LiTS,2016,connections_a;connections_b;connections_d
+Has the gap between rich and poor increased?,LiTS,2016,inequality_increased
+"Why are people poor: bad luck, laziness, injustice or an inevitable part of modern life?",LiTS,"2006, 2010, 2016",poverty_1;poverty_2;poverty_3;poverty_4
+What matters most for success: effort/hard work or intelligence/skills?,LiTS,"2006, 2010, 2016",success_effort;success_skill
+"Trust in banks, foreign investors and trade unions",LiTS,"2006, 2010, 2016",trust_banks;trust_foreign_investors;trust_unions
+Should corporate funding of political parties and candidates be banned?,LiTS,2016,corporate_donations
+"Give income or pay more taxes for education, health, climate action and people in need?",LiTS,"2010, 2016",pay_a;pay_b;pay_c;pay_d
+"State involvement in inequality, employment, energy/food prices, utilities and large companies",LiTS,2006,state_1;state_2;state_3;state_4;state_5;state_6
+"Who deserves state support: elderly people, people with disabilities, veterans, families, working poor, unemployed people or nobody?",LiTS,"2010, 2016",support_1;support_2;support_3;support_4;support_5;support_6;support_7
+Are stricter rules needed against wealthy people’s influence on government?,LiTS,2016,wealth_influence
+"First spending priority: education, health, housing, pensions, infrastructure or environment",LiTS,"2006, 2010, 2016",spend_education;spend_health;spend_housing;spend_pensions;spend_public_infrastructure;spend_the_environment
+First priority for extra government spending: helping the poor?,LiTS,"2010, 2016",spend_helping_the_poor
+Do you approve of the move from a state-controlled to a market economy?,Pew,"1991, 2009, 2011, 2019",transition_approval
+Are most people better off in a free-market economy despite inequality?,Pew,"2002, 2007, 2009, 2014, 2015",free_market_better
+Should government care for very poor people unable to care for themselves?,Pew,2015,government_care_poor
+Do people fail because of individual rather than societal failures?,Pew,"1991, 2011",failure_individual
+Is the rich–poor gap a very big problem?,Pew,2015,inequality_problem
+Are the rich getting richer while the poor get poorer?,Pew,"1991, 2009",rich_richer
+"Importance for getting ahead: education, hard work, connections, bribes, wealthy family and luck",Pew,2014,success_Q66a;success_Q66b;success_Q66c;success_Q66d;success_Q66f;success_Q66g
+Do people get ahead through ability and ambition rather than at others’ expense?,Pew,"1991, 1992, 2011",success_ability
+Is success largely determined by forces outside our control?,Pew,"1991, 2002, 2007, 2009, 2011, 2014",success_outside_control
+Are foreign purchases of domestic companies and new foreign-owned factories good?,Pew,2014,foreign_acquisitions;foreign_factories
+Freedom from state interference vs guaranteeing that nobody is in need,Pew,"1991, 2002, 2009, 2011",freedom_vs_welfare;welfare_vs_freedom
+Reduce inequality through higher taxes and redistribution or lower taxes and growth?,Pew,2014,high_tax_redistribution;low_tax_growth
+Are growing trade and business ties good for Ukraine?,Pew,"2002, 2007, 2011, 2014",trade_good
+"Does trade create jobs, reduce prices and increase wages?",Pew,2014,trade_jobs;trade_prices;trade_wages
+Is the economic situation better than under communism?,Pew,"2009, 2019",better_than_communism
+"Have business people, ordinary people and politicians benefited from post-1991 changes?",Pew,"2009, 2011, 2019",transition_business;transition_ordinary;transition_politicians
+Approve developing private business?,Monitoring,"1992, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2010, 2012, 2014",private_business
+"Support for privatisation: small enterprises, large enterprises and land",Monitoring,"1992, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2021",privatise_small;privatise_large;privatise_land
+"Approval of existing private ownership: small enterprises, large enterprises and land",Monitoring,"2013, 2017, 2020",existing_private_small;existing_private_large;existing_private_land
+"Return private assets to the state: small enterprises, large enterprises and land",Monitoring,"2013, 2017, 2020",renationalise_small;renationalise_large;renationalise_land
+"Was privatisation worth doing: small enterprises, large enterprises and land?",Monitoring,"2013, 2017, 2020",retrospective_small;retrospective_large;retrospective_land
+"Preferred system: minimal state involvement, mixed state/market economy or planning",Monitoring,"2002, 2003, 2004, 2005, 2006, 2008, 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2021",state_role_minimal_state_market;state_role_mixed_state_market;state_role_planned_economy
+"Ownership policy: broad/selective privatisation, retaining state firms or nationalisation",Monitoring,"2023, 2024, 2025",ownership_policy_broad_privatisation;ownership_policy_nationalise;ownership_policy_privatise_except_efficient_state_firms;ownership_policy_retain_state_firms
+"Conflict between managers and workers, owners and employees, and rich and poor",Monitoring,2017,manager_worker_conflict;owner_worker_conflict;rich_poor_conflict
+"Do you accept the post-independence values of private property, enrichment, individualism and personal success?",Monitoring,"2013, 2015, 2019",accept_market_values
+Is the opportunity for entrepreneurial initiative important?,Monitoring,"2002, 2003, 2006, 2009, 2012, 2014, 2016, 2018, 2020",enterprise_initiative
+Have you adapted to the new life and found market relations a natural way of living?,Monitoring,"2003, 2007, 2009, 2012, 2013, 2014, 2015, 2019, 2021",market_relations_natural
+Feelings towards small/large business owners and landowners farming themselves or hiring workers,Monitoring,2019,respect_owners_1;respect_owners_2;respect_owners_3;respect_owners_4
+Would you like to start your own business?,Monitoring,"2004, 2005, 2006, 2008, 2010, 2012, 2014, 2016, 2020",start_business
+Is claiming state support to which one is not entitled never justified?,Monitoring,2019,benefits_never
+"Responsibilities of business: taxes/investment/jobs, working conditions, training, environment, politics, charity, culture/sport and regional problems",Monitoring,2019,business_duty_1;business_duty_2;business_duty_3;business_duty_4;business_duty_5;business_duty_6;business_duty_7;business_duty_8
+Is not paying taxes when possible never justified?,Monitoring,2019,tax_never
+Trust in banks and trade unions,Monitoring,"2002, 2004, 2005, 2006, 2008, 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021",trust_banks;trust_unions
+Do you trust private entrepreneurs?,Monitoring,"1994, 1996, 1998, 2000, 2006, 2008, 2010, 2012, 2013, 2014, 2015",trust_private_entrepreneurs
+Do you trust managers of state enterprises?,Monitoring,"1994, 1996, 1998, 2000, 2006, 2008, 2010, 2012, 2013, 2014, 2015, 2020",trust_state_managers
+Do you trust the tax authority?,Monitoring,"2004, 2006, 2008, 2010, 2012, 2013, 2014, 2015, 2016, 2018, 2021",trust_tax_authority
+"Anti-crisis measures: nationalisation/privatisation, taxes on big business, West/Russia ties, wages, IMF policy, industrial/SME jobs, foreign/domestic capital and land sales",Monitoring,2017,crisis_1;crisis_2;crisis_3;crisis_4;crisis_5;crisis_6;crisis_7;crisis_8;crisis_9;crisis_10;crisis_11;crisis_12;crisis_13
+Full land ownership including right to sell?,Monitoring,"2017, 2019, 2020",land_ownership_rights
+Allow buying and selling agricultural land?,Monitoring,"2017, 2019, 2021",land_sales_agricultural
+Allow buying and selling land (general wording)?,Monitoring,"1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2005, 2006, 2008, 2010, 2012, 2014, 2016, 2018",land_sales_general
+"Preferred ownership mix: private, mixed or state",Monitoring,2015,ownership_mixed;ownership_private;ownership_state
+Support political forces advocating capitalism?,Monitoring,"1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2010, 2011, 2012, 2014, 2016",socialism_capitalism_political_support
+Willing to work for a private employer?,Monitoring,"1992, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2010, 2012, 2014, 2019, 2021",work_private_employer

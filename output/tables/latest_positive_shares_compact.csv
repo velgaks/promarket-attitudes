@@ -1,0 +1,285 @@
+﻿question,survey,year,positive_pct,positive_definition,kind
+Is higher pay fair for a more efficient and reliable secretary?,WVS,2006,87.7202739964271,Fair,Belief
+Does hard work bring a better life?,WVS,2020,58.617816010861546,Market-oriented half of the 1–10 scale,Belief
+Can wealth grow so there is enough for everyone?,WVS,2011,45.121086979058845,Market-oriented half of the 1–10 scale,Belief
+Is poverty due to laziness rather than unfair treatment?,WVS,1996,11.987127916331456,Choose laziness / lack of willpower,Belief
+Do poor people have a chance to escape poverty?,WVS,1996,18.95953757225433,Have a chance,Belief
+Is taxing the rich to subsidise the poor essential to democracy?,WVS,2020,75.41760106008672,6–10 on essential-to-democracy scale,Democracy concept
+Is state aid for unemployment essential to democracy?,WVS,2020,85.70155821633625,6–10 on essential-to-democracy scale,Democracy concept
+Is state equalisation of incomes essential to democracy?,WVS,2020,77.46548192975985,6–10 on essential-to-democracy scale,Democracy concept
+Is claiming benefits to which you are not entitled never justifiable?,WVS,2020,43.012888632683314,Never justifiable (1 of 10),Economic norm
+Is cheating on taxes never justifiable?,WVS,2020,41.81601326930042,Never justifiable (1 of 10),Economic norm
+Do you have confidence in labour unions?,WVS,2020,28.505155398567187,A great deal / quite a lot,Institutional trust
+Do you have confidence in major companies?,WVS,2020,43.85046692833399,A great deal / quite a lot,Institutional trust
+Do you have confidence in banks?,WVS,2020,33.365083986711774,A great deal / quite a lot,Institutional trust
+Do older people receive more than their fair share from government?,WVS,2011,5.589031725700767,Strongly agree / agree,Policy
+Would you give part of your income to protect the environment?,WVS,2006,45.53859758460967,Strongly agree / agree,Policy
+Would you accept higher taxes to prevent environmental pollution?,WVS,2006,47.08569889093653,Strongly agree / agree,Policy
+Should government reduce pollution without costing you money?,WVS,2006,89.5460907677646,Strongly agree / agree,Policy
+Should economic growth and jobs take priority over environmental protection?,WVS,2020,49.83682628206368,Choose economic growth and jobs,Policy
+Should owners run businesses or appoint their managers?,WVS,1996,23.31983805668016,Choose owners / appointed managers,Policy
+Should income differences provide incentives for effort?,WVS,2020,57.74433975303559,Market-oriented half of the 1–10 scale,Policy
+Should private ownership of business increase?,WVS,2020,44.26983995841551,Market-oriented half of the 1–10 scale,Policy
+Should individuals take more responsibility for providing for themselves?,WVS,2020,32.862585465046514,Market-oriented half of the 1–10 scale,Policy
+Is competition beneficial?,WVS,2020,73.21816834294273,Market-oriented half of the 1–10 scale,Policy
+Should foreign goods be freely imported?,WVS,1996,59.902399349329,Choose freely imported goods,Policy
+Is a free-market economy right for the country’s future?,WVS,1996,40.65510597302505,Right,Policy
+Is the government doing too little to fight poverty?,WVS,1996,91.3141993957704,Too little,Policy
+Is higher pay fair for a more efficient and reliable secretary?,EVS,1999,91.788309125531,Fair,Belief
+Is taxing the rich to subsidise the poor essential to democracy?,EVS,2020,78.76807484925789,6–10 on essential-to-democracy scale,Democracy concept
+Is state aid for unemployment essential to democracy?,EVS,2020,83.91161062738232,6–10 on essential-to-democracy scale,Democracy concept
+Is state equalisation of incomes essential to democracy?,EVS,2020,74.85916947640558,6–10 on essential-to-democracy scale,Democracy concept
+Is claiming government benefits never justifiable (earlier item)?,EVS,2008,65.26240836671874,Never justifiable (1 of 10),Economic norm
+Is claiming benefits to which you are not entitled never justifiable?,EVS,2020,49.89328248474507,Never justifiable (1 of 10),Economic norm
+Is cheating on taxes never justifiable?,EVS,2020,48.0894561872724,Never justifiable (1 of 10),Economic norm
+Do you have confidence in labour unions?,EVS,2020,37.509868176993926,A great deal / quite a lot,Institutional trust
+Do you have confidence in the social security system?,EVS,2020,43.29033496663624,A great deal / quite a lot,Institutional trust
+Do you have confidence in major companies?,EVS,2020,31.541246387515205,A great deal / quite a lot,Institutional trust
+Would you give part of your income to protect the environment?,EVS,2008,78.38433285121113,Strongly agree / agree,Policy
+Would you accept higher taxes to prevent environmental pollution?,EVS,1999,49.528767832032266,Strongly agree / agree,Policy
+Should government reduce pollution without costing you money?,EVS,1999,80.69404179736027,Strongly agree / agree,Policy
+Should economic growth and jobs take priority over environmental protection?,EVS,2020,37.394736422445824,Choose economic growth and jobs,Policy
+Should income differences provide incentives for effort?,EVS,2020,63.40615960492593,Market-oriented half of the 1–10 scale,Policy
+Should private ownership of business increase?,EVS,2020,40.13741132560869,Market-oriented half of the 1–10 scale,Policy
+Should individuals take more responsibility for providing for themselves?,EVS,2020,45.11949591836309,Market-oriented half of the 1–10 scale,Policy
+Should unemployed people accept any available job?,EVS,2020,46.61592979938788,Market-oriented half of the 1–10 scale,Policy
+Is competition beneficial?,EVS,2020,65.9657324403444,Market-oriented half of the 1–10 scale,Policy
+Should the state give firms more freedom?,EVS,2008,35.44038915624964,Market-oriented half of the 1–10 scale,Policy
+Are connections important for obtaining a government job?,LiTS,2016,44.6861257887135,Very important / essential,Belief
+Are connections important for obtaining a private-sector job?,LiTS,2016,40.8914402705131,Very important / essential,Belief
+Are connections important for obtaining permits or official papers?,LiTS,2016,24.396286892691997,Very important / essential,Belief
+Has the gap between rich and poor increased?,LiTS,2016,73.69477169109076,Became larger,Belief
+Why are some people poor: bad luck?,LiTS,2016,6.3127788911281,Choose named explanation,Belief
+Why are some people poor: laziness and lack of willpower?,LiTS,2016,16.11119180004102,Choose named explanation,Belief
+Why are some people poor: injustice in society?,LiTS,2016,55.82254519703904,Choose named explanation,Belief
+Why are some people poor: an inevitable part of modern life?,LiTS,2016,19.30237640467727,Choose named explanation,Belief
+What matters most for success: effort and hard work?,LiTS,2016,34.307569422365205,Choose effort and hard work,Belief
+What matters most for success: intelligence and skills?,LiTS,2016,28.58426242144904,Choose intelligence and skills,Belief
+Do you trust banks and the financial system?,LiTS,2016,11.576793752940189,Some / complete trust,Institutional trust
+Do you trust foreign investors?,LiTS,2016,16.762590027795667,Some / complete trust,Institutional trust
+Do you trust trade unions?,LiTS,2016,17.271685950035565,Some / complete trust,Institutional trust
+Is competition beneficial?,LiTS,2016,73.16217602004092,Market-oriented half of the 1–10 scale,Policy
+Should corporate funding of political parties and candidates be banned?,LiTS,2016,81.70493359473699,1–5: ban-funding half of scale,Policy
+Should larger income differences reward individual effort?,LiTS,2016,16.47846758925651,Market-oriented half of the 1–10 scale,Policy
+Should privatised firms remain with current owners (possibly after additional payment)?,LiTS,2006,44.5269728321473,Choose named option(s),Policy
+Is a market economy preferable to any other economic system?,LiTS,2016,36.641876421943046,Market economy preferable,Policy
+Should privatised firms return permanently to state ownership?,LiTS,2006,43.02457889868677,Choose named option(s),Policy
+Would you give income or pay more taxes for public education?,LiTS,2016,45.06753944236533,Yes,Policy
+Would you give income or pay more taxes for public health?,LiTS,2016,52.82219585091233,Yes,Policy
+Would you give income or pay more taxes for combating climate change?,LiTS,2016,28.388485159293992,Yes,Policy
+Would you give income or pay more taxes for helping people in need?,LiTS,2016,47.40756647325151,Yes,Policy
+Should private ownership of business increase?,LiTS,2016,58.514113742038525,Market-oriented half of the 1–10 scale,Policy
+Should the gap between rich and poor be reduced?,LiTS,2016,62.11570196761951,Agree / strongly agree,Policy
+Should privatised firms be nationalised and then re-privatised?,LiTS,2006,12.44844826916593,Choose named option(s),Policy
+Should the state reduce inequality?,LiTS,2006,97.20606744475464,Moderate or strong state involvement,Policy
+Should the state guarantee employment?,LiTS,2006,99.30902484562384,Moderate or strong state involvement,Policy
+Should the state keep electricity and gas prices low?,LiTS,2006,98.96129061281732,Moderate or strong state involvement,Policy
+Should the state keep basic food prices low?,LiTS,2006,98.90837079826208,Moderate or strong state involvement,Policy
+Should the state own public utilities?,LiTS,2006,95.75843715482644,Moderate or strong state involvement,Policy
+Should the state own large companies?,LiTS,2006,91.81126312812142,Moderate or strong state involvement,Policy
+Who deserves government support: elderly people?,LiTS,2016,94.5038812122864,Selected; all respondents with recorded checkbox,Policy
+Who deserves government support: people with disabilities?,LiTS,2016,95.1828227119131,Selected; all respondents with recorded checkbox,Policy
+Who deserves government support: war veterans?,LiTS,2016,94.20238965218626,Selected; all respondents with recorded checkbox,Policy
+Who deserves government support: families with children?,LiTS,2016,87.97273604197706,Selected; all respondents with recorded checkbox,Policy
+Who deserves government support: the working poor?,LiTS,2016,69.76597101727933,Selected; all respondents with recorded checkbox,Policy
+Who deserves government support: unemployed people?,LiTS,2016,70.96480109877089,Selected; all respondents with recorded checkbox,Policy
+Who deserves government support: nobody?,LiTS,2016,1.4126143220055152,Selected; all respondents with recorded checkbox,Policy
+Are stricter rules needed against wealthy people’s influence on government?,LiTS,2016,57.23804930066641,6–10: stricter-rules half of scale,Policy
+First priority for extra government spending: education?,LiTS,2016,14.730407472709608,First priority selected,Spending priority
+First priority for extra government spending: health?,LiTS,2016,34.86555505390756,First priority selected,Spending priority
+First priority for extra government spending: helping the poor?,LiTS,2016,7.662997800401251,First priority selected,Spending priority
+First priority for extra government spending: housing?,LiTS,2016,11.821460504693457,First priority selected,Spending priority
+First priority for extra government spending: pensions?,LiTS,2016,18.387680119136736,First priority selected,Spending priority
+First priority for extra government spending: public infrastructure?,LiTS,2016,7.952836892055046,First priority selected,Spending priority
+First priority for extra government spending: the environment?,LiTS,2016,1.5980388095936802,First priority selected,Spending priority
+Do people fail because of individual rather than societal failures?,Pew,2011,40.0,Individual failures,Belief
+Is the rich–poor gap a very big problem?,Pew,2015,60.0,Very big problem,Belief
+Are the rich getting richer while the poor get poorer?,Pew,2009,84.0,Completely / mostly agree,Belief
+Is education important for getting ahead?,Pew,2014,96.0,6–10 on importance scale (0–10),Belief
+Is hard work important for getting ahead?,Pew,2014,97.0,6–10 on importance scale (0–10),Belief
+Is knowing the right people important for getting ahead?,Pew,2014,86.0,6–10 on importance scale (0–10),Belief
+Is giving bribes important for getting ahead?,Pew,2014,28.0,6–10 on importance scale (0–10),Belief
+Is being from a wealthy family important for getting ahead?,Pew,2014,73.0,6–10 on importance scale (0–10),Belief
+Is luck important for getting ahead?,Pew,2014,89.0,6–10 on importance scale (0–10),Belief
+Do people get ahead through ability and ambition rather than at others’ expense?,Pew,2011,32.0,Ability and ambition,Belief
+Is success largely determined by forces outside our control?,Pew,2014,55.0,Completely / mostly agree,Belief
+Are foreign purchases of domestic companies good for the country?,Pew,2014,38.0,Very / somewhat good,Policy
+Are foreign companies building new factories good for the country?,Pew,2014,67.0,Very / somewhat good,Policy
+Are most people better off in a free-market economy despite inequality?,Pew,2015,47.0,Published net agree,Policy
+Is freedom from state interference more important than guaranteeing nobody is in need?,Pew,2011,21.0,Freedom from interference,Policy
+Should government care for very poor people unable to care for themselves?,Pew,2015,92.0,Published net agree,Policy
+Would higher taxes on the wealthy and corporations reduce inequality by funding help for the poor?,Pew,2014,48.0,Choose high taxes,Policy
+Would low taxes on the wealthy and corporations reduce inequality by encouraging growth?,Pew,2014,14.0,Choose low taxes,Policy
+Are growing trade and business ties good for Ukraine?,Pew,2014,84.0,Very / somewhat good,Policy
+Does trade create jobs?,Pew,2014,61.0,Create jobs,Policy
+Does trade reduce prices?,Pew,2014,29.0,Decrease prices,Policy
+Does trade increase workers’ wages?,Pew,2014,50.0,Increase wages,Policy
+Do you approve of the move from a state-controlled to a market economy?,Pew,2019,47.0,Strongly / somewhat approve,Policy
+Is guaranteeing nobody is in need more important than freedom from state interference?,Pew,2011,75.0,Nobody in need,Policy
+Is the economic situation better than under communism?,Pew,2019,25.0,Better,Transition assessment
+Have business people benefited from the post-1991 changes?,Pew,2019,89.0,A great deal / a fair amount,Transition assessment
+Have ordinary people benefited from the post-1991 changes?,Pew,2019,21.0,A great deal / a fair amount,Transition assessment
+Have politicians benefited from the post-1991 changes?,Pew,2019,88.0,A great deal / a fair amount,Transition assessment
+Is conflict between managers and subordinates acute?,Monitoring,2017,26.5,Acute / very acute,Belief
+Is conflict between employees and owners acute?,Monitoring,2017,25.4,Acute / very acute,Belief
+Is conflict between rich and poor acute?,Monitoring,2017,46.7,Acute / very acute,Belief
+"Do you accept the post-independence values of private property, enrichment, individualism and personal success?",Monitoring,2019,44.2,Definitely / rather yes,Business orientation
+Is the opportunity for entrepreneurial initiative important?,Monitoring,2020,53.1,Rather / very important,Business orientation
+Have you adapted to the new life and found market relations a natural way of living?,Monitoring,2021,23.3,Select this description of adaptation,Business orientation
+What feeling do small-business owners evoke?,Monitoring,2019,32.7,Respect,Business orientation
+What feeling do large-business owners evoke?,Monitoring,2019,27.1,Respect,Business orientation
+What feeling do landowners farming themselves evoke?,Monitoring,2019,53.9,Respect,Business orientation
+What feeling do landowners hiring workers evoke?,Monitoring,2019,35.2,Respect,Business orientation
+Would you like to start your own business?,Monitoring,2020,37.1,Yes / rather yes,Business orientation
+Is claiming state support to which one is not entitled never justified?,Monitoring,2019,61.8,Never justified,Economic norm
+"What should socially responsible business do: pay taxes, invest and create jobs?",Monitoring,2019,74.8,Selected (up to three choices),Economic norm
+What should socially responsible business do: improve working conditions?,Monitoring,2019,45.7,Selected (up to three choices),Economic norm
+What should socially responsible business do: train employees?,Monitoring,2019,20.9,Selected (up to three choices),Economic norm
+What should socially responsible business do: act responsibly towards the environment?,Monitoring,2019,36.5,Selected (up to three choices),Economic norm
+What should socially responsible business do: enter politics and govern?,Monitoring,2019,6.8,Selected (up to three choices),Economic norm
+What should socially responsible business do: provide charity?,Monitoring,2019,18.1,Selected (up to three choices),Economic norm
+What should socially responsible business do: sponsor culture and sport?,Monitoring,2019,11.1,Selected (up to three choices),Economic norm
+What should socially responsible business do: finance solutions to regional problems?,Monitoring,2019,31.0,Selected (up to three choices),Economic norm
+Is not paying taxes when possible never justified?,Monitoring,2019,60.1,Never justified,Economic norm
+Do you trust banks?,Monitoring,2021,15.8,Mostly / completely trust,Institutional trust
+Do you trust private entrepreneurs?,Monitoring,2015,21.5,Mostly / completely trust,Institutional trust
+Do you trust managers of state enterprises?,Monitoring,2020,11.2,Mostly / completely trust,Institutional trust
+Do you trust the tax authority?,Monitoring,2021,20.7,Mostly / completely trust,Institutional trust
+Do you trust trade unions?,Monitoring,2021,15.6,Mostly / completely trust,Institutional trust
+Which measures would end the crisis: nationalise strategic private firms?,Monitoring,2017,33.8,Selected (multiple answers allowed),Policy
+Which measures would end the crisis: create jobs mainly in large industrial firms?,Monitoring,2017,42.3,Selected (multiple answers allowed),Policy
+Which measures would end the crisis: attract mainly foreign capital?,Monitoring,2017,23.6,Selected (multiple answers allowed),Policy
+Which measures would end the crisis: use mainly domestic capital?,Monitoring,2017,24.6,Selected (multiple answers allowed),Policy
+Which measures would end the crisis: allow agricultural land sales?,Monitoring,2017,3.3,Selected (multiple answers allowed),Policy
+Which measures would end the crisis: privatise strategic state firms?,Monitoring,2017,8.2,Selected (multiple answers allowed),Policy
+Which measures would end the crisis: raise taxes on big business?,Monitoring,2017,25.4,Selected (multiple answers allowed),Policy
+Which measures would end the crisis: increase economic cooperation with the West?,Monitoring,2017,31.6,Selected (multiple answers allowed),Policy
+Which measures would end the crisis: increase economic cooperation with Russia?,Monitoring,2017,13.9,Selected (multiple answers allowed),Policy
+Which measures would end the crisis: substantially raise industrial wages?,Monitoring,2017,23.3,Selected (multiple answers allowed),Policy
+Which measures would end the crisis: follow IMF reform recommendations?,Monitoring,2017,7.2,Selected (multiple answers allowed),Policy
+Which measures would end the crisis: reject IMF reform recommendations?,Monitoring,2017,13.8,Selected (multiple answers allowed),Policy
+Which measures would end the crisis: create jobs mainly in small and medium businesses?,Monitoring,2017,39.5,Selected (multiple answers allowed),Policy
+Do you favour existing private ownership of land?,Monitoring,2020,39.7,Positive / rather positive,Policy
+Do you favour existing private ownership of large enterprises?,Monitoring,2020,49.1,Positive / rather positive,Policy
+Do you favour existing private ownership of small enterprises?,Monitoring,2020,71.4,Positive / rather positive,Policy
+Full land ownership including right to sell?,Monitoring,2020,37.4,full ownership including sale,Policy
+Allow buying and selling agricultural land?,Monitoring,2021,22.5,yes,Policy
+Allow buying and selling land (general wording)?,Monitoring,2018,22.6,yes,Policy
+Should Ukraine’s economy be based on a mix of state and private ownership?,Monitoring,2015,45.8,Choose named ownership structure,Policy
+Broad privatisation?,Monitoring,2025,9.8,broad privatisation,Policy
+Nationalise private enterprises?,Monitoring,2025,25.6,nationalise,Policy
+Privatise except efficient state enterprises?,Monitoring,2025,36.2,privatise except efficient state firms,Policy
+Retain existing state enterprises?,Monitoring,2025,18.1,retain state firms,Policy
+Should Ukraine’s economy be based on mainly or exclusively private ownership?,Monitoring,2015,11.3,Choose named ownership structure,Policy
+Should Ukraine’s economy be based on mainly or exclusively state ownership?,Monitoring,2015,26.3,Choose named ownership structure,Policy
+Approve developing private business?,Monitoring,2014,60.2,rather approve / strongly approve,Policy
+Do you favour privatisation of land?,Monitoring,2021,20.7,Positive,Policy
+Do you favour privatisation of large enterprises?,Monitoring,2021,17.9,Positive,Policy
+Do you favour privatisation of small enterprises?,Monitoring,2021,31.0,Positive,Policy
+Do you oppose returning privately owned land to the state?,Monitoring,2020,35.5,No / rather no to renationalisation,Policy
+Do you oppose returning privately owned large enterprises to the state?,Monitoring,2020,28.4,No / rather no to renationalisation,Policy
+Do you oppose returning privately owned small enterprises to the state?,Monitoring,2020,60.900000000000006,No / rather no to renationalisation,Policy
+Was privatisation of land worth doing?,Monitoring,2020,27.9,Yes / rather yes,Policy
+Was privatisation of large enterprises worth doing?,Monitoring,2020,21.700000000000003,Yes / rather yes,Policy
+Was privatisation of small enterprises worth doing?,Monitoring,2020,49.7,Yes / rather yes,Policy
+Support political forces advocating capitalism?,Monitoring,2016,13.4,capitalism,Policy
+Market with minimal state involvement?,Monitoring,2021,9.9,minimal state market,Policy
+Combine state management and market methods?,Monitoring,2021,44.6,mixed state market,Policy
+Return to a planned economy?,Monitoring,2021,27.2,planned economy,Policy
+Willing to work for a private employer?,Monitoring,2021,53.5,rather yes / yes,Policy
+"Businesses only interested in profit, not improve service/quality?",ESS,2005,66.74495076253223,Agree / agree strongly,Policy
+Citizens should not cheat on taxes?,ESS,2005,61.861996971338456,Agree / agree strongly,Policy
+Large differences in income acceptable to reward talents and efforts?,ESS,2009,57.626342612170994,Agree / agree strongly,Policy
+Government decrease/increase taxes and social spending?,ESS,2009,23.03613297577594,6–10 on the original 0–10 scale (above its midpoint),Policy
+Higher or lower earners should get larger old age pensions?,ESS,2009,18.977970418532347,High and low earners should receive the same amount,Policy
+Higher or lower earners should get larger unemployment benefits?,ESS,2009,45.76876522940916,High and low earners should receive the same amount,Policy
+Nowadays large firms work together in order to keep prices high?,ESS,2005,69.32915859595704,Agree / agree strongly,Policy
+Should the government take measures to reduce differences in income levels?,ESS,2024,63.54036240346202,Agree / agree strongly,Policy
+How important is government reduction of income differences for democracy?,ESS,2022,91.27259400630516,6–10 on the original 0–10 scale (above its midpoint),Policy
+"Child care services for working parents, governments' responsibility?",ESS,2009,82.24621078454642,6–10 on the original 0–10 scale (above its midpoint),Policy
+How important is government protection against poverty for democracy?,ESS,2022,95.53567418310269,6–10 on the original 0–10 scale (above its midpoint),Policy
+"Health care for the sick, governments' responsibility?",ESS,2009,94.31602097960592,6–10 on the original 0–10 scale (above its midpoint),Policy
+"Job for everyone, governments' responsibility?",ESS,2009,88.92790288512275,6–10 on the original 0–10 scale (above its midpoint),Policy
+"Paid leave from work to care for sick family, governments' responsibility?",ESS,2009,82.06698359265368,6–10 on the original 0–10 scale (above its midpoint),Policy
+Government do more to prevent people falling into poverty?,ESS,2011,91.04972156093466,Agree / agree strongly,Policy
+"Standard of living for the old, governments' responsibility?",ESS,2009,94.25404021677076,6–10 on the original 0–10 scale (above its midpoint),Policy
+"Standard of living for the unemployed, governments' responsibility?",ESS,2009,79.95752735689796,6–10 on the original 0–10 scale (above its midpoint),Policy
+When should immigrants obtain rights to social benefits/services?,ESS,2009,24.44317305978492,After working and paying taxes for at least a year,Policy
+"If you want to make money, you can't always act honestly?",ESS,2005,50.24054391784035,Agree / agree strongly,Policy
+"Someone paying cash without receipt to avoid VAT or tax, how wrong?",ESS,2005,51.08373190511021,Wrong / seriously wrong,Policy
+Social benefits/services cost businesses too much in taxes/charges?,ESS,2009,25.754162846680288,Agree / agree strongly,Policy
+Social benefits/services make it easier to combine work and family?,ESS,2009,23.941618624377583,Agree / agree strongly,Policy
+Social benefits/services encourage people other countries to come live here?,ESS,2009,13.935973373757076,Agree / agree strongly,Policy
+Social benefits/services lead to a more equal society?,ESS,2009,26.93143498854972,Agree / agree strongly,Policy
+Social benefits/services make people lazy?,ESS,2009,17.987573096985933,Agree / agree strongly,Policy
+Social benefits/services make people less willing care for one another?,ESS,2009,14.09599316307597,Agree / agree strongly,Policy
+Social benefits/services make people less willing look after themselves/family?,ESS,2009,12.808948067294372,Agree / agree strongly,Policy
+Social benefits/services prevent widespread poverty?,ESS,2009,32.809706536870685,Agree / agree strongly,Policy
+Social benefits/services place too great strain on economy?,ESS,2009,20.96296570993309,Agree / agree strongly,Policy
+Society better off if everyone looked after themselves?,ESS,2005,20.809096377149466,Agree / agree strongly,Policy
+"For fair society, differences in standard of living should be small?",ESS,2009,62.49857848855093,Agree / agree strongly,Policy
+Taxation for higher versus lower earners?,ESS,2009,42.63278384735053,Higher earners should pay a higher share of earnings in tax,Policy
+Most unemployed people do not really try to find a job?,ESS,2009,29.768023611370733,Agree / agree strongly,Policy
+Many manage to obtain benefits/services not entitled to?,ESS,2009,55.30669453122287,Agree / agree strongly,Related
+Nowadays customer/consumer are in better position to protect interest?,ESS,2005,29.876195586636182,Agree / agree strongly,Related
+Require both parents to take equal periods of paid leave to care for their child?,ESS,2024,57.72315608768739,In favour / strongly in favour,Related
+Making businesses pay a fine when they pay men more than women for doing the same work?,ESS,2024,62.64088447907263,In favour / strongly in favour,Related
+To what extent does the government in Ukraine reduce income differences?,ESS,2022,6.634862992202699,6–10 on the original 0–10 scale (above its midpoint),Related
+To what extent does the government in Ukraine protect citizens against poverty?,ESS,2022,6.500059978344628,6–10 on the original 0–10 scale (above its midpoint),Related
+Is immigration bad or good for Ukraine's economy?,ESS,2024,50.42265976906078,6–10 on the original 0–10 scale (above its midpoint),Related
+Immigrants receive more or less than they contribute?,ESS,2009,15.436523453043923,6–10 on the original 0–10 scale (above its midpoint),Related
+Insufficient benefits in country to help people in real need?,ESS,2009,52.45991118282318,Agree / agree strongly,Related
+Many with very low incomes get less benefit than legally entitled to?,ESS,2009,54.51727308150552,Agree / agree strongly,Related
+Employees often pretend they are sick to stay at home?,ESS,2009,21.33173829473617,Agree / agree strongly,Related
+Trust financial companies/bank/insurers deal honestly with you?,ESS,2005,24.462597920713662,6–10 on the original 0–10 scale (above its midpoint),Related
+Trust public officials deal honestly with you?,ESS,2005,17.27185795087818,6–10 on the original 0–10 scale (above its midpoint),Related
+Trust plumber/builder/mechanic/other repairer deal honestly with you?,ESS,2005,20.74890699331977,6–10 on the original 0–10 scale (above its midpoint),Related
+People in wealthy countries should pay additional tax to help poorer countries?,ISSP,2019,47.644841217483965,Agree,Policy
+Is it fair that richer people can buy better education for their children?,ISSP,2019,26.30777160804368,Fair,Policy
+Is it fair that richer people can buy better healthcare?,ISSP,2019,26.801171669108797,Fair,Policy
+Companies should reduce differences in employee pay?,ISSP,2019,74.95366497050432,Agree,Policy
+Government should spend less on benefits for poor people?,ISSP,2009,11.040284075860994,Agree,Policy
+Large income differences are necessary for prosperity?,ISSP,2019,26.660220346156454,Agree,Policy
+People from poor countries should be allowed to work in wealthy countries?,ISSP,2019,79.6260707427945,Agree,Policy
+What should determine pay: children to support?,ISSP,2019,41.18825647394333,Essential / very important,Policy
+What should determine pay: education and training?,ISSP,2019,56.90353763902931,Essential / very important,Policy
+What should determine pay: how hard the person works?,ISSP,2009,75.27902393036094,Essential / very important,Policy
+What should determine pay: what is needed to support a family?,ISSP,2009,51.68590789184729,Essential / very important,Policy
+What should determine pay: how well the job is done?,ISSP,2019,77.41432142788007,Essential / very important,Policy
+What should determine pay: job responsibility?,ISSP,2019,74.9694406034581,Essential / very important,Policy
+Government should reduce income differences?,ISSP,2019,85.64373515578296,Agree,Policy
+Who should have the greatest responsibility for reducing income differences?,ISSP,2019,79.36104933095653,Government has greatest responsibility,Policy
+Workers need extra pay to acquire skills and qualifications?,ISSP,2019,73.49662337213704,Agree,Policy
+Which shape of society would you prefer for Ukraine?,ISSP,2019,36.64470852506513,"Type D: most people in the middle (named preference, not a pro-market score)",Policy
+"Should richer people pay higher, the same or lower taxes?",ISSP,2019,78.4862995314572,Higher taxes,Policy
+Government should provide a decent living for unemployed people?,ISSP,2019,84.45148734903535,Agree,Policy
+Importance for getting ahead: having ambition?,ISSP,2009,44.665741953250695,Essential / very important,Related
+Importance for getting ahead: giving bribes?,ISSP,2019,7.091837966137225,Essential / very important,Related
+Importance for getting ahead: knowing the right people?,ISSP,2019,44.4878360915236,Essential / very important,Related
+Importance for getting ahead: having a good education?,ISSP,2019,56.11796085473498,Essential / very important,Related
+Importance for getting ahead: being born a man or woman?,ISSP,2019,9.84155075095641,Essential / very important,Related
+Importance for getting ahead: having well-educated parents?,ISSP,2019,32.80466001745741,Essential / very important,Related
+Importance for getting ahead: political connections?,ISSP,2019,19.64736788495362,Essential / very important,Related
+Importance for getting ahead: ethnic background (nationality)?,ISSP,2019,11.465902671762056,Essential / very important,Related
+Importance for getting ahead: a person’s religion?,ISSP,2019,11.761575266522314,Essential / very important,Related
+Importance for getting ahead: coming from a wealthy family?,ISSP,2019,26.841400933276294,Essential / very important,Related
+Importance for getting ahead: hard work?,ISSP,2019,48.85228692568098,Essential / very important,Related
+How angry do differences in wealth between rich and poor make you?,ISSP,2019,33.95128645884635,6–10 (above the scale midpoint),Related
+Confidence in business and industry?,ISSP,2008,8.571132436124875,High confidence,Related
+How much conflict is there between working and middle classes?,ISSP,2019,18.087074321251265,Strong conflicts,Related
+How much conflict is there between management and workers?,ISSP,2019,36.224232783528585,Strong conflicts,Related
+How much conflict is there between rich and poor?,ISSP,2019,48.083465171720064,Strong conflicts,Related
+How much conflict is there between top and bottom of society?,ISSP,2009,48.69628141112667,Strong conflicts,Related
+Getting to the top requires being corrupt?,ISSP,2009,56.95238533846825,Agree,Related
+Students from the best secondary schools have the best chances of university education?,ISSP,2009,48.78611849592155,Agree,Related
+People have equal chances of entering university regardless of background?,ISSP,2009,29.104215998878978,Agree,Related
+Economic differences between rich and poor countries are too large?,ISSP,2019,90.41380941285972,Agree,Related
+Is government successful in reducing income differences?,ISSP,2019,8.151418006039833,Successful,Related
+Is the income distribution in Ukraine fair?,ISSP,2019,5.71490282952656,Fair,Related
+Income differences are too large?,ISSP,2019,92.6841111320214,Agree,Related
+Inequality persists because ordinary people do not unite against it?,ISSP,2019,60.76422140502919,Agree,Related
+Inequality persists because it benefits the rich and powerful?,ISSP,2019,67.89882629266204,Agree,Related
+Politicians do not care about reducing income differences?,ISSP,2019,86.58331205135124,Agree,Related
+Only the rich can afford university?,ISSP,2009,64.42839600473954,Agree,Related
+Which diagram best describes the shape of Ukrainian society?,ISSP,2019,7.164198060135726,"Type D: most people in the middle (named preference, not a pro-market score)",Related
+Are current taxes on high incomes too high or too low?,ISSP,2019,11.90965388826856,Too high,Related

@@ -1,0 +1,7 @@
+﻿survey,item,question_type,response_groups,method_note,question_override,scale_min,scale_max
+ESS,gincdif,ordinal,"{""Agree"": [1, 2], ""Disagree"": [4, 5], ""Neither agree nor disagree"": [3], ""Don't know"": [8], ""Refused / no answer"": [7, 9]}",Adults 18+; supplied weights and 95% intervals. ESS10 is the related Ukrainian study.,Should the government take measures to reduce differences in income levels?,0,10
+ESS,imbgeco,numeric,"{""Mean"": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]}",Adults 18+; supplied weights and 95% intervals. ESS10 is the related Ukrainian study.,Is immigration bad or good for Ukraine's economy?,0,10
+ESS,gvctzpv,numeric,"{""Mean"": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]}",Adults 18+; supplied weights and 95% intervals. ESS10 is the related Ukrainian study.,How important is government protection against poverty for democracy?,0,10
+ESS,grdfinc,numeric,"{""Mean"": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]}",Adults 18+; supplied weights and 95% intervals. ESS10 is the related Ukrainian study.,How important is government reduction of income differences for democracy?,0,10
+ESS,gvctzpvc,numeric,"{""Mean"": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]}",Adults 18+; supplied weights and 95% intervals. ESS10 is the related Ukrainian study.,To what extent does the government in Ukraine protect citizens against poverty?,0,10
+ESS,grdfincc,numeric,"{""Mean"": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]}",Adults 18+; supplied weights and 95% intervals. ESS10 is the related Ukrainian study.,To what extent does the government in Ukraine reduce income differences?,0,10

@@ -1,0 +1,369 @@
+﻿survey,field,label,decision,source_file
+WVS,A009,State of health (subjective),"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,A067,Member: Belong to labour unions,"Excluded: membership, behaviour or personal circumstances",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,A084,Voluntary work: Unpaid work labour unions,"Excluded: membership, behaviour or personal circumstances",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,A101,Active/Inactive membership of labour unions,"Excluded: membership, behaviour or personal circumstances",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,A107,Reasons voluntary work: Solidarity with the poor and disadvantaged,"Excluded: membership, behaviour or personal circumstances",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,A209,Older people get more than their fair share from the government,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,B002,Increase in taxes if used to prevent environmental pollution,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,B003,Government should reduce environmental pollution,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,B006,"Combatting unemployment, we have to accept environmental problems",Not available: no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,B018,Environmental problems in your community: Poor water quality.,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,B019,Environmental problems in your community: Poor air quality.,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,B020,Environmental problems in your community: Poor sewage and sanitation.,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,C042B1,Why people work: work is like a business transaction,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,C060,How business and industry should be managed,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,D078,Men make better business executives than women do,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E032,Freedom or equality,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E035,Income equality,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E036,Private vs state ownership of business,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E037,Government responsibility,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E038,Job taking of the unemployed,Not available: no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E039,Competition good or harmful,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E041,Wealth accumulation,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E058,Our government should be made much more open to the public,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E063,Current society: Egalitarian vs. competitive society,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E064,Current society: Extensive welfare vs. low taxes,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E066,Society aimed: egalitarian vs. competitive,Not available: no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E067,Society aimed: extensive welfare vs. low taxes,Not available: no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E069_05,Confidence: Labour Unions,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E069_09,Confidence: Social Security System,Not available: no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E069_11,Confidence: The Government,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E069_18,Confidence: The European Union,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E069_31,Confidence: The United American States Organization (Organización de Estados Unidos Americanos - OEA),"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E069_33,Confidence: Local/Regional Government,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E069_41,Confidence: Banks,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E069_46,Confidence: Non governmental Organizations (NGOs),"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E069_56,Confidence: The Organization of American States (OAE),"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E069_58,Confidence: The Arab Maghreb Union,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E069_59,Confidence: Cooperation Council for the Arab states of Gulf (GCC),"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E069_60,Confidence: Mainland government,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E069_63,Confidence: The World Bank,Excluded: international aid / supranational institution / global policy priority,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E069_67,Confidence: The African Union (AU),"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E111,Rate political system for governing country,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E117B,Political system: Having a system governed by religious law in which there are no political parties or elections,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E119,Government order vs. freedom,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E127,Free market economy right for country future,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E128,Country is run by big interest vs. for all people’s benefit,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E129,Economic aid to poorer countries,Excluded: international aid / supranational institution / global policy priority,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E129C,Be willing to pay higher taxes in order to increase country´s foreign aid,Excluded: international aid / supranational institution / global policy priority,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E129D,Economic aid to poorer countries (favor/against),Excluded: international aid / supranational institution / global policy priority,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E130,Poverty compared to 10 years ago,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E132,Chance to escape from poverty,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E133,How much is the government doing against poverty,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E203,Rapid implementation of market reforms have negative impact on national stability,Not available: no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E204,Effect of market economic reforms,Not available: no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E208,[Country] should have close relations with United States,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E224,Democracy: Governments tax the rich and subsidize the poor.,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E227,Democracy: People receive state aid for unemployment.,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E228,Democracy: The army takes over when government is incompetent.,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E233A,Democracy: The state makes people's incomes equal,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E242,MDG: Reduce extreme poverty,Excluded: international aid / supranational institution / global policy priority,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E247,Priority: Global poverty versus National problems,Excluded: international aid / supranational institution / global policy priority,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E265_03,How often in country's elections: TV news favors the governing party,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E265_10,How often in country´s elections: Women have equal opportunities to run the office,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E269,Groups of people involved in corruption: State authorities,"Excluded: institutional performance, corruption experience or explanation of an observation",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E270,Groups of people involved in corruption: Business executives,"Excluded: institutional performance, corruption experience or explanation of an observation",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E287,Social activism: Contacting a government official,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,E291,How much would you say the political system in your country allows people like you to have a say in what the government does?,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,F022,Statement: good and evil,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,F044,Churches speak out on: unemployment,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,F049,Churches speak out on: government policy,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,F105,Religious leaders should not influence government,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,F108,Government protects freedom,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,F109,Government protects religion,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,F114A,Justifiable: Claiming government benefits to which you are not entitled,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,F116,Justifiable: Cheating on taxes,Included,WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,F166,"By requiring man treat all wives equally, Islam true intent is prohibit taking more than one wife","Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,F167,Monarchy is a form of government that is compatible with Islam,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,F168,Democracy is a Western form of government that is not compatible with Islam,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,F170,"If Palestinian state established and peace with Israel, Islam would not oppose existence of Israel","Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,F174,Islams requires country with majority of Muslims be governed by men of Islamic learning,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,G007_32,Trust: Soviet Union people,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,G022C,I see myself as citizen of the [European Union],"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,G022K,I see myself as citizen of [The African Union],"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,G022L,I see myself as citizen of [Arab Maghreb Union],"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,G022N,I see myself as citizen of [Arab Union],"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,G022R,I see myself as part of the Cooperation Council for the Arab states of Gulf (GCC),"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,G058,Effects of immigrants on the development of [your country]: Help poor people establish new lives,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,G059,Effects of immigrants on the development of [your country]: Increase unemployment,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,H002_03,Frequency in your neighborhood: Police or military interfere with people’s private life,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,H006_06,Worries: Government wire-tapping or reading my mail or email,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,H008_07,Freedom and Equality - Which more important,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,H009,Government has the right: Keep people under video surveillance in public areas,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,H010,Government has the right: Monitor all e-mails and any other information exchanged on the Internet,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,H011,Government has the right: Collect information about anyone living in [COUNTRY] without their knowledge,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,Y022,EQUALITY.- Welzel equality sub-index,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,Y022A,WOMJOB- Welzel equality-1: Gender equality: job,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,Y022B,WOMPOL- Welzel equality-2: Gender equality: politics,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+WVS,Y022C,WOMEDU- Welzel equality-3: Gender equality: education,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",WVS_Time_Series_1981-2022_spss_v5_0.sav
+EVS,A009,State of health (subjective),"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,A067,Member: Belong to labour unions,"Excluded: membership, behaviour or personal circumstances",ZA7503_v3-0-0.sav
+EVS,A084,Voluntary work: Unpaid work labour unions,"Excluded: membership, behaviour or personal circumstances",ZA7503_v3-0-0.sav
+EVS,A107,Reasons voluntary work: Solidarity with the poor and disadvantaged,"Excluded: membership, behaviour or personal circumstances",ZA7503_v3-0-0.sav
+EVS,B002,Increase in taxes if used to prevent environmental pollution,Included,ZA7503_v3-0-0.sav
+EVS,B003,Government should reduce environmental pollution,Included,ZA7503_v3-0-0.sav
+EVS,B006,"Combatting unemployment, we have to accept environmental problems",Not available: no valid Ukrainian responses,ZA7503_v3-0-0.sav
+EVS,C042B1,Why people work: work is like a business transaction,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,C060,How business and industry should be managed,Not available: no valid Ukrainian responses,ZA7503_v3-0-0.sav
+EVS,D078,Men make better business executives than women do,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,E032,Freedom or equality,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,E035,Income equality,Included,ZA7503_v3-0-0.sav
+EVS,E036,Private vs state ownership of business,Included,ZA7503_v3-0-0.sav
+EVS,E037,Government responsibility,Included,ZA7503_v3-0-0.sav
+EVS,E038,Job taking of the unemployed,Included,ZA7503_v3-0-0.sav
+EVS,E039,Competition good or harmful,Included,ZA7503_v3-0-0.sav
+EVS,E041,Wealth accumulation,Not available: no valid Ukrainian responses,ZA7503_v3-0-0.sav
+EVS,E042,Firms and freedom,Included,ZA7503_v3-0-0.sav
+EVS,E058,Our government should be made much more open to the public,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,E069_05,Confidence: Labour Unions,Included,ZA7503_v3-0-0.sav
+EVS,E069_09,Confidence: Social Security System,Included,ZA7503_v3-0-0.sav
+EVS,E069_11,Confidence: The Government,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,E069_18,Confidence: The European Union,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,E111,Rate political system for governing country,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,E119,Government order vs. freedom,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,E129,Economic aid to poorer countries,Excluded: international aid / supranational institution / global policy priority,ZA7503_v3-0-0.sav
+EVS,E160,Feel concerned about unemployed people,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,E224,Democracy: Governments tax the rich and subsidize the poor.,Included,ZA7503_v3-0-0.sav
+EVS,E227,Democracy: People receive state aid for unemployment.,Included,ZA7503_v3-0-0.sav
+EVS,E228,Democracy: The army takes over when government is incompetent.,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,E233A,Democracy: The state makes people's incomes equal,Included,ZA7503_v3-0-0.sav
+EVS,E265_03,How often in country's elections: TV news favors the governing party,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,F022,Statement: good and evil,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,F044,Churches speak out on: unemployment,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,F049,Churches speak out on: government policy,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,F105,Religious leaders should not influence government,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,F114,Justifiable: Claiming government benefits,Included,ZA7503_v3-0-0.sav
+EVS,F114A,Justifiable: Claiming government benefits to which you are not entitled,Included,ZA7503_v3-0-0.sav
+EVS,F116,Justifiable: Cheating on taxes,Included,ZA7503_v3-0-0.sav
+EVS,G014,Opinion European union,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,G051,European Union enlargement,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,H009,Government has the right: Keep people under video surveillance in public areas,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,H010,Government has the right: Monitor all e-mails and any other information exchanged on the Internet,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,H011,Government has the right: Collect information about anyone living in [COUNTRY] without their knowledge,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,X037_01,Respondent experienced unemployment longer than 3 months,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+EVS,X037_02,Dependency on social security during last 5 years respondent,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",ZA7503_v3-0-0.sav
+LiTS,q210a6,income from umemployment benefits,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q210a8,income from state provided social benefits,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q210a9,income from community/privately provided social benefits,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q301_9,satisfaction with the present economic state,"Excluded: institutional performance, corruption experience or explanation of an observation",LITS-2006-data.dta
+LiTS,q301_10,attitude towards reducing present income inequality,Included,LITS-2006-data.dta
+LiTS,q303_8,trust in banks and the financial system,Included,LITS-2006-data.dta
+LiTS,q303_11,trust in trade unions,Included,LITS-2006-data.dta
+LiTS,q305_1,perception of state involv. in reducing income inequality,Included,LITS-2006-data.dta
+LiTS,q305_2,perception of state involv. in guaranteeing employment,Included,LITS-2006-data.dta
+LiTS,q305_3,perception of state involv. in guaranteeing low prices for electricity & gas,Included,LITS-2006-data.dta
+LiTS,q305_4,perception of state involv. in guaranteeing low prices for basic goods & food,Included,LITS-2006-data.dta
+LiTS,q305_5,perception of state involv. in ownership of gas & electricity companies,Included,LITS-2006-data.dta
+LiTS,q305_6,perception of state involv. in ownership of large companies in this country,Included,LITS-2006-data.dta
+LiTS,q309,attitude towards privatization vs. nationalisation,Included,LITS-2006-data.dta
+LiTS,q310,attitude towards market economy vs. planned economy,Included,LITS-2006-data.dta
+LiTS,q312_8,importance of courts that treat citizens equally,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",LITS-2006-data.dta
+LiTS,q313_7,frequency of unoff. payments/gifts requesting unempl. benefits,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",LITS-2006-data.dta
+LiTS,q313_8,frequency of unoff. payments/gifts requesting other social sec. benefits,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",LITS-2006-data.dta
+LiTS,q314_7,"requesting unempl. benefits, past 12 months","Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",LITS-2006-data.dta
+LiTS,q314_8,"requesting other social sec. benefits, past 12 months","Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",LITS-2006-data.dta
+LiTS,q315_7,satisfation with requesting unempl. benefits,"Excluded: institutional performance, corruption experience or explanation of an observation",LITS-2006-data.dta
+LiTS,q315_8,satisfation with requesting other social sec. benefits,"Excluded: institutional performance, corruption experience or explanation of an observation",LITS-2006-data.dta
+LiTS,q408a1,"state ownership, job A","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q408a2,"private ownership, job A","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q408b1,"state ownership, job B","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q408b2,"private ownership, job B","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q408c1,"state ownership, job C","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q408c2,"private ownership, job C","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q408d1,"state ownership, job D","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q408d2,"private ownership, job D","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q408e1,"state ownership, job E","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q408e2,"private ownership, job E","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3a1,"state ownership, job A (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3a2,"private ownership, job A (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3b1,"state ownership, job B (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3b2,"private ownership, job B (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3c1,"state ownership, job C (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3c2,"private ownership, job C (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3d1,"state ownership, job D (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3d2,"private ownership, job D (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3e1,"state ownership, job E (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3e2,"private ownership, job E (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3f1,"state ownership, job F (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3f2,"private ownership, job F (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3g1,"state ownership, job G (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3g2,"private ownership, job G (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3h1,"state ownership, job H (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3h2,"private ownership, job H (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3i1,"state ownership, job I (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3i2,"private ownership, job I (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3j1,"state ownership, job J (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3j2,"private ownership, job J (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3k1,"state ownership, job K (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3k2,"private ownership, job K (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3l1,"state ownership, job L (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3l2,"private ownership, job L (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3m1,"state ownership, job M (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3m2,"private ownership, job M (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3n1,"state ownership, job N (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q602b3n2,"private ownership, job N (life history)","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_1,received unempl. benefits in 1989,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_2,received unempl. benefits in 1990,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_3,received unempl. benefits in 1991,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_4,received unempl. benefits in 1992,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_5,received unempl. benefits in 1993,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_6,received unempl. benefits in 1994,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_7,received unempl. benefits in 1995,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_8,received unempl. benefits in 1996,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_9,received unempl. benefits in 1997,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_10,received unempl. benefits in 1998,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_11,received unempl. benefits in 1999,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_12,received unempl. benefits in 2000,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_13,received unempl. benefits in 2001,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_14,received unempl. benefits in 2002,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_15,received unempl. benefits in 2003,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_16,received unempl. benefits in 2004,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_17,received unempl. benefits in 2005,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_18,received unempl. benefits in 2006,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q6051_19,"received unempl. benefits, NA","Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q206_1,private provision of tap water,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",LITS-2006-data.dta
+LiTS,q206_2,private provision of central heating,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",LITS-2006-data.dta
+LiTS,q206_3,private provision of gas,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",LITS-2006-data.dta
+LiTS,q209_3,holding of a bank account,"Excluded: membership, behaviour or personal circumstances",LITS-2006-data.dta
+LiTS,q606_2,"since 1989, travelled abroad on business trips","Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",LITS-2006-data.dta
+LiTS,q206,q206w - Which bank/building society is your mortgage with?,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q301a,Q.3.01 To what extent do you agree with the following statements?: a) The econom,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q301b,Q.3.01 To what extent do you agree with the following statements?: b) The politi,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q301c,Q.3.01 To what extent do you agree with the following statements?: c) I have don,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q301d,Q.3.01 To what extent do you agree with the following statements?: d) My househo,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q301e,Q.3.01 To what extent do you agree with the following statements?: e) All things,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q301f,Q.3.01 To what extent do you agree with the following statements?: f) Children w,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q301g,Q.3.01 To what extent do you agree with the following statements?: g) On the who,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q301h,Q.3.01 To what extent do you agree with the following statements?: h) The gap be,Included,lits2.dta
+LiTS,q301i,Q.3.01 To what extent do you agree with the following statements?: i) There is l,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q301j,Q.3.01 To what extent do you agree with the following statements?: j) All things,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q301k,Q.3.01 To what extent do you agree with the following statements?: k) All things,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q303j,Q.3.03 To what extent do you trust the following institutions ....?: j) Banks an,Included,lits2.dta
+LiTS,q305_2,q3052 - And which of these fields should be the second priority for extra govern,Excluded duplicate topic: rank detail; first spending priority and support for each beneficiary retained,lits2.dta
+LiTS,q306a,"q306_1 - Would you be willing to give part of your income or pay more taxes, if",Included,lits2.dta
+LiTS,q306b,"q306_2 - Would you be willing to give part of your income or pay more taxes, if",Included,lits2.dta
+LiTS,q306c,"q306_3 - Would you be willing to give part of your income or pay more taxes, if",Included,lits2.dta
+LiTS,q306d,"q306_4 - Would you be willing to give part of your income or pay more taxes, if",Included,lits2.dta
+LiTS,q310,q310 - With which one of the following statements do you agree most?,Included,lits2.dta
+LiTS,q311,q311 - With which one of the following statements do you agree most?,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q317a,q317_1 - To what extent do you agree with the following statements?  People from,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q317b,q317_2 - To what extent do you agree with the following statements?  The presenc,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q317c,q317_3 - To what extent do you agree with the following statements?  The presenc,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q318,"q318 - Of the following statements, which is the one that is closest to your opi","Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q407a,q407_1 - To what extent do you agree with the following statements? IF NECESSARY,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q407b,q407_2 - To what extent do you agree with the following statements? IF NECESSARY,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q407c,q407_3 - To what extent do you agree with the following statements? IF NECESSARY,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q530,q530 - Have you ever tried to set up a business?,"Excluded: membership, behaviour or personal circumstances",lits2.dta
+LiTS,q533,q533 - What was the main reason you did not manage to set up the business?,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q534,q534 - Did you attempt to borrow money to set up the business?,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q813a,Q.813a What was the result of this application?: Unemployment benefit,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q814a,Q.814a Has your household received its first payment?: Unemployment benefit,"Excluded: membership, behaviour or personal circumstances",lits2.dta
+LiTS,q815a,q815a - How many months did it take to receive the first payment?: Unemployment,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q816a,Q.816a How helpful was this support?: Unemployment benefit,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits2.dta
+LiTS,q210,Market rental price for dwelling owners,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q225a,Meeting unexpected expenses with money equivalent to domestic poverty threshold,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q225b,Meeting unexpected expenses with money equivalent to international poverty thres,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,PRq313,Primary respondent - (3.13) Bank/postal account,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,PRq315,Primary respondent - (3.15) Place on 10 step wealth ladder today,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,PRq316,Primary respondent - (3.16) Place on 10 step wealth ladder four years ago,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,PRq317,Primary respondent - (3.17) Place on 10 step wealth ladder four years from now,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,q401g,"On the whole, I am satisfied with the present state of the economy","Excluded: institutional performance, corruption experience or explanation of an observation",lits_iii.dta
+LiTS,q401h,The gap between the rich and the poor in our country should be reduced,Included,lits_iii.dta
+LiTS,q404b,Trust - the government / cabinet of ministers,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q404c,Trust - regional government,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q404d,Trust - local government,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q404j,Trust - banks and the financial system,Included,lits_iii.dta
+LiTS,q404l,Trust - non-governmental organizations,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q404m,Trust - trade unions,Included,lits_iii.dta
+LiTS,q406a,First priority of government spending,Included,lits_iii.dta
+LiTS,q406b,Second priority of government spending,Excluded duplicate topic: rank detail; first spending priority and support for each beneficiary retained,lits_iii.dta
+LiTS,q408a,Deserve support from the government - elderly,Included,lits_iii.dta
+LiTS,q408b,Deserve support from the government disabled,Included,lits_iii.dta
+LiTS,q408c,Deserve support from the government - war veterans,Included,lits_iii.dta
+LiTS,q408d,Deserve support from the government - families with children,Included,lits_iii.dta
+LiTS,q408e,Deserve support from the government - working poor,Included,lits_iii.dta
+LiTS,q408f,Deserve support from the government - unemployed,Included,lits_iii.dta
+LiTS,q408g,Deserve support from the government - nobody,Included,lits_iii.dta
+LiTS,q408_97,Deserve support from the government - Don't know,"Nonresponse indicator, not an attitude",lits_iii.dta
+LiTS,q408_important,Most important group to receive support from the government,Excluded duplicate topic: rank detail; first spending priority and support for each beneficiary retained,lits_iii.dta
+LiTS,q411,Statement about the economic system,Included,lits_iii.dta
+LiTS,q412,Statement about the political system,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q413j,Three most important problems - unemployment,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q414e,Important for the country - a press that is independent from the government,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q414g,Important for the country - a courts system that treats all citizens equally,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q414h,Important for the country - equal rights for women as citizens,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q415e,Exist in the country - a press that is independent from the government,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q415g,Exist in the country - a courts system that treats all citizens equally,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q415h,Exist in the country - equal rights for women as citizens,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q417a,Incomes should be made more equal vs different,Included,lits_iii.dta
+LiTS,q417b,Private vs government ownership of business and industry,Included,lits_iii.dta
+LiTS,q417c,Competition is good vs harmful,Included,lits_iii.dta
+LiTS,q417f,There is no problem with the influence of wealthy individuals vs need for strict,Included,lits_iii.dta
+LiTS,q421,Change in the gap between rich and poor,Included,lits_iii.dta
+LiTS,q422,Why there was a change/no change in the gap between rich and poor,"Excluded: institutional performance, corruption experience or explanation of an observation",lits_iii.dta
+LiTS,q425a,How important is the influence of connections - to get a good job in the governm,Included,lits_iii.dta
+LiTS,q425b,How important is the influence of connections - to get a good job in the private,Included,lits_iii.dta
+LiTS,q426a,Do you agree that - women are as competent as men to be business executives,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q429k,People you do not want to have as neighbours - poor people,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,PRq519,Primary respondent - (5.19) Who owns the business,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,PRq521_m,Primary respondent - (5.21) When business was started Month,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,PRq521_y,Primary respondent - (5.21) When business was started Year,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,PRq522,Primary respondent - (5.22) Business is registered,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,PRq523,Primary respondent - (5.23) Location of the business,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,PRq524,Primary respondent - (5.24) Business keeps accounting books,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,PRq525,Primary respondent - (5.25) Total earnings in the past 12 months of the business,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,PRq526,Primary respondent - (5.26) Top problem for operation and growth of business,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,PRq527a,Primary respondent - (5.27) Land owned as part of the business,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,PRq527b,Primary respondent - (5.27) Building owned as part of the business,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,q701,Tried to start a business,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,q702,Is the business the primary occupation,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q703,Top obstacle for operation and growth of business,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q704,Main reason unable to set up business,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q706,Sector of business,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q707,Attempt to borrow money for the business,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q801g,Requesting unemployment benefits requires unofficial payments,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q801h,Requesting other social security benefits requires unofficial payments,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q802g,Requested unemployment benefits in the past 12 months,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,q803g,Requested unemployment benefits and satisfied,"Excluded: institutional performance, corruption experience or explanation of an observation",lits_iii.dta
+LiTS,q804g,Requested unemployment benefits in the past 12 months and unofficial payment was,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,q805g,Requested unemployment benefits and reported unofficial payment,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,q806g,What happened when reported incident after requesting unemployment benefits,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q807g,Why made payment when requesting unemployment benefits,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q802h,Requested other social security benefits in the past 12 months,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,q803h,Requested other social security benefits and satisfied,"Excluded: institutional performance, corruption experience or explanation of an observation",lits_iii.dta
+LiTS,q804h,Requested other social security benefits in the past 12 months and unofficial pa,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,q805h,Requested other social security benefits and reported unofficial payment,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,q807h,Why made payment when requesting other social security benefits,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q809b,Problem encountered with local public school - poor teaching,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q809e,Problem encountered with local public school - facilities in poor condition,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q812a,Overall performance of - local government,"Excluded: institutional performance, corruption experience or explanation of an observation",lits_iii.dta
+LiTS,q812b,Overall performance of - regional government,"Excluded: institutional performance, corruption experience or explanation of an observation",lits_iii.dta
+LiTS,q812c,Overall performance of - national government,"Excluded: institutional performance, corruption experience or explanation of an observation",lits_iii.dta
+LiTS,q813a,Change in overall performance of - local government in the past 4 years,"Excluded: institutional performance, corruption experience or explanation of an observation",lits_iii.dta
+LiTS,q813b,Change in overall performance of - regional government in the past 4 years,"Excluded: institutional performance, corruption experience or explanation of an observation",lits_iii.dta
+LiTS,q813c,Change in overall performance of - national government in the past 4 years,"Excluded: institutional performance, corruption experience or explanation of an observation",lits_iii.dta
+LiTS,q814c,How many are corrupt - government officials,"Excluded: institutional performance, corruption experience or explanation of an observation",lits_iii.dta
+LiTS,q814d,How many are corrupt - local government representatives,"Excluded: institutional performance, corruption experience or explanation of an observation",lits_iii.dta
+LiTS,q814e,"How many are corrupt - tax Officials, like Ministry of Finance officials or loca","Excluded: institutional performance, corruption experience or explanation of an observation",lits_iii.dta
+LiTS,q814h,How many are corrupt - business executives,"Excluded: institutional performance, corruption experience or explanation of an observation",lits_iii.dta
+LiTS,q818,How well the government is fighting corruption,"Excluded: institutional performance, corruption experience or explanation of an observation",lits_iii.dta
+LiTS,q919d,Member of - labour unions,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,q925_93,(9.25) Did the government in [COUNTRY] before [1989] [1991] engage in persecutio,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q925_97,(9.25) Did the government in [COUNTRY] before [1989] [1991] engage in persecutio,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q925_99,(9.25) Did the government in [COUNTRY] before [1989] [1991] engage in persecutio,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q1002c,How much has crisis affected household in 5 years (objective) - business closed,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,q1005g,Which of these are responsible for the economic crisis - foreign banks,"Excluded: general politics, identity, religion, gender, migration or other non-economic attitude; original label retained",lits_iii.dta
+LiTS,SRq313,Secondary respondent - (3.13) Bank/postal account,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,SRq315,Secondary respondent - (3.15) Place on 10 step wealth ladder today,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,SRq316,Secondary respondent - (3.16) Place on 10 step wealth ladder four years ago,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,SRq317,Secondary respondent - (3.17) Place on 10 step wealth ladder four years from now,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,SRq519,Secondary respondent - (5.19) Who owns the business,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,SRq521_m,Secondary respondent - (5.21) When business was started Month,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,SRq521_y,Secondary respondent - (5.21) When business was started Year,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,SRq522,Secondary respondent - (5.22) Business is registered,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,SRq523,Secondary respondent - (5.23) Location of the business,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,SRq524,Secondary respondent - (5.24) Business keeps accounting books,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,SRq526,Secondary respondent - (5.26) Top problem for operation and growth of business,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,SRq527a,Secondary respondent - (5.27) Land owned as part of the business,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta
+LiTS,SRq527b,Secondary respondent - (5.27) Building owned as part of the business,"Excluded: membership, behaviour or personal circumstances",lits_iii.dta

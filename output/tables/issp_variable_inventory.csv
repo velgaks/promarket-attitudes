@@ -1,0 +1,60 @@
+﻿item,question,question_type,scope,years,latest_year,n_waves,html_eligible
+business_confidence,Confidence in business and industry?,ordinal,Related,2008,2008,1,False
+income_gap,Income differences are too large?,ordinal,Related,"2009, 2019",2019,2,True
+redistribution,Government should reduce income differences?,ordinal,Policy,"2009, 2019",2019,2,True
+unemployed_living,Government should provide a decent living for unemployed people?,ordinal,Policy,"2009, 2019",2019,2,True
+cut_poor_benefits,Government should spend less on benefits for poor people?,ordinal,Policy,2009,2009,1,False
+corrupt_to_top,Getting to the top requires being corrupt?,ordinal,Related,2009,2009,1,False
+elite_school_access,Students from the best secondary schools have the best chances of university education?,ordinal,Related,2009,2009,1,False
+rich_university,Only the rich can afford university?,ordinal,Related,2009,2009,1,False
+equal_university,People have equal chances of entering university regardless of background?,ordinal,Related,2009,2009,1,False
+tax_rich,"Should richer people pay higher, the same or lower taxes?",ordinal,Policy,"2009, 2019",2019,2,True
+tax_level,Are current taxes on high incomes too high or too low?,ordinal,Related,"2009, 2019",2019,2,True
+buy_health,Is it fair that richer people can buy better healthcare?,ordinal,Policy,"2009, 2019",2019,2,True
+buy_education,Is it fair that richer people can buy better education for their children?,ordinal,Policy,"2009, 2019",2019,2,True
+society_actual,Which diagram best describes the shape of Ukrainian society?,nominal,Related,"2009, 2019",2019,2,True
+society_ideal,Which shape of society would you prefer for Ukraine?,nominal,Policy,"2009, 2019",2019,2,True
+ahead_wealth,Importance for getting ahead: coming from a wealthy family?,ordinal,Related,"2009, 2019",2019,2,True
+ahead_parents,Importance for getting ahead: having well-educated parents?,ordinal,Related,"2009, 2019",2019,2,True
+ahead_education,Importance for getting ahead: having a good education?,ordinal,Related,"2009, 2019",2019,2,True
+ahead_ambition,Importance for getting ahead: having ambition?,ordinal,Related,2009,2009,1,False
+ahead_work,Importance for getting ahead: hard work?,ordinal,Related,"2009, 2019",2019,2,True
+ahead_connections,Importance for getting ahead: knowing the right people?,ordinal,Related,"2009, 2019",2019,2,True
+ahead_political,Importance for getting ahead: political connections?,ordinal,Related,"2009, 2019",2019,2,True
+ahead_bribes,Importance for getting ahead: giving bribes?,ordinal,Related,"2009, 2019",2019,2,True
+ahead_race,Importance for getting ahead: ethnic background (nationality)?,ordinal,Related,"2009, 2019",2019,2,True
+ahead_religion,Importance for getting ahead: a person’s religion?,ordinal,Related,"2009, 2019",2019,2,True
+ahead_gender,Importance for getting ahead: being born a man or woman?,ordinal,Related,"2009, 2019",2019,2,True
+pay_responsibility,What should determine pay: job responsibility?,ordinal,Policy,"2009, 2019",2019,2,True
+pay_education,What should determine pay: education and training?,ordinal,Policy,"2009, 2019",2019,2,True
+pay_family,What should determine pay: what is needed to support a family?,ordinal,Policy,2009,2009,1,False
+pay_children,What should determine pay: children to support?,ordinal,Policy,"2009, 2019",2019,2,True
+pay_performance,What should determine pay: how well the job is done?,ordinal,Policy,"2009, 2019",2019,2,True
+pay_effort,What should determine pay: how hard the person works?,ordinal,Policy,2009,2009,1,False
+conflict_rich_poor,How much conflict is there between rich and poor?,ordinal,Related,"2009, 2019",2019,2,True
+conflict_class,How much conflict is there between working and middle classes?,ordinal,Related,"2009, 2019",2019,2,True
+conflict_management,How much conflict is there between management and workers?,ordinal,Related,"2009, 2019",2019,2,True
+conflict_top_bottom,How much conflict is there between top and bottom of society?,ordinal,Related,2009,2009,1,False
+earn_actual_doctor,How much does a doctor earn per month after taxes?,numeric,Related,"2009, 2019",2019,2,True
+earn_ideal_doctor,How much should a doctor earn per month after taxes?,numeric,Policy,"2009, 2019",2019,2,True
+earn_actual_chairman,How much does a corporate chairman earn per month after taxes?,numeric,Related,"2009, 2019",2019,2,True
+earn_ideal_chairman,How much should a corporate chairman earn per month after taxes?,numeric,Policy,"2009, 2019",2019,2,True
+earn_actual_shop,How much does a shop assistant earn per month after taxes?,numeric,Related,"2009, 2019",2019,2,True
+earn_ideal_shop,How much should a shop assistant earn per month after taxes?,numeric,Policy,"2009, 2019",2019,2,True
+earn_actual_worker,How much does an unskilled factory worker earn per month after taxes?,numeric,Related,"2009, 2019",2019,2,True
+earn_ideal_worker,How much should an unskilled factory worker earn per month after taxes?,numeric,Policy,"2009, 2019",2019,2,True
+earn_actual_minister,How much does a cabinet minister earn per month after taxes?,numeric,Related,"2009, 2019",2019,2,True
+earn_ideal_minister,How much should a cabinet minister earn per month after taxes?,numeric,Policy,"2009, 2019",2019,2,True
+company_pay_gap,Companies should reduce differences in employee pay?,ordinal,Policy,2019,2019,1,False
+politicians_indifferent,Politicians do not care about reducing income differences?,ordinal,Related,2019,2019,1,False
+global_gap,Economic differences between rich and poor countries are too large?,ordinal,Related,2019,2019,1,False
+aid_tax,People in wealthy countries should pay additional tax to help poorer countries?,ordinal,Policy,2019,2019,1,False
+labour_migration,People from poor countries should be allowed to work in wealthy countries?,ordinal,Policy,2019,2019,1,False
+skill_premium,Workers need extra pay to acquire skills and qualifications?,ordinal,Policy,2019,2019,1,False
+inequality_prosperity,Large income differences are necessary for prosperity?,ordinal,Policy,2019,2019,1,False
+inequality_power,Inequality persists because it benefits the rich and powerful?,ordinal,Related,2019,2019,1,False
+inequality_collective,Inequality persists because ordinary people do not unite against it?,ordinal,Related,2019,2019,1,False
+gov_success,Is government successful in reducing income differences?,ordinal,Related,2019,2019,1,False
+income_fair,Is the income distribution in Ukraine fair?,ordinal,Related,2019,2019,1,False
+anger,How angry do differences in wealth between rich and poor make you?,numeric,Related,2019,2019,1,False
+responsibility,Who should have the greatest responsibility for reducing income differences?,nominal,Policy,2019,2019,1,False

@@ -1,0 +1,6 @@
+# Preserve exact bytes in generated outputs and manifests so recorded hashes survive cloning.
+* -text
+*.py text eol=lf
+*.md text eol=lf
+*.pdf binary
+*.png binary

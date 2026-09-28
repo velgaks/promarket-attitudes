@@ -1,0 +1,11 @@
+survey,year,formula,missing_rule,interpretation
+EVS,1999,100/9 * (mean of four aligned 1-10 responses - 1),Require valid answers to all four items; no imputation,Equal-weight descriptive summary; not a validated latent scale; programme identity retained
+EVS,2008,100/9 * (mean of four aligned 1-10 responses - 1),Require valid answers to all four items; no imputation,Equal-weight descriptive summary; not a validated latent scale; programme identity retained
+EVS,2020,100/9 * (mean of four aligned 1-10 responses - 1),Require valid answers to all four items; no imputation,Equal-weight descriptive summary; not a validated latent scale; programme identity retained
+LiTS,2006,100 * indicator(market preferable),"Require substantive response; planned and indifferent=0, market=100; nonresponse missing","Mean equals market-preference percentage, not a multi-item attitude scale"
+LiTS,2010,100 * indicator(market preferable),"Require substantive response; planned and indifferent=0, market=100; nonresponse missing","Mean equals market-preference percentage, not a multi-item attitude scale"
+LiTS,2016,100 * indicator(market preferable),"Require substantive response; planned and indifferent=0, market=100; nonresponse missing","Mean equals market-preference percentage, not a multi-item attitude scale"
+WVS,1996,100/9 * (mean of four aligned 1-10 responses - 1),Require valid answers to all four items; no imputation,Equal-weight descriptive summary; not a validated latent scale; programme identity retained
+WVS,2006,100/9 * (mean of four aligned 1-10 responses - 1),Require valid answers to all four items; no imputation,Equal-weight descriptive summary; not a validated latent scale; programme identity retained
+WVS,2011,100/9 * (mean of four aligned 1-10 responses - 1),Require valid answers to all four items; no imputation,Equal-weight descriptive summary; not a validated latent scale; programme identity retained
+WVS,2020,100/9 * (mean of four aligned 1-10 responses - 1),Require valid answers to all four items; no imputation,Equal-weight descriptive summary; not a validated latent scale; programme identity retained

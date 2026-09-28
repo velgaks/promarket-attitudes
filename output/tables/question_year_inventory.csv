@@ -1,0 +1,295 @@
+﻿question,survey,item,years,source_table
+Is higher pay fair for a more efficient and reliable secretary?,WVS,C059,"1996, 2006",extended_microdata_shares.csv
+Does hard work bring a better life?,WVS,E040,"1996, 2006, 2011, 2020",extended_microdata_shares.csv
+Can wealth grow so there is enough for everyone?,WVS,E041,"1996, 2006, 2011",extended_microdata_shares.csv
+Is poverty due to laziness rather than unfair treatment?,WVS,E131,1996,extended_microdata_shares.csv
+Do poor people have a chance to escape poverty?,WVS,E132,1996,extended_microdata_shares.csv
+Is taxing the rich to subsidise the poor essential to democracy?,WVS,E224,"2006, 2011, 2020",extended_microdata_shares.csv
+Is state aid for unemployment essential to democracy?,WVS,E227,"2006, 2011, 2020",extended_microdata_shares.csv
+Is state equalisation of incomes essential to democracy?,WVS,E233A,"2011, 2020",extended_microdata_shares.csv
+Is claiming benefits to which you are not entitled never justifiable?,WVS,F114A,"1996, 2006, 2011, 2020",extended_microdata_shares.csv
+Is cheating on taxes never justifiable?,WVS,F116,"1996, 2006, 2011, 2020",extended_microdata_shares.csv
+Do you have confidence in labour unions?,WVS,E069_05,"1996, 2006, 2011, 2020",extended_microdata_shares.csv
+Do you have confidence in major companies?,WVS,E069_13,"1996, 2006, 2011, 2020",extended_microdata_shares.csv
+Do you have confidence in banks?,WVS,E069_41,"2011, 2020",extended_microdata_shares.csv
+Do older people receive more than their fair share from government?,WVS,A209,2011,extended_microdata_shares.csv
+Would you give part of your income to protect the environment?,WVS,B001,2006,extended_microdata_shares.csv
+Would you accept higher taxes to prevent environmental pollution?,WVS,B002,"1996, 2006",extended_microdata_shares.csv
+Should government reduce pollution without costing you money?,WVS,B003,2006,extended_microdata_shares.csv
+Should economic growth and jobs take priority over environmental protection?,WVS,B008,"1996, 2006, 2011, 2020",extended_microdata_shares.csv
+Should owners run businesses or appoint their managers?,WVS,C060,1996,extended_microdata_shares.csv
+Should income differences provide incentives for effort?,WVS,E035,"1996, 2006, 2011, 2020",extended_microdata_shares.csv
+Should private ownership of business increase?,WVS,E036,"1996, 2006, 2011, 2020",extended_microdata_shares.csv
+Should individuals take more responsibility for providing for themselves?,WVS,E037,"1996, 2006, 2011, 2020",extended_microdata_shares.csv
+Is competition beneficial?,WVS,E039,"1996, 2006, 2011, 2020",extended_microdata_shares.csv
+Should foreign goods be freely imported?,WVS,E062,1996,extended_microdata_shares.csv
+Is a free-market economy right for the country’s future?,WVS,E127,1996,extended_microdata_shares.csv
+Is the government doing too little to fight poverty?,WVS,E133,1996,extended_microdata_shares.csv
+Is higher pay fair for a more efficient and reliable secretary?,EVS,C059,1999,extended_microdata_shares.csv
+Is taxing the rich to subsidise the poor essential to democracy?,EVS,E224,2020,extended_microdata_shares.csv
+Is state aid for unemployment essential to democracy?,EVS,E227,2020,extended_microdata_shares.csv
+Is state equalisation of incomes essential to democracy?,EVS,E233A,2020,extended_microdata_shares.csv
+Is claiming government benefits never justifiable (earlier item)?,EVS,F114,"1999, 2008",extended_microdata_shares.csv
+Is claiming benefits to which you are not entitled never justifiable?,EVS,F114A,2020,extended_microdata_shares.csv
+Is cheating on taxes never justifiable?,EVS,F116,"1999, 2008, 2020",extended_microdata_shares.csv
+Do you have confidence in labour unions?,EVS,E069_05,"1999, 2008, 2020",extended_microdata_shares.csv
+Do you have confidence in the social security system?,EVS,E069_09,"1999, 2008, 2020",extended_microdata_shares.csv
+Do you have confidence in major companies?,EVS,E069_13,"1999, 2008, 2020",extended_microdata_shares.csv
+Would you give part of your income to protect the environment?,EVS,B001,"1999, 2008",extended_microdata_shares.csv
+Would you accept higher taxes to prevent environmental pollution?,EVS,B002,1999,extended_microdata_shares.csv
+Should government reduce pollution without costing you money?,EVS,B003,1999,extended_microdata_shares.csv
+Should economic growth and jobs take priority over environmental protection?,EVS,B008,2020,extended_microdata_shares.csv
+Should income differences provide incentives for effort?,EVS,E035,"1999, 2008, 2020",extended_microdata_shares.csv
+Should private ownership of business increase?,EVS,E036,"1999, 2008, 2020",extended_microdata_shares.csv
+Should individuals take more responsibility for providing for themselves?,EVS,E037,"1999, 2008, 2020",extended_microdata_shares.csv
+Should unemployed people accept any available job?,EVS,E038,"1999, 2008, 2020",extended_microdata_shares.csv
+Is competition beneficial?,EVS,E039,"1999, 2008, 2020",extended_microdata_shares.csv
+Should the state give firms more freedom?,EVS,E042,"1999, 2008",extended_microdata_shares.csv
+Are connections important for obtaining a government job?,LiTS,connections_a,2016,extended_microdata_shares.csv
+Are connections important for obtaining a private-sector job?,LiTS,connections_b,2016,extended_microdata_shares.csv
+Are connections important for obtaining permits or official papers?,LiTS,connections_d,2016,extended_microdata_shares.csv
+Has the gap between rich and poor increased?,LiTS,inequality_increased,2016,extended_microdata_shares.csv
+Why are some people poor: bad luck?,LiTS,poverty_1,"2006, 2010, 2016",extended_microdata_shares.csv
+Why are some people poor: laziness and lack of willpower?,LiTS,poverty_2,"2006, 2010, 2016",extended_microdata_shares.csv
+Why are some people poor: injustice in society?,LiTS,poverty_3,"2006, 2010, 2016",extended_microdata_shares.csv
+Why are some people poor: an inevitable part of modern life?,LiTS,poverty_4,"2006, 2010, 2016",extended_microdata_shares.csv
+What matters most for success: effort and hard work?,LiTS,success_effort,"2006, 2010, 2016",extended_microdata_shares.csv
+What matters most for success: intelligence and skills?,LiTS,success_skill,"2006, 2010, 2016",extended_microdata_shares.csv
+Do you trust banks and the financial system?,LiTS,trust_banks,"2006, 2010, 2016",extended_microdata_shares.csv
+Do you trust foreign investors?,LiTS,trust_foreign_investors,"2006, 2010, 2016",extended_microdata_shares.csv
+Do you trust trade unions?,LiTS,trust_unions,"2006, 2010, 2016",extended_microdata_shares.csv
+Is competition beneficial?,LiTS,competition,"2010, 2016",extended_microdata_shares.csv
+Should corporate funding of political parties and candidates be banned?,LiTS,corporate_donations,2016,extended_microdata_shares.csv
+Should larger income differences reward individual effort?,LiTS,income_incentives,"2010, 2016",extended_microdata_shares.csv
+Should privatised firms remain with current owners (possibly after additional payment)?,LiTS,keep_private,2006,extended_microdata_shares.csv
+Is a market economy preferable to any other economic system?,LiTS,market,"2006, 2010, 2016",extended_microdata_shares.csv
+Should privatised firms return permanently to state ownership?,LiTS,nationalise,2006,extended_microdata_shares.csv
+Would you give income or pay more taxes for public education?,LiTS,pay_a,"2010, 2016",extended_microdata_shares.csv
+Would you give income or pay more taxes for public health?,LiTS,pay_b,"2010, 2016",extended_microdata_shares.csv
+Would you give income or pay more taxes for combating climate change?,LiTS,pay_c,"2010, 2016",extended_microdata_shares.csv
+Would you give income or pay more taxes for helping people in need?,LiTS,pay_d,"2010, 2016",extended_microdata_shares.csv
+Should private ownership of business increase?,LiTS,private_ownership,"2010, 2016",extended_microdata_shares.csv
+Should the gap between rich and poor be reduced?,LiTS,reduce_gap,"2006, 2010, 2016",extended_microdata_shares.csv
+Should privatised firms be nationalised and then re-privatised?,LiTS,reprivatise,2006,extended_microdata_shares.csv
+Should the state reduce inequality?,LiTS,state_1,2006,extended_microdata_shares.csv
+Should the state guarantee employment?,LiTS,state_2,2006,extended_microdata_shares.csv
+Should the state keep electricity and gas prices low?,LiTS,state_3,2006,extended_microdata_shares.csv
+Should the state keep basic food prices low?,LiTS,state_4,2006,extended_microdata_shares.csv
+Should the state own public utilities?,LiTS,state_5,2006,extended_microdata_shares.csv
+Should the state own large companies?,LiTS,state_6,2006,extended_microdata_shares.csv
+Who deserves government support: elderly people?,LiTS,support_1,"2010, 2016",extended_microdata_shares.csv
+Who deserves government support: people with disabilities?,LiTS,support_2,"2010, 2016",extended_microdata_shares.csv
+Who deserves government support: war veterans?,LiTS,support_3,"2010, 2016",extended_microdata_shares.csv
+Who deserves government support: families with children?,LiTS,support_4,"2010, 2016",extended_microdata_shares.csv
+Who deserves government support: the working poor?,LiTS,support_5,"2010, 2016",extended_microdata_shares.csv
+Who deserves government support: unemployed people?,LiTS,support_6,"2010, 2016",extended_microdata_shares.csv
+Who deserves government support: nobody?,LiTS,support_7,"2010, 2016",extended_microdata_shares.csv
+Are stricter rules needed against wealthy people’s influence on government?,LiTS,wealth_influence,2016,extended_microdata_shares.csv
+First priority for extra government spending: education?,LiTS,spend_education,"2006, 2010, 2016",extended_microdata_shares.csv
+First priority for extra government spending: health?,LiTS,spend_health,"2006, 2010, 2016",extended_microdata_shares.csv
+First priority for extra government spending: helping the poor?,LiTS,spend_helping_the_poor,"2010, 2016",extended_microdata_shares.csv
+First priority for extra government spending: housing?,LiTS,spend_housing,"2006, 2010, 2016",extended_microdata_shares.csv
+First priority for extra government spending: pensions?,LiTS,spend_pensions,"2006, 2010, 2016",extended_microdata_shares.csv
+First priority for extra government spending: public infrastructure?,LiTS,spend_public_infrastructure,"2006, 2010, 2016",extended_microdata_shares.csv
+First priority for extra government spending: the environment?,LiTS,spend_the_environment,"2006, 2010, 2016",extended_microdata_shares.csv
+Do people fail because of individual rather than societal failures?,Pew,failure_individual,"1991, 2011",extended_published_shares.csv
+Is the rich–poor gap a very big problem?,Pew,inequality_problem,2015,extended_published_shares.csv
+Are the rich getting richer while the poor get poorer?,Pew,rich_richer,"1991, 2009",extended_published_shares.csv
+Is education important for getting ahead?,Pew,success_Q66a,2014,extended_published_shares.csv
+Is hard work important for getting ahead?,Pew,success_Q66b,2014,extended_published_shares.csv
+Is knowing the right people important for getting ahead?,Pew,success_Q66c,2014,extended_published_shares.csv
+Is giving bribes important for getting ahead?,Pew,success_Q66d,2014,extended_published_shares.csv
+Is being from a wealthy family important for getting ahead?,Pew,success_Q66f,2014,extended_published_shares.csv
+Is luck important for getting ahead?,Pew,success_Q66g,2014,extended_published_shares.csv
+Do people get ahead through ability and ambition rather than at others’ expense?,Pew,success_ability,"1991, 1992, 2011",extended_published_shares.csv
+Is success largely determined by forces outside our control?,Pew,success_outside_control,"1991, 2002, 2007, 2009, 2011, 2014",extended_published_shares.csv
+Are foreign purchases of domestic companies good for the country?,Pew,foreign_acquisitions,2014,extended_published_shares.csv
+Are foreign companies building new factories good for the country?,Pew,foreign_factories,2014,extended_published_shares.csv
+Are most people better off in a free-market economy despite inequality?,Pew,free_market_better,"2002, 2007, 2009, 2014, 2015",extended_published_shares.csv
+Is freedom from state interference more important than guaranteeing nobody is in need?,Pew,freedom_vs_welfare,"1991, 2002, 2009, 2011",extended_published_shares.csv
+Should government care for very poor people unable to care for themselves?,Pew,government_care_poor,2015,extended_published_shares.csv
+Would higher taxes on the wealthy and corporations reduce inequality by funding help for the poor?,Pew,high_tax_redistribution,2014,extended_published_shares.csv
+Would low taxes on the wealthy and corporations reduce inequality by encouraging growth?,Pew,low_tax_growth,2014,extended_published_shares.csv
+Are growing trade and business ties good for Ukraine?,Pew,trade_good,"2002, 2007, 2011, 2014",extended_published_shares.csv
+Does trade create jobs?,Pew,trade_jobs,2014,extended_published_shares.csv
+Does trade reduce prices?,Pew,trade_prices,2014,extended_published_shares.csv
+Does trade increase workers’ wages?,Pew,trade_wages,2014,extended_published_shares.csv
+Do you approve of the move from a state-controlled to a market economy?,Pew,transition_approval,"1991, 2009, 2011, 2019",pew_published_results.csv
+Is guaranteeing nobody is in need more important than freedom from state interference?,Pew,welfare_vs_freedom,"1991, 2002, 2009, 2011",extended_published_shares.csv
+Is the economic situation better than under communism?,Pew,better_than_communism,"2009, 2019",extended_published_shares.csv
+Have business people benefited from the post-1991 changes?,Pew,transition_business,"2009, 2011, 2019",extended_published_shares.csv
+Have ordinary people benefited from the post-1991 changes?,Pew,transition_ordinary,"2009, 2011, 2019",extended_published_shares.csv
+Have politicians benefited from the post-1991 changes?,Pew,transition_politicians,"2009, 2011, 2019",extended_published_shares.csv
+Is conflict between managers and subordinates acute?,Monitoring,manager_worker_conflict,2017,extended_published_shares.csv
+Is conflict between employees and owners acute?,Monitoring,owner_worker_conflict,2017,extended_published_shares.csv
+Is conflict between rich and poor acute?,Monitoring,rich_poor_conflict,2017,extended_published_shares.csv
+"Do you accept the post-independence values of private property, enrichment, individualism and personal success?",Monitoring,accept_market_values,"2013, 2015, 2019",extended_published_shares.csv
+Is the opportunity for entrepreneurial initiative important?,Monitoring,enterprise_initiative,"2002, 2003, 2006, 2009, 2012, 2014, 2016, 2018, 2020",extended_published_shares.csv
+Have you adapted to the new life and found market relations a natural way of living?,Monitoring,market_relations_natural,"2003, 2007, 2009, 2012, 2013, 2014, 2015, 2019, 2021",extended_published_shares.csv
+What feeling do small-business owners evoke?,Monitoring,respect_owners_1,2019,extended_published_shares.csv
+What feeling do large-business owners evoke?,Monitoring,respect_owners_2,2019,extended_published_shares.csv
+What feeling do landowners farming themselves evoke?,Monitoring,respect_owners_3,2019,extended_published_shares.csv
+What feeling do landowners hiring workers evoke?,Monitoring,respect_owners_4,2019,extended_published_shares.csv
+Would you like to start your own business?,Monitoring,start_business,"2004, 2005, 2006, 2008, 2010, 2012, 2014, 2016, 2020",extended_published_shares.csv
+Is claiming state support to which one is not entitled never justified?,Monitoring,benefits_never,2019,extended_published_shares.csv
+"What should socially responsible business do: pay taxes, invest and create jobs?",Monitoring,business_duty_1,2019,extended_published_shares.csv
+What should socially responsible business do: improve working conditions?,Monitoring,business_duty_2,2019,extended_published_shares.csv
+What should socially responsible business do: train employees?,Monitoring,business_duty_3,2019,extended_published_shares.csv
+What should socially responsible business do: act responsibly towards the environment?,Monitoring,business_duty_4,2019,extended_published_shares.csv
+What should socially responsible business do: enter politics and govern?,Monitoring,business_duty_5,2019,extended_published_shares.csv
+What should socially responsible business do: provide charity?,Monitoring,business_duty_6,2019,extended_published_shares.csv
+What should socially responsible business do: sponsor culture and sport?,Monitoring,business_duty_7,2019,extended_published_shares.csv
+What should socially responsible business do: finance solutions to regional problems?,Monitoring,business_duty_8,2019,extended_published_shares.csv
+Is not paying taxes when possible never justified?,Monitoring,tax_never,2019,extended_published_shares.csv
+Do you trust banks?,Monitoring,trust_banks,"2002, 2004, 2005, 2006, 2008, 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021",extended_published_shares.csv
+Do you trust private entrepreneurs?,Monitoring,trust_private_entrepreneurs,"1994, 1996, 1998, 2000, 2006, 2008, 2010, 2012, 2013, 2014, 2015",extended_published_shares.csv
+Do you trust managers of state enterprises?,Monitoring,trust_state_managers,"1994, 1996, 1998, 2000, 2006, 2008, 2010, 2012, 2013, 2014, 2015, 2020",extended_published_shares.csv
+Do you trust the tax authority?,Monitoring,trust_tax_authority,"2004, 2006, 2008, 2010, 2012, 2013, 2014, 2015, 2016, 2018, 2021",extended_published_shares.csv
+Do you trust trade unions?,Monitoring,trust_unions,"2002, 2004, 2005, 2006, 2008, 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021",extended_published_shares.csv
+Which measures would end the crisis: nationalise strategic private firms?,Monitoring,crisis_1,2017,extended_published_shares.csv
+Which measures would end the crisis: create jobs mainly in large industrial firms?,Monitoring,crisis_10,2017,extended_published_shares.csv
+Which measures would end the crisis: attract mainly foreign capital?,Monitoring,crisis_11,2017,extended_published_shares.csv
+Which measures would end the crisis: use mainly domestic capital?,Monitoring,crisis_12,2017,extended_published_shares.csv
+Which measures would end the crisis: allow agricultural land sales?,Monitoring,crisis_13,2017,extended_published_shares.csv
+Which measures would end the crisis: privatise strategic state firms?,Monitoring,crisis_2,2017,extended_published_shares.csv
+Which measures would end the crisis: raise taxes on big business?,Monitoring,crisis_3,2017,extended_published_shares.csv
+Which measures would end the crisis: increase economic cooperation with the West?,Monitoring,crisis_4,2017,extended_published_shares.csv
+Which measures would end the crisis: increase economic cooperation with Russia?,Monitoring,crisis_5,2017,extended_published_shares.csv
+Which measures would end the crisis: substantially raise industrial wages?,Monitoring,crisis_6,2017,extended_published_shares.csv
+Which measures would end the crisis: follow IMF reform recommendations?,Monitoring,crisis_7,2017,extended_published_shares.csv
+Which measures would end the crisis: reject IMF reform recommendations?,Monitoring,crisis_8,2017,extended_published_shares.csv
+Which measures would end the crisis: create jobs mainly in small and medium businesses?,Monitoring,crisis_9,2017,extended_published_shares.csv
+Do you favour existing private ownership of land?,Monitoring,existing_private_land,"2013, 2017, 2020",monitoring_estimates.csv
+Do you favour existing private ownership of large enterprises?,Monitoring,existing_private_large,"2013, 2017, 2020",monitoring_estimates.csv
+Do you favour existing private ownership of small enterprises?,Monitoring,existing_private_small,"2013, 2017, 2020",monitoring_estimates.csv
+Full land ownership including right to sell?,Monitoring,land_ownership_rights,"2017, 2019, 2020",monitoring_estimates.csv
+Allow buying and selling agricultural land?,Monitoring,land_sales_agricultural,"2017, 2019, 2021",monitoring_estimates.csv
+Allow buying and selling land (general wording)?,Monitoring,land_sales_general,"1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2005, 2006, 2008, 2010, 2012, 2014, 2016, 2018",monitoring_estimates.csv
+Should Ukraine’s economy be based on a mix of state and private ownership?,Monitoring,ownership_mixed,2015,extended_published_shares.csv
+Broad privatisation?,Monitoring,ownership_policy_broad_privatisation,"2023, 2024, 2025",monitoring_estimates.csv
+Nationalise private enterprises?,Monitoring,ownership_policy_nationalise,"2023, 2024, 2025",monitoring_estimates.csv
+Privatise except efficient state enterprises?,Monitoring,ownership_policy_privatise_except_efficient_state_firms,"2023, 2024, 2025",monitoring_estimates.csv
+Retain existing state enterprises?,Monitoring,ownership_policy_retain_state_firms,"2023, 2024, 2025",monitoring_estimates.csv
+Should Ukraine’s economy be based on mainly or exclusively private ownership?,Monitoring,ownership_private,2015,extended_published_shares.csv
+Should Ukraine’s economy be based on mainly or exclusively state ownership?,Monitoring,ownership_state,2015,extended_published_shares.csv
+Approve developing private business?,Monitoring,private_business,"1992, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2010, 2012, 2014",monitoring_estimates.csv
+Do you favour privatisation of land?,Monitoring,privatise_land,"1992, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2021",monitoring_estimates.csv
+Do you favour privatisation of large enterprises?,Monitoring,privatise_large,"1992, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2021",monitoring_estimates.csv
+Do you favour privatisation of small enterprises?,Monitoring,privatise_small,"1992, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2010, 2012, 2014, 2016, 2018, 2021",monitoring_estimates.csv
+Do you oppose returning privately owned land to the state?,Monitoring,renationalise_land,"2013, 2017, 2020",monitoring_estimates.csv
+Do you oppose returning privately owned large enterprises to the state?,Monitoring,renationalise_large,"2013, 2017, 2020",monitoring_estimates.csv
+Do you oppose returning privately owned small enterprises to the state?,Monitoring,renationalise_small,"2013, 2017, 2020",monitoring_estimates.csv
+Was privatisation of land worth doing?,Monitoring,retrospective_land,"2013, 2017, 2020",monitoring_estimates.csv
+Was privatisation of large enterprises worth doing?,Monitoring,retrospective_large,"2013, 2017, 2020",monitoring_estimates.csv
+Was privatisation of small enterprises worth doing?,Monitoring,retrospective_small,"2013, 2017, 2020",monitoring_estimates.csv
+Support political forces advocating capitalism?,Monitoring,socialism_capitalism_political_support,"1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2010, 2011, 2012, 2014, 2016",monitoring_estimates.csv
+Market with minimal state involvement?,Monitoring,state_role_minimal_state_market,"2002, 2003, 2004, 2005, 2006, 2008, 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2021",monitoring_estimates.csv
+Combine state management and market methods?,Monitoring,state_role_mixed_state_market,"2002, 2003, 2004, 2005, 2006, 2008, 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2021",monitoring_estimates.csv
+Return to a planned economy?,Monitoring,state_role_planned_economy,"2002, 2003, 2004, 2005, 2006, 2008, 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2021",monitoring_estimates.csv
+Willing to work for a private employer?,Monitoring,work_private_employer,"1992, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2010, 2012, 2014, 2019, 2021",monitoring_estimates.csv
+"Businesses only interested in profit, not improve service/quality?",ESS,bsnprft,2005,ess_affirmative_shares.csv
+Citizens should not cheat on taxes?,ESS,ctzchtx,2005,ess_affirmative_shares.csv
+Large differences in income acceptable to reward talents and efforts?,ESS,dfincac,2009,ess_affirmative_shares.csv
+Government decrease/increase taxes and social spending?,ESS,ditxssp,2009,ess_affirmative_shares.csv
+Higher or lower earners should get larger old age pensions?,ESS,earnpen,2009,ess_affirmative_shares.csv
+Higher or lower earners should get larger unemployment benefits?,ESS,earnueb,2009,ess_affirmative_shares.csv
+Nowadays large firms work together in order to keep prices high?,ESS,frmwktg,2005,ess_affirmative_shares.csv
+Should the government take measures to reduce differences in income levels?,ESS,gincdif,"2005, 2007, 2009, 2011, 2013, 2022, 2024",ess_affirmative_shares.csv
+How important is government reduction of income differences for democracy?,ESS,grdfinc,"2013, 2022",ess_affirmative_shares.csv
+"Child care services for working parents, governments' responsibility?",ESS,gvcldcr,2009,ess_affirmative_shares.csv
+How important is government protection against poverty for democracy?,ESS,gvctzpv,"2013, 2022",ess_affirmative_shares.csv
+"Health care for the sick, governments' responsibility?",ESS,gvhlthc,2009,ess_affirmative_shares.csv
+"Job for everyone, governments' responsibility?",ESS,gvjbevn,2009,ess_affirmative_shares.csv
+"Paid leave from work to care for sick family, governments' responsibility?",ESS,gvpdlwk,2009,ess_affirmative_shares.csv
+Government do more to prevent people falling into poverty?,ESS,gvprppv,2011,ess_affirmative_shares.csv
+"Standard of living for the old, governments' responsibility?",ESS,gvslvol,2009,ess_affirmative_shares.csv
+"Standard of living for the unemployed, governments' responsibility?",ESS,gvslvue,2009,ess_affirmative_shares.csv
+When should immigrants obtain rights to social benefits/services?,ESS,imsclbn,2009,ess_affirmative_shares.csv
+"If you want to make money, you can't always act honestly?",ESS,mnyacth,2005,ess_affirmative_shares.csv
+"Someone paying cash without receipt to avoid VAT or tax, how wrong?",ESS,pyavtxw,2005,ess_affirmative_shares.csv
+Social benefits/services cost businesses too much in taxes/charges?,ESS,sbbsntx,2009,ess_affirmative_shares.csv
+Social benefits/services make it easier to combine work and family?,ESS,sbcwkfm,2009,ess_affirmative_shares.csv
+Social benefits/services encourage people other countries to come live here?,ESS,sbenccm,2009,ess_affirmative_shares.csv
+Social benefits/services lead to a more equal society?,ESS,sbeqsoc,2009,ess_affirmative_shares.csv
+Social benefits/services make people lazy?,ESS,sblazy,2009,ess_affirmative_shares.csv
+Social benefits/services make people less willing care for one another?,ESS,sblwcoa,2009,ess_affirmative_shares.csv
+Social benefits/services make people less willing look after themselves/family?,ESS,sblwlka,2009,ess_affirmative_shares.csv
+Social benefits/services prevent widespread poverty?,ESS,sbprvpv,2009,ess_affirmative_shares.csv
+Social benefits/services place too great strain on economy?,ESS,sbstrec,2009,ess_affirmative_shares.csv
+Society better off if everyone looked after themselves?,ESS,scbevts,2005,ess_affirmative_shares.csv
+"For fair society, differences in standard of living should be small?",ESS,smdfslv,2009,ess_affirmative_shares.csv
+Taxation for higher versus lower earners?,ESS,txearn,2009,ess_affirmative_shares.csv
+Most unemployed people do not really try to find a job?,ESS,uentrjb,2009,ess_affirmative_shares.csv
+Many manage to obtain benefits/services not entitled to?,ESS,bennent,2009,ess_affirmative_shares.csv
+Nowadays customer/consumer are in better position to protect interest?,ESS,cmprcti,2005,ess_affirmative_shares.csv
+Require both parents to take equal periods of paid leave to care for their child?,ESS,eqparlv,2024,ess_affirmative_shares.csv
+Making businesses pay a fine when they pay men more than women for doing the same work?,ESS,fineqpy,2024,ess_affirmative_shares.csv
+To what extent does the government in Ukraine reduce income differences?,ESS,grdfincc,"2013, 2022",ess_affirmative_shares.csv
+To what extent does the government in Ukraine protect citizens against poverty?,ESS,gvctzpvc,"2013, 2022",ess_affirmative_shares.csv
+Is immigration bad or good for Ukraine's economy?,ESS,imbgeco,"2005, 2007, 2009, 2011, 2013, 2022, 2024",ess_affirmative_shares.csv
+Immigrants receive more or less than they contribute?,ESS,imrccon,2009,ess_affirmative_shares.csv
+Insufficient benefits in country to help people in real need?,ESS,insfben,2009,ess_affirmative_shares.csv
+Many with very low incomes get less benefit than legally entitled to?,ESS,lbenent,2009,ess_affirmative_shares.csv
+Employees often pretend they are sick to stay at home?,ESS,prtsick,2009,ess_affirmative_shares.csv
+Trust financial companies/bank/insurers deal honestly with you?,ESS,tstfnch,2005,ess_affirmative_shares.csv
+Trust public officials deal honestly with you?,ESS,tstpboh,2005,ess_affirmative_shares.csv
+Trust plumber/builder/mechanic/other repairer deal honestly with you?,ESS,tstrprh,2005,ess_affirmative_shares.csv
+People in wealthy countries should pay additional tax to help poorer countries?,ISSP,aid_tax,2019,issp_affirmative_shares.csv
+Is it fair that richer people can buy better education for their children?,ISSP,buy_education,"2009, 2019",issp_affirmative_shares.csv
+Is it fair that richer people can buy better healthcare?,ISSP,buy_health,"2009, 2019",issp_affirmative_shares.csv
+Companies should reduce differences in employee pay?,ISSP,company_pay_gap,2019,issp_affirmative_shares.csv
+Government should spend less on benefits for poor people?,ISSP,cut_poor_benefits,2009,issp_affirmative_shares.csv
+Large income differences are necessary for prosperity?,ISSP,inequality_prosperity,2019,issp_affirmative_shares.csv
+People from poor countries should be allowed to work in wealthy countries?,ISSP,labour_migration,2019,issp_affirmative_shares.csv
+What should determine pay: children to support?,ISSP,pay_children,"2009, 2019",issp_affirmative_shares.csv
+What should determine pay: education and training?,ISSP,pay_education,"2009, 2019",issp_affirmative_shares.csv
+What should determine pay: how hard the person works?,ISSP,pay_effort,2009,issp_affirmative_shares.csv
+What should determine pay: what is needed to support a family?,ISSP,pay_family,2009,issp_affirmative_shares.csv
+What should determine pay: how well the job is done?,ISSP,pay_performance,"2009, 2019",issp_affirmative_shares.csv
+What should determine pay: job responsibility?,ISSP,pay_responsibility,"2009, 2019",issp_affirmative_shares.csv
+Government should reduce income differences?,ISSP,redistribution,"2009, 2019",issp_affirmative_shares.csv
+Who should have the greatest responsibility for reducing income differences?,ISSP,responsibility,2019,issp_affirmative_shares.csv
+Workers need extra pay to acquire skills and qualifications?,ISSP,skill_premium,2019,issp_affirmative_shares.csv
+Which shape of society would you prefer for Ukraine?,ISSP,society_ideal,"2009, 2019",issp_affirmative_shares.csv
+"Should richer people pay higher, the same or lower taxes?",ISSP,tax_rich,"2009, 2019",issp_affirmative_shares.csv
+Government should provide a decent living for unemployed people?,ISSP,unemployed_living,"2009, 2019",issp_affirmative_shares.csv
+Importance for getting ahead: having ambition?,ISSP,ahead_ambition,2009,issp_affirmative_shares.csv
+Importance for getting ahead: giving bribes?,ISSP,ahead_bribes,"2009, 2019",issp_affirmative_shares.csv
+Importance for getting ahead: knowing the right people?,ISSP,ahead_connections,"2009, 2019",issp_affirmative_shares.csv
+Importance for getting ahead: having a good education?,ISSP,ahead_education,"2009, 2019",issp_affirmative_shares.csv
+Importance for getting ahead: being born a man or woman?,ISSP,ahead_gender,"2009, 2019",issp_affirmative_shares.csv
+Importance for getting ahead: having well-educated parents?,ISSP,ahead_parents,"2009, 2019",issp_affirmative_shares.csv
+Importance for getting ahead: political connections?,ISSP,ahead_political,"2009, 2019",issp_affirmative_shares.csv
+Importance for getting ahead: ethnic background (nationality)?,ISSP,ahead_race,"2009, 2019",issp_affirmative_shares.csv
+Importance for getting ahead: a person’s religion?,ISSP,ahead_religion,"2009, 2019",issp_affirmative_shares.csv
+Importance for getting ahead: coming from a wealthy family?,ISSP,ahead_wealth,"2009, 2019",issp_affirmative_shares.csv
+Importance for getting ahead: hard work?,ISSP,ahead_work,"2009, 2019",issp_affirmative_shares.csv
+How angry do differences in wealth between rich and poor make you?,ISSP,anger,2019,issp_affirmative_shares.csv
+Confidence in business and industry?,ISSP,business_confidence,2008,issp_affirmative_shares.csv
+How much conflict is there between working and middle classes?,ISSP,conflict_class,"2009, 2019",issp_affirmative_shares.csv
+How much conflict is there between management and workers?,ISSP,conflict_management,"2009, 2019",issp_affirmative_shares.csv
+How much conflict is there between rich and poor?,ISSP,conflict_rich_poor,"2009, 2019",issp_affirmative_shares.csv
+How much conflict is there between top and bottom of society?,ISSP,conflict_top_bottom,2009,issp_affirmative_shares.csv
+Getting to the top requires being corrupt?,ISSP,corrupt_to_top,2009,issp_affirmative_shares.csv
+Students from the best secondary schools have the best chances of university education?,ISSP,elite_school_access,2009,issp_affirmative_shares.csv
+People have equal chances of entering university regardless of background?,ISSP,equal_university,2009,issp_affirmative_shares.csv
+Economic differences between rich and poor countries are too large?,ISSP,global_gap,2019,issp_affirmative_shares.csv
+Is government successful in reducing income differences?,ISSP,gov_success,2019,issp_affirmative_shares.csv
+Is the income distribution in Ukraine fair?,ISSP,income_fair,2019,issp_affirmative_shares.csv
+Income differences are too large?,ISSP,income_gap,"2009, 2019",issp_affirmative_shares.csv
+Inequality persists because ordinary people do not unite against it?,ISSP,inequality_collective,2019,issp_affirmative_shares.csv
+Inequality persists because it benefits the rich and powerful?,ISSP,inequality_power,2019,issp_affirmative_shares.csv
+Politicians do not care about reducing income differences?,ISSP,politicians_indifferent,2019,issp_affirmative_shares.csv
+Only the rich can afford university?,ISSP,rich_university,2009,issp_affirmative_shares.csv
+Which diagram best describes the shape of Ukrainian society?,ISSP,society_actual,"2009, 2019",issp_affirmative_shares.csv
+Are current taxes on high incomes too high or too low?,ISSP,tax_level,"2009, 2019",issp_affirmative_shares.csv
+How much does a corporate chairman earn per month after taxes?,ISSP,earn_actual_chairman,"2009, 2019",issp_estimates.csv
+How much does a doctor earn per month after taxes?,ISSP,earn_actual_doctor,"2009, 2019",issp_estimates.csv
+How much does a cabinet minister earn per month after taxes?,ISSP,earn_actual_minister,"2009, 2019",issp_estimates.csv
+How much does a shop assistant earn per month after taxes?,ISSP,earn_actual_shop,"2009, 2019",issp_estimates.csv
+How much does an unskilled factory worker earn per month after taxes?,ISSP,earn_actual_worker,"2009, 2019",issp_estimates.csv
+How much should a corporate chairman earn per month after taxes?,ISSP,earn_ideal_chairman,"2009, 2019",issp_estimates.csv
+How much should a doctor earn per month after taxes?,ISSP,earn_ideal_doctor,"2009, 2019",issp_estimates.csv
+How much should a cabinet minister earn per month after taxes?,ISSP,earn_ideal_minister,"2009, 2019",issp_estimates.csv
+How much should a shop assistant earn per month after taxes?,ISSP,earn_ideal_shop,"2009, 2019",issp_estimates.csv
+How much should an unskilled factory worker earn per month after taxes?,ISSP,earn_ideal_worker,"2009, 2019",issp_estimates.csv

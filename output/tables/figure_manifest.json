@@ -1,0 +1,23 @@
+{
+  "figures": [
+    "national_dimension_trends",
+    "wvs_age_dimension_trends",
+    "evs_age_dimension_trends",
+    "national_index_trends",
+    "index_age_trends",
+    "lits_response_shares",
+    "lits_age_groups",
+    "lits_territory_sensitivity",
+    "monitoring_business_privatisation",
+    "monitoring_state_role",
+    "monitoring_privatisation_index",
+    "monitoring_ownership_module",
+    "monitoring_later_policy",
+    "lits_additional_dimensions",
+    "pew_market_trends",
+    "market_principle_ranking",
+    "attitude_correlation_matrices",
+    "coherence_over_time"
+  ],
+  "uncertainty": "Microdata: approximate 95% confidence intervals. Monitoring: published point estimates; intervals unavailable."
+}

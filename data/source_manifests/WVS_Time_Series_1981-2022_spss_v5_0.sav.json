@@ -1,0 +1,12 @@
+{
+  "path": "data/raw/WVS_Time_Series_1981-2022_spss_v5_0.sav",
+  "url": "https://www.worldvaluessurvey.org/WVSDocumentationWVL.jsp",
+  "document_id": 11933,
+  "label": "WVS-only Time Series 1981-2022 SPSS v5.0",
+  "retrieved_local_date": "2026-09-25",
+  "acquisition": "User registered download; archive member extracted unchanged",
+  "bytes": 641058141,
+  "sha256": "9e939f64e98bf702c956ec4ce4728b0ac8cd16c18d5a71fc8b9fafeb30dd81f7",
+  "archive_file": "data/raw/F00011933-WVS_Time_Series_1981-2022_spss_v5_0.zip",
+  "archive_sha256": "7e2da324aa4322821cdba57c786abfe3ca844d1272be774e0a000bd964b0a4f6"
+}

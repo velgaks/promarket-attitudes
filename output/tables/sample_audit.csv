@@ -1,0 +1,11 @@
+survey,year,file,n_raw,excluded_age,excluded_weight,n_eligible,weight_variable,age_variable,item_variable,psu_variable,region_variable,territory_available
+LiTS,2006,LITS-2006-data.dta,1000,0,0,1000,weight_0,ageB,q310,tabled,region,False
+LiTS,2010,lits2.dta,1559,0,1,1558,weight,respondentage,q310,psu,Region1,True
+LiTS,2016,lits_iii.dta,1507,0,0,1507,weight_population,age_pr,q411,PSU_number,region_name,True
+WVS,1996,WVS_Time_Series_1981-2022_spss_v5_0.sav,2811,0,0,2811,S017,X003,E035/E036/E037/E039,unavailable,X048WVS,True
+WVS,2006,WVS_Time_Series_1981-2022_spss_v5_0.sav,1000,0,0,1000,S017,X003,E035/E036/E037/E039,unavailable,,False
+WVS,2011,WVS_Time_Series_1981-2022_spss_v5_0.sav,1500,0,0,1500,S017,X003,E035/E036/E037/E039,unavailable,X048ISO,True
+WVS,2020,WVS_Time_Series_1981-2022_spss_v5_0.sav,1289,0,0,1289,S017,X003,E035/E036/E037/E039,unavailable,X048ISO,True
+EVS,1999,ZA7503_v3-0-0.sav,1195,0,0,1195,S017,X003,E035/E036/E037/E039,unavailable,X048_EVS,True
+EVS,2008,ZA7503_v3-0-0.sav,1507,0,0,1507,S017,X003,E035/E036/E037/E039,unavailable,X048B_N2,True
+EVS,2020,ZA7503_v3-0-0.sav,1612,0,0,1612,S017,X003,E035/E036/E037/E039,unavailable,X048I_N2,True

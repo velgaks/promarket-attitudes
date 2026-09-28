@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "charts": 95,
+  "question_types": {
+    "ordinal": 57,
+    "numeric": 31,
+    "nominal": 7
+  },
+  "plotted_estimates": 1444,
+  "maximum_category_sum_rounding_error": 1.0,
+  "checks": [
+    "All eligible indicators mapped to complete questions",
+    "Every source option assigned exactly once",
+    "Category shares sum to 100 within publication rounding",
+    "Existing numeric means reproduced",
+    "Numeric special codes excluded and quantified",
+    "Unasked options remain absent, never zero"
+  ],
+  "multiple_answer_questions": "None in the audited inventory meet both >=2 years and latest >=2019; crisis choices end in 2017 and business duties have only 2019."
+}

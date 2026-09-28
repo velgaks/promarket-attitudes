@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "indicators": 27,
+  "estimates": 253,
+  "underlying_question_items": 20,
+  "source_contributions": 363,
+  "main_period_estimates": 229,
+  "later_estimates": 24,
+  "privatisation_index_waves": 21,
+  "confidence_intervals": "unavailable; not fabricated",
+  "checks": [
+    "Every derived estimate reconciles to its named source cells",
+    "Unchanged denominators include undecided and nonresponse",
+    "Original privatisation and existing private ownership remain separate",
+    "Renationalisation coding reversed",
+    "Fixed three-sector index composition"
+  ]
+}

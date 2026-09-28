@@ -1,0 +1,48 @@
+﻿item,question,question_type,scope,years,rounds,latest_year,n_waves,html_eligible
+gincdif,Should the government take measures to reduce differences in income levels?,ordinal,Direct economic attitude,"2005, 2007, 2009, 2011, 2013, 2022, 2024","2, 3, 4, 5, 6, 10, 11",2024,7,True
+bsnprft,"Businesses only interested in profit, not improve service/quality?",ordinal,Direct economic attitude,2005,2,2005,1,False
+cmprcti,Nowadays customer/consumer are in better position to protect interest?,ordinal,Related belief/evaluation/regulation,2005,2,2005,1,False
+ctzchtx,Citizens should not cheat on taxes?,ordinal,Direct economic attitude,2005,2,2005,1,False
+frmwktg,Nowadays large firms work together in order to keep prices high?,ordinal,Direct economic attitude,2005,2,2005,1,False
+mnyacth,"If you want to make money, you can't always act honestly?",ordinal,Direct economic attitude,2005,2,2005,1,False
+scbevts,Society better off if everyone looked after themselves?,ordinal,Direct economic attitude,2005,2,2005,1,False
+imbgeco,Is immigration bad or good for Ukraine's economy?,numeric,Related belief/evaluation/regulation,"2005, 2007, 2009, 2011, 2013, 2022, 2024","2, 3, 4, 5, 6, 10, 11",2024,7,True
+tstfnch,Trust financial companies/bank/insurers deal honestly with you?,numeric,Related belief/evaluation/regulation,2005,2,2005,1,False
+tstpboh,Trust public officials deal honestly with you?,numeric,Related belief/evaluation/regulation,2005,2,2005,1,False
+tstrprh,Trust plumber/builder/mechanic/other repairer deal honestly with you?,numeric,Related belief/evaluation/regulation,2005,2,2005,1,False
+pyavtxw,"Someone paying cash without receipt to avoid VAT or tax, how wrong?",ordinal,Direct economic attitude,2005,2,2005,1,False
+dfincac,Large differences in income acceptable to reward talents and efforts?,ordinal,Direct economic attitude,2009,4,2009,1,False
+smdfslv,"For fair society, differences in standard of living should be small?",ordinal,Direct economic attitude,2009,4,2009,1,False
+bennent,Many manage to obtain benefits/services not entitled to?,ordinal,Related belief/evaluation/regulation,2009,4,2009,1,False
+insfben,Insufficient benefits in country to help people in real need?,ordinal,Related belief/evaluation/regulation,2009,4,2009,1,False
+lbenent,Many with very low incomes get less benefit than legally entitled to?,ordinal,Related belief/evaluation/regulation,2009,4,2009,1,False
+prtsick,Employees often pretend they are sick to stay at home?,ordinal,Related belief/evaluation/regulation,2009,4,2009,1,False
+sbbsntx,Social benefits/services cost businesses too much in taxes/charges?,ordinal,Direct economic attitude,2009,4,2009,1,False
+sbcwkfm,Social benefits/services make it easier to combine work and family?,ordinal,Direct economic attitude,2009,4,2009,1,False
+sbenccm,Social benefits/services encourage people other countries to come live here?,ordinal,Direct economic attitude,2009,4,2009,1,False
+sbeqsoc,Social benefits/services lead to a more equal society?,ordinal,Direct economic attitude,2009,4,2009,1,False
+sblazy,Social benefits/services make people lazy?,ordinal,Direct economic attitude,2009,4,2009,1,False
+sblwcoa,Social benefits/services make people less willing care for one another?,ordinal,Direct economic attitude,2009,4,2009,1,False
+sblwlka,Social benefits/services make people less willing look after themselves/family?,ordinal,Direct economic attitude,2009,4,2009,1,False
+sbprvpv,Social benefits/services prevent widespread poverty?,ordinal,Direct economic attitude,2009,4,2009,1,False
+sbstrec,Social benefits/services place too great strain on economy?,ordinal,Direct economic attitude,2009,4,2009,1,False
+uentrjb,Most unemployed people do not really try to find a job?,ordinal,Direct economic attitude,2009,4,2009,1,False
+ditxssp,Government decrease/increase taxes and social spending?,numeric,Direct economic attitude,2009,4,2009,1,False
+gvcldcr,"Child care services for working parents, governments' responsibility?",numeric,Direct economic attitude,2009,4,2009,1,False
+gvhlthc,"Health care for the sick, governments' responsibility?",numeric,Direct economic attitude,2009,4,2009,1,False
+gvjbevn,"Job for everyone, governments' responsibility?",numeric,Direct economic attitude,2009,4,2009,1,False
+gvpdlwk,"Paid leave from work to care for sick family, governments' responsibility?",numeric,Direct economic attitude,2009,4,2009,1,False
+gvslvol,"Standard of living for the old, governments' responsibility?",numeric,Direct economic attitude,2009,4,2009,1,False
+gvslvue,"Standard of living for the unemployed, governments' responsibility?",numeric,Direct economic attitude,2009,4,2009,1,False
+imrccon,Immigrants receive more or less than they contribute?,numeric,Related belief/evaluation/regulation,2009,4,2009,1,False
+earnpen,Higher or lower earners should get larger old age pensions?,nominal,Direct economic attitude,2009,4,2009,1,False
+earnueb,Higher or lower earners should get larger unemployment benefits?,nominal,Direct economic attitude,2009,4,2009,1,False
+txearn,Taxation for higher versus lower earners?,nominal,Direct economic attitude,2009,4,2009,1,False
+imsclbn,When should immigrants obtain rights to social benefits/services?,ordinal,Direct economic attitude,2009,4,2009,1,False
+gvprppv,Government do more to prevent people falling into poverty?,ordinal,Direct economic attitude,2011,5,2011,1,False
+gvctzpv,How important is government protection against poverty for democracy?,numeric,Direct economic attitude,"2013, 2022","6, 10",2022,2,True
+grdfinc,How important is government reduction of income differences for democracy?,numeric,Direct economic attitude,"2013, 2022","6, 10",2022,2,True
+gvctzpvc,To what extent does the government in Ukraine protect citizens against poverty?,numeric,Related belief/evaluation/regulation,"2013, 2022","6, 10",2022,2,True
+grdfincc,To what extent does the government in Ukraine reduce income differences?,numeric,Related belief/evaluation/regulation,"2013, 2022","6, 10",2022,2,True
+fineqpy,Making businesses pay a fine when they pay men more than women for doing the same work?,ordinal,Related belief/evaluation/regulation,2024,11,2024,1,False
+eqparlv,Require both parents to take equal periods of paid leave to care for their child?,ordinal,Related belief/evaluation/regulation,2024,11,2024,1,False

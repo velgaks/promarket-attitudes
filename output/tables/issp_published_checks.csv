@@ -1,0 +1,16 @@
+survey,year,field,response_code,raw_count,published_count,valid_n,published_percent,reproduced_percent,source_pdf,pdf_page,source_sha256,denominator,status
+ISSP,2009,V32,1,1488,1488,1979,75.2,75.18948964123295,2009_variable_report.pdf,99,742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b,"Unweighted valid substantive answers, matching codebook",passed
+ISSP,2009,V32,2,414,414,1979,20.9,20.91965639211723,2009_variable_report.pdf,99,742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b,"Unweighted valid substantive answers, matching codebook",passed
+ISSP,2009,V32,3,63,63,1979,3.2,3.1834259727134917,2009_variable_report.pdf,99,742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b,"Unweighted valid substantive answers, matching codebook",passed
+ISSP,2009,V32,4,11,11,1979,0.6,0.5558362809499747,2009_variable_report.pdf,99,742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b,"Unweighted valid substantive answers, matching codebook",passed
+ISSP,2009,V32,5,3,3,1979,0.2,0.15159171298635674,2009_variable_report.pdf,99,742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b,"Unweighted valid substantive answers, matching codebook",passed
+ISSP,2009,V33,1,1244,1244,1938,64.2,64.18988648090816,2009_variable_report.pdf,101,742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b,"Unweighted valid substantive answers, matching codebook",passed
+ISSP,2009,V33,2,502,502,1938,25.9,25.90299277605779,2009_variable_report.pdf,101,742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b,"Unweighted valid substantive answers, matching codebook",passed
+ISSP,2009,V33,3,150,150,1938,7.7,7.739938080495356,2009_variable_report.pdf,101,742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b,"Unweighted valid substantive answers, matching codebook",passed
+ISSP,2009,V33,4,30,30,1938,1.5,1.5479876160990713,2009_variable_report.pdf,101,742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b,"Unweighted valid substantive answers, matching codebook",passed
+ISSP,2009,V33,5,12,12,1938,0.6,0.6191950464396285,2009_variable_report.pdf,101,742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b,"Unweighted valid substantive answers, matching codebook",passed
+ISSP,2009,V36,1,1081,1081,1852,58.4,58.36933045356371,2009_variable_report.pdf,107,742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b,"Unweighted valid substantive answers, matching codebook",passed
+ISSP,2009,V36,2,552,552,1852,29.8,29.805615550755938,2009_variable_report.pdf,107,742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b,"Unweighted valid substantive answers, matching codebook",passed
+ISSP,2009,V36,3,191,191,1852,10.3,10.31317494600432,2009_variable_report.pdf,107,742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b,"Unweighted valid substantive answers, matching codebook",passed
+ISSP,2009,V36,4,22,22,1852,1.2,1.187904967602592,2009_variable_report.pdf,107,742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b,"Unweighted valid substantive answers, matching codebook",passed
+ISSP,2009,V36,5,6,6,1852,0.3,0.32397408207343414,2009_variable_report.pdf,107,742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b,"Unweighted valid substantive answers, matching codebook",passed

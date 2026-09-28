@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the original survey sources when using this analysis."
+title: "Market attitudes in Ukraine"
+authors:
+  - family-names: "Hatsko"
+    given-names: "Valentyn"
+type: software
+repository-code: "https://github.com/velgaks/promarket-attitudes"
+url: "https://velgaks.github.io/promarket-attitudes/"
+date-released: 2026-09-28
+abstract: "Descriptive analysis of Ukrainian attitudes toward markets and the economic role of the state, using WVS, EVS, LiTS, Pew, Monitoring, ESS and ISSP."

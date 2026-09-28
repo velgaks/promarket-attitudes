@@ -1,0 +1,94 @@
+{
+  "acquired": "2026-09-28",
+  "files": [
+    {
+      "file": "data\\raw\\issp\\ZA4950_v2-3-0.sav",
+      "sha256": "ac5927d0ff1cc1ce56f46fc7ad242684e9bb3a95654df459df7ba64e1d3feb16",
+      "bytes": 69283121
+    },
+    {
+      "file": "data\\raw\\issp\\ZA5400_v4-0-0.sav",
+      "sha256": "ff5bd2c5c8c7ba6e8e7ba11541b464be2d464ddfa95385d74507f226bbbaaa2d",
+      "bytes": 69599115
+    },
+    {
+      "file": "data\\raw\\issp\\ZA7810_v1-0-0.sav",
+      "sha256": "694abfea6f4a06ec211c0e24428d0bce0acc0f3eff4453f98f44c99641d2bb43",
+      "bytes": 894495
+    }
+  ],
+  "archives": [
+    {
+      "file": "data\\raw\\issp\\ZA4950_v2-3-0.sav.zip",
+      "sha256": "9d7709049fb38abd830992f2b98497111d8582ca40a929161644651533352ef7"
+    },
+    {
+      "file": "data\\raw\\issp\\ZA5400_v4-0-0.sav.zip",
+      "sha256": "c372ed54ec22512565c4076576fac1cd0f2f78d2264ee4d6b9472ad18ed40ac0"
+    },
+    {
+      "file": "data\\raw\\issp\\ZA7810_v1-0-0.data.zip",
+      "sha256": "7a2d2773bbe769ccb6a5d813d69bd9768dd4ed0ba6b8201a72f0108913a2c5c4"
+    }
+  ],
+  "documentation": [
+    {
+      "file": "data\\documentation\\issp\\2008_source_questionnaire.pdf",
+      "sha256": "7b711ae8a0e8da8651846169734adee3d471367d6d216c3828f28e1fac1f95ac"
+    },
+    {
+      "file": "data\\documentation\\issp\\2009_monitoring.pdf",
+      "sha256": "1d6fab51de492610011d3d9c7d0cfdd3d390898a8ef657d55729836c11b555b5"
+    },
+    {
+      "file": "data\\documentation\\issp\\2009_ua_background.pdf",
+      "sha256": "cd2ecddfe1f8e3c049040f382bda16e3ea6c58597c7deac8aadc3464888ebe60"
+    },
+    {
+      "file": "data\\documentation\\issp\\2009_ua_questionnaire.pdf",
+      "sha256": "0a6c2663615eb773a628e6b102d7bee998e7fd7d7c989764fb42a616e9bf66ef"
+    },
+    {
+      "file": "data\\documentation\\issp\\2009_variable_report.pdf",
+      "sha256": "742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b"
+    },
+    {
+      "file": "data\\documentation\\issp\\2019_source_questionnaire.pdf",
+      "sha256": "9f7ba833b68880868c528c0af8bce49d1fe015a2af06d9f9c276831cfac43425"
+    },
+    {
+      "file": "data\\documentation\\issp\\replication_crosswalk.pdf",
+      "sha256": "afd86cf4003730f4b8dfd0c430929312e16b75726d26b29f1d44c8eefb064567"
+    },
+    {
+      "file": "data\\documentation\\issp\\ZA7810_backgroundvar_ua.pdf",
+      "sha256": "a28b174f8c1fa9f3ae77e453f2720bc3fb99e0c04e45a99135d8f5c99c40f8a9"
+    },
+    {
+      "file": "data\\documentation\\issp\\ZA7810_characteristics_ua.pdf",
+      "sha256": "0664370c288292b908509c2d3522223e197185048d9b60a5dd2517a7715a8202"
+    },
+    {
+      "file": "data\\documentation\\issp\\ZA7810_q_ua-ru.pdf",
+      "sha256": "40478ecc5ebd8600bad645fb65a25d8c479d37fcf4b123d6ad8c62857dda4185"
+    },
+    {
+      "file": "data\\documentation\\issp\\ZA7810_q_ua-ua.pdf",
+      "sha256": "de962a890533fb5272c33562ce5141c0fb7232abd81bd01fdf8deeba1079a356"
+    },
+    {
+      "file": "data\\documentation\\issp\\ZA7810_README.pdf",
+      "sha256": "0dcb7a4da1a669973ac8e73900093c415f515932ce3c9ee6cfaef6112d406c80"
+    },
+    {
+      "file": "data\\documentation\\issp\\ZA7810_TechnicalReport_ua.pdf",
+      "sha256": "5cb31c98b020acc8295b4ea54f5fddf39d065b311894c1db8705d3aa064fc4f0"
+    }
+  ],
+  "sources": [
+    "https://doi.org/10.4232/1.13161",
+    "https://doi.org/10.4232/1.12777",
+    "https://doi.org/10.4232/1.13853"
+  ],
+  "instructions": "Download ZA4950 v2.3.0, ZA5400 v4.0.0 and ZA7810 v1.0.0 through authenticated GESIS academic-research access. Original archives remain in data/raw/issp and are excluded from export packages."
+}

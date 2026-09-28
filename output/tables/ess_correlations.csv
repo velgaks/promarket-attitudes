@@ -1,0 +1,11 @@
+﻿survey,year,item,item_1,item_2,estimate,n_valid,coding
+ESS,2009,gincdif__dfincac,gincdif,dfincac,-0.14376067802335812,1638,Higher = stronger agreement with each stated proposition
+ESS,2009,gincdif__smdfslv,gincdif,smdfslv,0.35089822071857585,1601,Higher = stronger agreement with each stated proposition
+ESS,2009,gincdif__sblazy,gincdif,sblazy,-0.022304051783525333,1608,Higher = stronger agreement with each stated proposition
+ESS,2009,gincdif__sbstrec,gincdif,sbstrec,-0.11863158807317392,1528,Higher = stronger agreement with each stated proposition
+ESS,2009,dfincac__smdfslv,dfincac,smdfslv,-0.0555736988341405,1630,Higher = stronger agreement with each stated proposition
+ESS,2009,dfincac__sblazy,dfincac,sblazy,0.11067608325447288,1632,Higher = stronger agreement with each stated proposition
+ESS,2009,dfincac__sbstrec,dfincac,sbstrec,0.10457568801482485,1557,Higher = stronger agreement with each stated proposition
+ESS,2009,smdfslv__sblazy,smdfslv,sblazy,-0.020921147980228247,1591,Higher = stronger agreement with each stated proposition
+ESS,2009,smdfslv__sbstrec,smdfslv,sbstrec,-0.04550490926492107,1510,Higher = stronger agreement with each stated proposition
+ESS,2009,sblazy__sbstrec,sblazy,sbstrec,0.32383260846089373,1533,Higher = stronger agreement with each stated proposition

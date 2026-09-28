@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "evidence_type": "published aggregate supplement",
+  "national_waves": 4,
+  "published_age_groups": 3,
+  "microdata_acquired": false,
+  "source_page": "2019 topline PDF page 35, printed page 150, Q16a",
+  "national_net_checks": {
+    "1991": 52,
+    "2009": 36,
+    "2011": 34,
+    "2019": 47
+  },
+  "net_check_sources": [
+    "https://www.pewresearch.org/global/wp-content/uploads/sites/2/2019/10/Pew-Research-Center-Value-of-Europe-report-FINAL-UPDATED.pdf#page=23",
+    "https://www.pewresearch.org/global/2011/12/05/chapter-2-views-of-economic-changes-and-national-conditions/"
+  ],
+  "age_source": "2019 report PDF page 24, printed page 23; labels kept as published",
+  "ci_status": "Unavailable for these published items; no CI fabricated",
+  "age_harmonisation": "Published 35-59 and 60+ groups are not relabelled as 35-54 and 55+",
+  "microdata_access": "Pew account required at /dataset/spring-2019-survey-data/ and /dataset/fall-2009-survey-data/"
+}

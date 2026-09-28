@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "correlation_rows": 92,
+  "battery_waves": 21,
+  "bootstrap_replicates": 2000,
+  "seed": 20260925,
+  "ranked_principles": 11,
+  "checks": [
+    "Existing WVS/EVS correlations and alpha reproduced",
+    "Scale/weight invariance and positive-semidefinite matrices",
+    "Original LiTS codes and weights verified",
+    "Rank, unweighted and pairwise-complete sensitivity exported",
+    "Affirmative-share rankings compared with continuous means"
+  ],
+  "scope": "Within each survey and wave; national adult samples; no pooling of years or aggregate correlations"
+}

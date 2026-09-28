@@ -1,0 +1,9 @@
+survey,year,item,condition,estimate,se,ci_low,ci_high,n_valid,n_domain,n_psu,kish_n,weight_sum,weighted,variance_method
+LiTS,2010,private_ownership,market economy preferable,54.47099879455803,4.598230861069827,45.30882380299313,63.633173786122924,476,476,75,436.5259828949636,11963374.923828125,True,PSU linearization; no explicit strata; approximate
+LiTS,2010,competition,market economy preferable,80.88489822036773,2.682620524355894,75.53966014452354,86.23013629621192,476,476,75,436.5259828949636,11963374.923828125,True,PSU linearization; no explicit strata; approximate
+LiTS,2010,income_incentives,market economy preferable,36.13894191866496,4.152593231673593,27.864719286761378,44.413164550568546,476,476,75,436.5259828949636,11963374.923828125,True,PSU linearization; no explicit strata; approximate
+LiTS,2010,reduce_gap,market economy preferable,64.70552601016885,4.3598995072463715,56.018236607362546,73.39281541297515,462,476,75,423.4593985224132,11609931.337890625,True,PSU linearization; no explicit strata; approximate
+LiTS,2016,private_ownership,market economy preferable,68.24876667107128,6.354683897910298,55.58678260635911,80.91075073578345,474,489,75,231.8786251361414,11611752.280000001,True,PSU linearization; no explicit strata; approximate
+LiTS,2016,competition,market economy preferable,80.52223787657687,5.005667718675089,70.54822722469365,90.49624852846009,481,489,75,234.4188370277213,11687085.280000001,True,PSU linearization; no explicit strata; approximate
+LiTS,2016,income_incentives,market economy preferable,20.54943814322451,4.9332106819245425,10.719801288598674,30.379074997850346,486,489,75,237.19623197951213,11782368.370000001,True,PSU linearization; no explicit strata; approximate
+LiTS,2016,reduce_gap,market economy preferable,56.06351319194489,7.673728679143545,40.77327502853406,71.35375135535573,481,489,75,234.25143794918748,11689405.26,True,PSU linearization; no explicit strata; approximate

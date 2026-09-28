@@ -1,0 +1,20 @@
+{
+  "status": "analytical checks passed for acquired, verified data",
+  "coverage": {
+    "LiTS": true,
+    "WVS": true,
+    "EVS": true
+  },
+  "published_rounding_checks": 8,
+  "age_2006_matched_roster": 999,
+  "age_2006_roster_unverifiable_retained": 1,
+  "lits_2016_start_time_year_prefix": 2016,
+  "published_crosscheck_mismatches": 2,
+  "unresolved": [
+    "LiTS 2006 and WVS 2006 oblast mapping",
+    "WVS 2020 responsibility shares differ from report by about 0.1 percentage point; unresolved source-release/denominator detail",
+    "WVS/EVS sampling clusters and country-language translation equivalence not fully verified",
+    "stratum identifiers unavailable; approximate PSU-based intervals",
+    "cross-wave PSU linkage unavailable; no formal change tests"
+  ]
+}

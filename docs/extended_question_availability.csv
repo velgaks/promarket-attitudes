@@ -1,0 +1,345 @@
+survey,year,item,field,n_valid,status,source_file,question,source_label
+WVS,1996,E036,E036,2589,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should private ownership of business increase?,Private vs state ownership of business
+WVS,1996,E039,E039,2452,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is competition beneficial?,Competition good or harmful
+WVS,1996,E037,E037,2691,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should individuals take more responsibility for providing for themselves?,Government responsibility
+WVS,1996,E035,E035,2553,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should income differences provide incentives for effort?,Income equality
+WVS,1996,E038,E038,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should unemployed people accept any available job?,Job taking of the unemployed
+WVS,1996,E042,E042,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should the state give firms more freedom?,
+WVS,1996,E040,E040,2544,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Does hard work bring a better life?,Hard work brings success
+WVS,1996,E041,E041,2539,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Can wealth grow so there is enough for everyone?,Wealth accumulation
+WVS,1996,B001,B001,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Would you give part of your income to protect the environment?,Would give part of my income for the environment
+WVS,1996,B002,B002,2237,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Would you accept higher taxes to prevent environmental pollution?,Increase in taxes if used to prevent environmental pollution
+WVS,1996,B003,B003,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should government reduce pollution without costing you money?,Government should reduce environmental pollution
+WVS,1996,B006,B006,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Must environmental problems be accepted to combat unemployment?,"Combatting unemployment, we have to accept environmental problems"
+WVS,1996,B008,B008,2213,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should economic growth and jobs take priority over environmental protection?,Protecting environment vs. Economic growth
+WVS,1996,C059,C059,2542,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is higher pay fair for a more efficient and reliable secretary?,Fairness: One secretary is paid more
+WVS,1996,C060,C060,2470,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should owners run businesses or appoint their managers?,How business and industry should be managed
+WVS,1996,E062,E062,2459,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should foreign goods be freely imported?,Importation of goods
+WVS,1996,E127,E127,2076,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is a free-market economy right for the country’s future?,Free market economy right for country future
+WVS,1996,E131,E131,2486,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is poverty due to laziness rather than unfair treatment?,Why are people in need
+WVS,1996,E132,E132,2595,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do poor people have a chance to escape poverty?,Chance to escape from poverty
+WVS,1996,E133,E133,2648,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is the government doing too little to fight poverty?,How much is the government doing against poverty
+WVS,1996,A209,A209,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do older people receive more than their fair share from government?,Older people get more than their fair share from the government
+WVS,1996,E057,E057,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Does the economic system need fundamental changes?,The economic system needs fundamental changes
+WVS,1996,E066,E066,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should society become more competitive rather than egalitarian?,Society aimed: egalitarian vs. competitive
+WVS,1996,E067,E067,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should society favour lower taxes rather than extensive welfare?,Society aimed: extensive welfare vs. low taxes
+WVS,1996,E203,E203,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do rapid market reforms harm national stability?,Rapid implementation of market reforms have negative impact on national stability
+WVS,1996,E204,E204,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Would market reforms improve most people’s lives?,Effect of market economic reforms
+WVS,1996,E224,E224,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is taxing the rich to subsidise the poor essential to democracy?,Democracy: Governments tax the rich and subsidize the poor.
+WVS,1996,E227,E227,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is state aid for unemployment essential to democracy?,Democracy: People receive state aid for unemployment.
+WVS,1996,E233A,E233A,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is state equalisation of incomes essential to democracy?,Democracy: The state makes people's incomes equal
+WVS,1996,E069_13,E069_13,2105,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in major companies?,Confidence: Major Companies
+WVS,1996,E069_41,E069_41,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in banks?,Confidence: Banks
+WVS,1996,E069_05,E069_05,2477,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in labour unions?,Confidence: Labour Unions
+WVS,1996,E069_09,E069_09,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in the social security system?,Confidence: Social Security System
+WVS,1996,F114A,F114A,2343,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is claiming benefits to which you are not entitled never justifiable?,Justifiable: Claiming government benefits to which you are not entitled
+WVS,1996,F116,F116,2498,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is cheating on taxes never justifiable?,Justifiable: Cheating on taxes
+WVS,2006,E036,E036,947,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should private ownership of business increase?,Private vs state ownership of business
+WVS,2006,E039,E039,938,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is competition beneficial?,Competition good or harmful
+WVS,2006,E037,E037,975,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should individuals take more responsibility for providing for themselves?,Government responsibility
+WVS,2006,E035,E035,967,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should income differences provide incentives for effort?,Income equality
+WVS,2006,E038,E038,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should unemployed people accept any available job?,Job taking of the unemployed
+WVS,2006,E042,E042,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should the state give firms more freedom?,
+WVS,2006,E040,E040,966,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Does hard work bring a better life?,Hard work brings success
+WVS,2006,E041,E041,919,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Can wealth grow so there is enough for everyone?,Wealth accumulation
+WVS,2006,B001,B001,909,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Would you give part of your income to protect the environment?,Would give part of my income for the environment
+WVS,2006,B002,B002,903,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Would you accept higher taxes to prevent environmental pollution?,Increase in taxes if used to prevent environmental pollution
+WVS,2006,B003,B003,946,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should government reduce pollution without costing you money?,Government should reduce environmental pollution
+WVS,2006,B006,B006,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Must environmental problems be accepted to combat unemployment?,"Combatting unemployment, we have to accept environmental problems"
+WVS,2006,B008,B008,791,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should economic growth and jobs take priority over environmental protection?,Protecting environment vs. Economic growth
+WVS,2006,C059,C059,900,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is higher pay fair for a more efficient and reliable secretary?,Fairness: One secretary is paid more
+WVS,2006,C060,C060,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should owners run businesses or appoint their managers?,How business and industry should be managed
+WVS,2006,E062,E062,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should foreign goods be freely imported?,Importation of goods
+WVS,2006,E127,E127,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is a free-market economy right for the country’s future?,Free market economy right for country future
+WVS,2006,E131,E131,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is poverty due to laziness rather than unfair treatment?,Why are people in need
+WVS,2006,E132,E132,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do poor people have a chance to escape poverty?,Chance to escape from poverty
+WVS,2006,E133,E133,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is the government doing too little to fight poverty?,How much is the government doing against poverty
+WVS,2006,A209,A209,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do older people receive more than their fair share from government?,Older people get more than their fair share from the government
+WVS,2006,E057,E057,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Does the economic system need fundamental changes?,The economic system needs fundamental changes
+WVS,2006,E066,E066,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should society become more competitive rather than egalitarian?,Society aimed: egalitarian vs. competitive
+WVS,2006,E067,E067,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should society favour lower taxes rather than extensive welfare?,Society aimed: extensive welfare vs. low taxes
+WVS,2006,E203,E203,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do rapid market reforms harm national stability?,Rapid implementation of market reforms have negative impact on national stability
+WVS,2006,E204,E204,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Would market reforms improve most people’s lives?,Effect of market economic reforms
+WVS,2006,E224,E224,887,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is taxing the rich to subsidise the poor essential to democracy?,Democracy: Governments tax the rich and subsidize the poor.
+WVS,2006,E227,E227,929,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is state aid for unemployment essential to democracy?,Democracy: People receive state aid for unemployment.
+WVS,2006,E233A,E233A,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is state equalisation of incomes essential to democracy?,Democracy: The state makes people's incomes equal
+WVS,2006,E069_13,E069_13,813,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in major companies?,Confidence: Major Companies
+WVS,2006,E069_41,E069_41,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in banks?,Confidence: Banks
+WVS,2006,E069_05,E069_05,832,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in labour unions?,Confidence: Labour Unions
+WVS,2006,E069_09,E069_09,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in the social security system?,Confidence: Social Security System
+WVS,2006,F114A,F114A,923,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is claiming benefits to which you are not entitled never justifiable?,Justifiable: Claiming government benefits to which you are not entitled
+WVS,2006,F116,F116,940,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is cheating on taxes never justifiable?,Justifiable: Cheating on taxes
+WVS,2011,E036,E036,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should private ownership of business increase?,Private vs state ownership of business
+WVS,2011,E039,E039,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is competition beneficial?,Competition good or harmful
+WVS,2011,E037,E037,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should individuals take more responsibility for providing for themselves?,Government responsibility
+WVS,2011,E035,E035,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should income differences provide incentives for effort?,Income equality
+WVS,2011,E038,E038,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should unemployed people accept any available job?,Job taking of the unemployed
+WVS,2011,E042,E042,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should the state give firms more freedom?,
+WVS,2011,E040,E040,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Does hard work bring a better life?,Hard work brings success
+WVS,2011,E041,E041,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Can wealth grow so there is enough for everyone?,Wealth accumulation
+WVS,2011,B001,B001,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Would you give part of your income to protect the environment?,Would give part of my income for the environment
+WVS,2011,B002,B002,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Would you accept higher taxes to prevent environmental pollution?,Increase in taxes if used to prevent environmental pollution
+WVS,2011,B003,B003,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should government reduce pollution without costing you money?,Government should reduce environmental pollution
+WVS,2011,B006,B006,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Must environmental problems be accepted to combat unemployment?,"Combatting unemployment, we have to accept environmental problems"
+WVS,2011,B008,B008,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should economic growth and jobs take priority over environmental protection?,Protecting environment vs. Economic growth
+WVS,2011,C059,C059,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is higher pay fair for a more efficient and reliable secretary?,Fairness: One secretary is paid more
+WVS,2011,C060,C060,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should owners run businesses or appoint their managers?,How business and industry should be managed
+WVS,2011,E062,E062,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should foreign goods be freely imported?,Importation of goods
+WVS,2011,E127,E127,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is a free-market economy right for the country’s future?,Free market economy right for country future
+WVS,2011,E131,E131,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is poverty due to laziness rather than unfair treatment?,Why are people in need
+WVS,2011,E132,E132,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do poor people have a chance to escape poverty?,Chance to escape from poverty
+WVS,2011,E133,E133,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is the government doing too little to fight poverty?,How much is the government doing against poverty
+WVS,2011,A209,A209,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do older people receive more than their fair share from government?,Older people get more than their fair share from the government
+WVS,2011,E057,E057,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Does the economic system need fundamental changes?,The economic system needs fundamental changes
+WVS,2011,E066,E066,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should society become more competitive rather than egalitarian?,Society aimed: egalitarian vs. competitive
+WVS,2011,E067,E067,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should society favour lower taxes rather than extensive welfare?,Society aimed: extensive welfare vs. low taxes
+WVS,2011,E203,E203,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do rapid market reforms harm national stability?,Rapid implementation of market reforms have negative impact on national stability
+WVS,2011,E204,E204,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Would market reforms improve most people’s lives?,Effect of market economic reforms
+WVS,2011,E224,E224,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is taxing the rich to subsidise the poor essential to democracy?,Democracy: Governments tax the rich and subsidize the poor.
+WVS,2011,E227,E227,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is state aid for unemployment essential to democracy?,Democracy: People receive state aid for unemployment.
+WVS,2011,E233A,E233A,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is state equalisation of incomes essential to democracy?,Democracy: The state makes people's incomes equal
+WVS,2011,E069_13,E069_13,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in major companies?,Confidence: Major Companies
+WVS,2011,E069_41,E069_41,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in banks?,Confidence: Banks
+WVS,2011,E069_05,E069_05,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in labour unions?,Confidence: Labour Unions
+WVS,2011,E069_09,E069_09,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in the social security system?,Confidence: Social Security System
+WVS,2011,F114A,F114A,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is claiming benefits to which you are not entitled never justifiable?,Justifiable: Claiming government benefits to which you are not entitled
+WVS,2011,F116,F116,1500,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is cheating on taxes never justifiable?,Justifiable: Cheating on taxes
+WVS,2020,E036,E036,1129,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should private ownership of business increase?,Private vs state ownership of business
+WVS,2020,E039,E039,1215,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is competition beneficial?,Competition good or harmful
+WVS,2020,E037,E037,1240,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should individuals take more responsibility for providing for themselves?,Government responsibility
+WVS,2020,E035,E035,1236,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should income differences provide incentives for effort?,Income equality
+WVS,2020,E038,E038,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should unemployed people accept any available job?,Job taking of the unemployed
+WVS,2020,E042,E042,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should the state give firms more freedom?,
+WVS,2020,E040,E040,1245,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Does hard work bring a better life?,Hard work brings success
+WVS,2020,E041,E041,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Can wealth grow so there is enough for everyone?,Wealth accumulation
+WVS,2020,B001,B001,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Would you give part of your income to protect the environment?,Would give part of my income for the environment
+WVS,2020,B002,B002,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Would you accept higher taxes to prevent environmental pollution?,Increase in taxes if used to prevent environmental pollution
+WVS,2020,B003,B003,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should government reduce pollution without costing you money?,Government should reduce environmental pollution
+WVS,2020,B006,B006,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Must environmental problems be accepted to combat unemployment?,"Combatting unemployment, we have to accept environmental problems"
+WVS,2020,B008,B008,1138,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should economic growth and jobs take priority over environmental protection?,Protecting environment vs. Economic growth
+WVS,2020,C059,C059,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is higher pay fair for a more efficient and reliable secretary?,Fairness: One secretary is paid more
+WVS,2020,C060,C060,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should owners run businesses or appoint their managers?,How business and industry should be managed
+WVS,2020,E062,E062,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should foreign goods be freely imported?,Importation of goods
+WVS,2020,E127,E127,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is a free-market economy right for the country’s future?,Free market economy right for country future
+WVS,2020,E131,E131,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is poverty due to laziness rather than unfair treatment?,Why are people in need
+WVS,2020,E132,E132,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do poor people have a chance to escape poverty?,Chance to escape from poverty
+WVS,2020,E133,E133,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is the government doing too little to fight poverty?,How much is the government doing against poverty
+WVS,2020,A209,A209,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do older people receive more than their fair share from government?,Older people get more than their fair share from the government
+WVS,2020,E057,E057,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Does the economic system need fundamental changes?,The economic system needs fundamental changes
+WVS,2020,E066,E066,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should society become more competitive rather than egalitarian?,Society aimed: egalitarian vs. competitive
+WVS,2020,E067,E067,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Should society favour lower taxes rather than extensive welfare?,Society aimed: extensive welfare vs. low taxes
+WVS,2020,E203,E203,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do rapid market reforms harm national stability?,Rapid implementation of market reforms have negative impact on national stability
+WVS,2020,E204,E204,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Would market reforms improve most people’s lives?,Effect of market economic reforms
+WVS,2020,E224,E224,1194,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is taxing the rich to subsidise the poor essential to democracy?,Democracy: Governments tax the rich and subsidize the poor.
+WVS,2020,E227,E227,1230,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is state aid for unemployment essential to democracy?,Democracy: People receive state aid for unemployment.
+WVS,2020,E233A,E233A,1197,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is state equalisation of incomes essential to democracy?,Democracy: The state makes people's incomes equal
+WVS,2020,E069_13,E069_13,1024,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in major companies?,Confidence: Major Companies
+WVS,2020,E069_41,E069_41,1181,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in banks?,Confidence: Banks
+WVS,2020,E069_05,E069_05,932,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in labour unions?,Confidence: Labour Unions
+WVS,2020,E069_09,E069_09,0,no valid Ukrainian responses,WVS_Time_Series_1981-2022_spss_v5_0.sav,Do you have confidence in the social security system?,Confidence: Social Security System
+WVS,2020,F114A,F114A,1213,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is claiming benefits to which you are not entitled never justifiable?,Justifiable: Claiming government benefits to which you are not entitled
+WVS,2020,F116,F116,1211,included,WVS_Time_Series_1981-2022_spss_v5_0.sav,Is cheating on taxes never justifiable?,Justifiable: Cheating on taxes
+EVS,1999,E036,E036,1023,included,ZA7503_v3-0-0.sav,Should private ownership of business increase?,Private vs state ownership of business
+EVS,1999,E039,E039,1101,included,ZA7503_v3-0-0.sav,Is competition beneficial?,Competition good or harmful
+EVS,1999,E037,E037,1171,included,ZA7503_v3-0-0.sav,Should individuals take more responsibility for providing for themselves?,Government responsibility
+EVS,1999,E035,E035,1160,included,ZA7503_v3-0-0.sav,Should income differences provide incentives for effort?,Income equality
+EVS,1999,E038,E038,1151,included,ZA7503_v3-0-0.sav,Should unemployed people accept any available job?,Job taking of the unemployed
+EVS,1999,E042,E042,1107,included,ZA7503_v3-0-0.sav,Should the state give firms more freedom?,Firms and freedom
+EVS,1999,E040,E040,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Does hard work bring a better life?,Hard work brings success
+EVS,1999,E041,E041,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Can wealth grow so there is enough for everyone?,Wealth accumulation
+EVS,1999,B001,B001,1092,included,ZA7503_v3-0-0.sav,Would you give part of your income to protect the environment?,Would give part of my income for the environment (4-point scale)
+EVS,1999,B002,B002,1056,included,ZA7503_v3-0-0.sav,Would you accept higher taxes to prevent environmental pollution?,Increase in taxes if used to prevent environmental pollution
+EVS,1999,B003,B003,1084,included,ZA7503_v3-0-0.sav,Should government reduce pollution without costing you money?,Government should reduce environmental pollution
+EVS,1999,B006,B006,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Must environmental problems be accepted to combat unemployment?,"Combatting unemployment, we have to accept environmental problems"
+EVS,1999,B008,B008,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should economic growth and jobs take priority over environmental protection?,Protecting environment vs. Economic growth
+EVS,1999,C059,C059,1143,included,ZA7503_v3-0-0.sav,Is higher pay fair for a more efficient and reliable secretary?,Fairness: One secretary is paid more
+EVS,1999,C060,C060,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should owners run businesses or appoint their managers?,How business and industry should be managed
+EVS,1999,E062,E062,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should foreign goods be freely imported?,
+EVS,1999,E127,E127,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is a free-market economy right for the country’s future?,
+EVS,1999,E131,E131,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is poverty due to laziness rather than unfair treatment?,
+EVS,1999,E132,E132,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Do poor people have a chance to escape poverty?,
+EVS,1999,E133,E133,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is the government doing too little to fight poverty?,
+EVS,1999,A209,A209,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Do older people receive more than their fair share from government?,
+EVS,1999,E057,E057,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Does the economic system need fundamental changes?,The economic system needs fundamental changes
+EVS,1999,E066,E066,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should society become more competitive rather than egalitarian?,
+EVS,1999,E067,E067,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should society favour lower taxes rather than extensive welfare?,
+EVS,1999,E203,E203,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Do rapid market reforms harm national stability?,
+EVS,1999,E204,E204,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Would market reforms improve most people’s lives?,
+EVS,1999,E224,E224,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is taxing the rich to subsidise the poor essential to democracy?,Democracy: Governments tax the rich and subsidize the poor.
+EVS,1999,E227,E227,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is state aid for unemployment essential to democracy?,Democracy: People receive state aid for unemployment.
+EVS,1999,E233A,E233A,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is state equalisation of incomes essential to democracy?,Democracy: The state makes people's incomes equal
+EVS,1999,E069_13,E069_13,875,included,ZA7503_v3-0-0.sav,Do you have confidence in major companies?,Confidence: Major Companies
+EVS,1999,E069_41,E069_41,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Do you have confidence in banks?,
+EVS,1999,E069_05,E069_05,1070,included,ZA7503_v3-0-0.sav,Do you have confidence in labour unions?,Confidence: Labour Unions
+EVS,1999,E069_09,E069_09,1096,included,ZA7503_v3-0-0.sav,Do you have confidence in the social security system?,Confidence: Social Security System
+EVS,1999,F114A,F114A,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is claiming benefits to which you are not entitled never justifiable?,Justifiable: Claiming government benefits to which you are not entitled
+EVS,1999,F116,F116,1106,included,ZA7503_v3-0-0.sav,Is cheating on taxes never justifiable?,Justifiable: Cheating on taxes
+EVS,1999,F114,F114,1112,included,ZA7503_v3-0-0.sav,Is claiming government benefits never justifiable (earlier item)?,Justifiable: Claiming government benefits
+EVS,2008,E036,E036,1341,included,ZA7503_v3-0-0.sav,Should private ownership of business increase?,Private vs state ownership of business
+EVS,2008,E039,E039,1385,included,ZA7503_v3-0-0.sav,Is competition beneficial?,Competition good or harmful
+EVS,2008,E037,E037,1487,included,ZA7503_v3-0-0.sav,Should individuals take more responsibility for providing for themselves?,Government responsibility
+EVS,2008,E035,E035,1479,included,ZA7503_v3-0-0.sav,Should income differences provide incentives for effort?,Income equality
+EVS,2008,E038,E038,1466,included,ZA7503_v3-0-0.sav,Should unemployed people accept any available job?,Job taking of the unemployed
+EVS,2008,E042,E042,1436,included,ZA7503_v3-0-0.sav,Should the state give firms more freedom?,Firms and freedom
+EVS,2008,E040,E040,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Does hard work bring a better life?,Hard work brings success
+EVS,2008,E041,E041,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Can wealth grow so there is enough for everyone?,Wealth accumulation
+EVS,2008,B001,B001,1360,included,ZA7503_v3-0-0.sav,Would you give part of your income to protect the environment?,Would give part of my income for the environment (4-point scale)
+EVS,2008,B002,B002,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Would you accept higher taxes to prevent environmental pollution?,Increase in taxes if used to prevent environmental pollution
+EVS,2008,B003,B003,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should government reduce pollution without costing you money?,Government should reduce environmental pollution
+EVS,2008,B006,B006,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Must environmental problems be accepted to combat unemployment?,"Combatting unemployment, we have to accept environmental problems"
+EVS,2008,B008,B008,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should economic growth and jobs take priority over environmental protection?,Protecting environment vs. Economic growth
+EVS,2008,C059,C059,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is higher pay fair for a more efficient and reliable secretary?,Fairness: One secretary is paid more
+EVS,2008,C060,C060,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should owners run businesses or appoint their managers?,How business and industry should be managed
+EVS,2008,E062,E062,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should foreign goods be freely imported?,
+EVS,2008,E127,E127,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is a free-market economy right for the country’s future?,
+EVS,2008,E131,E131,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is poverty due to laziness rather than unfair treatment?,
+EVS,2008,E132,E132,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Do poor people have a chance to escape poverty?,
+EVS,2008,E133,E133,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is the government doing too little to fight poverty?,
+EVS,2008,A209,A209,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Do older people receive more than their fair share from government?,
+EVS,2008,E057,E057,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Does the economic system need fundamental changes?,The economic system needs fundamental changes
+EVS,2008,E066,E066,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should society become more competitive rather than egalitarian?,
+EVS,2008,E067,E067,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should society favour lower taxes rather than extensive welfare?,
+EVS,2008,E203,E203,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Do rapid market reforms harm national stability?,
+EVS,2008,E204,E204,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Would market reforms improve most people’s lives?,
+EVS,2008,E224,E224,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is taxing the rich to subsidise the poor essential to democracy?,Democracy: Governments tax the rich and subsidize the poor.
+EVS,2008,E227,E227,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is state aid for unemployment essential to democracy?,Democracy: People receive state aid for unemployment.
+EVS,2008,E233A,E233A,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is state equalisation of incomes essential to democracy?,Democracy: The state makes people's incomes equal
+EVS,2008,E069_13,E069_13,1191,included,ZA7503_v3-0-0.sav,Do you have confidence in major companies?,Confidence: Major Companies
+EVS,2008,E069_41,E069_41,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Do you have confidence in banks?,
+EVS,2008,E069_05,E069_05,1255,included,ZA7503_v3-0-0.sav,Do you have confidence in labour unions?,Confidence: Labour Unions
+EVS,2008,E069_09,E069_09,1379,included,ZA7503_v3-0-0.sav,Do you have confidence in the social security system?,Confidence: Social Security System
+EVS,2008,F114A,F114A,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is claiming benefits to which you are not entitled never justifiable?,Justifiable: Claiming government benefits to which you are not entitled
+EVS,2008,F116,F116,1415,included,ZA7503_v3-0-0.sav,Is cheating on taxes never justifiable?,Justifiable: Cheating on taxes
+EVS,2008,F114,F114,1414,included,ZA7503_v3-0-0.sav,Is claiming government benefits never justifiable (earlier item)?,Justifiable: Claiming government benefits
+EVS,2020,E036,E036,1435,included,ZA7503_v3-0-0.sav,Should private ownership of business increase?,Private vs state ownership of business
+EVS,2020,E039,E039,1538,included,ZA7503_v3-0-0.sav,Is competition beneficial?,Competition good or harmful
+EVS,2020,E037,E037,1572,included,ZA7503_v3-0-0.sav,Should individuals take more responsibility for providing for themselves?,Government responsibility
+EVS,2020,E035,E035,1570,included,ZA7503_v3-0-0.sav,Should income differences provide incentives for effort?,Income equality
+EVS,2020,E038,E038,1549,included,ZA7503_v3-0-0.sav,Should unemployed people accept any available job?,Job taking of the unemployed
+EVS,2020,E042,E042,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should the state give firms more freedom?,Firms and freedom
+EVS,2020,E040,E040,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Does hard work bring a better life?,Hard work brings success
+EVS,2020,E041,E041,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Can wealth grow so there is enough for everyone?,Wealth accumulation
+EVS,2020,B001,B001,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Would you give part of your income to protect the environment?,Would give part of my income for the environment (4-point scale)
+EVS,2020,B002,B002,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Would you accept higher taxes to prevent environmental pollution?,Increase in taxes if used to prevent environmental pollution
+EVS,2020,B003,B003,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should government reduce pollution without costing you money?,Government should reduce environmental pollution
+EVS,2020,B006,B006,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Must environmental problems be accepted to combat unemployment?,"Combatting unemployment, we have to accept environmental problems"
+EVS,2020,B008,B008,1377,included,ZA7503_v3-0-0.sav,Should economic growth and jobs take priority over environmental protection?,Protecting environment vs. Economic growth
+EVS,2020,C059,C059,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is higher pay fair for a more efficient and reliable secretary?,Fairness: One secretary is paid more
+EVS,2020,C060,C060,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should owners run businesses or appoint their managers?,How business and industry should be managed
+EVS,2020,E062,E062,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should foreign goods be freely imported?,
+EVS,2020,E127,E127,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is a free-market economy right for the country’s future?,
+EVS,2020,E131,E131,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is poverty due to laziness rather than unfair treatment?,
+EVS,2020,E132,E132,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Do poor people have a chance to escape poverty?,
+EVS,2020,E133,E133,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is the government doing too little to fight poverty?,
+EVS,2020,A209,A209,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Do older people receive more than their fair share from government?,
+EVS,2020,E057,E057,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Does the economic system need fundamental changes?,The economic system needs fundamental changes
+EVS,2020,E066,E066,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should society become more competitive rather than egalitarian?,
+EVS,2020,E067,E067,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Should society favour lower taxes rather than extensive welfare?,
+EVS,2020,E203,E203,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Do rapid market reforms harm national stability?,
+EVS,2020,E204,E204,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Would market reforms improve most people’s lives?,
+EVS,2020,E224,E224,1499,included,ZA7503_v3-0-0.sav,Is taxing the rich to subsidise the poor essential to democracy?,Democracy: Governments tax the rich and subsidize the poor.
+EVS,2020,E227,E227,1556,included,ZA7503_v3-0-0.sav,Is state aid for unemployment essential to democracy?,Democracy: People receive state aid for unemployment.
+EVS,2020,E233A,E233A,1510,included,ZA7503_v3-0-0.sav,Is state equalisation of incomes essential to democracy?,Democracy: The state makes people's incomes equal
+EVS,2020,E069_13,E069_13,1397,included,ZA7503_v3-0-0.sav,Do you have confidence in major companies?,Confidence: Major Companies
+EVS,2020,E069_41,E069_41,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Do you have confidence in banks?,
+EVS,2020,E069_05,E069_05,1386,included,ZA7503_v3-0-0.sav,Do you have confidence in labour unions?,Confidence: Labour Unions
+EVS,2020,E069_09,E069_09,1535,included,ZA7503_v3-0-0.sav,Do you have confidence in the social security system?,Confidence: Social Security System
+EVS,2020,F114A,F114A,1561,included,ZA7503_v3-0-0.sav,Is claiming benefits to which you are not entitled never justifiable?,Justifiable: Claiming government benefits to which you are not entitled
+EVS,2020,F116,F116,1554,included,ZA7503_v3-0-0.sav,Is cheating on taxes never justifiable?,Justifiable: Cheating on taxes
+EVS,2020,F114,F114,0,no valid Ukrainian responses,ZA7503_v3-0-0.sav,Is claiming government benefits never justifiable (earlier item)?,Justifiable: Claiming government benefits
+LiTS,2006,market,q310,999,included,LITS-2006-data.dta,Is a market economy preferable to any other economic system?,attitude towards market economy vs. planned economy
+LiTS,2006,reduce_gap,q301_10,984,included,LITS-2006-data.dta,Should the gap between rich and poor be reduced?,attitude towards reducing present income inequality
+LiTS,2006,state_1,q305_1,999,included,LITS-2006-data.dta,Should the state reduce inequality?,perception of state involv. in reducing income inequality
+LiTS,2006,state_2,q305_2,999,included,LITS-2006-data.dta,Should the state guarantee employment?,perception of state involv. in guaranteeing employment
+LiTS,2006,state_3,q305_3,999,included,LITS-2006-data.dta,Should the state keep electricity and gas prices low?,perception of state involv. in guaranteeing low prices for electricity & gas
+LiTS,2006,state_4,q305_4,998,included,LITS-2006-data.dta,Should the state keep basic food prices low?,perception of state involv. in guaranteeing low prices for basic goods & food
+LiTS,2006,state_5,q305_5,998,included,LITS-2006-data.dta,Should the state own public utilities?,perception of state involv. in ownership of gas & electricity companies
+LiTS,2006,state_6,q305_6,997,included,LITS-2006-data.dta,Should the state own large companies?,perception of state involv. in ownership of large companies in this country
+LiTS,2006,keep_private,q309,995,included,LITS-2006-data.dta,Should privatised firms remain with current owners (possibly after additional payment)?,attitude towards privatization vs. nationalisation
+LiTS,2006,nationalise,q309,995,included,LITS-2006-data.dta,Should privatised firms return permanently to state ownership?,attitude towards privatization vs. nationalisation
+LiTS,2006,reprivatise,q309,995,included,LITS-2006-data.dta,Should privatised firms be nationalised and then re-privatised?,attitude towards privatization vs. nationalisation
+LiTS,2006,trust_banks,q303_8,930,included,LITS-2006-data.dta,Do you trust banks and the financial system?,trust in banks and the financial system
+LiTS,2006,trust_foreign_investors,q303_9,807,included,LITS-2006-data.dta,Do you trust foreign investors?,trust in foreign investors
+LiTS,2006,trust_unions,q303_11,864,included,LITS-2006-data.dta,Do you trust trade unions?,trust in trade unions
+LiTS,2006,success_effort,q306,999,included,LITS-2006-data.dta,What matters most for success: effort and hard work?,most important factor to succeed in life now
+LiTS,2006,success_skill,q306,999,included,LITS-2006-data.dta,What matters most for success: intelligence and skills?,most important factor to succeed in life now
+LiTS,2006,poverty_1,q308,999,included,LITS-2006-data.dta,Why are some people poor: bad luck?,main reason for people in need today
+LiTS,2006,poverty_2,q308,999,included,LITS-2006-data.dta,Why are some people poor: laziness and lack of willpower?,main reason for people in need today
+LiTS,2006,poverty_3,q308,999,included,LITS-2006-data.dta,Why are some people poor: injustice in society?,main reason for people in need today
+LiTS,2006,poverty_4,q308,999,included,LITS-2006-data.dta,Why are some people poor: an inevitable part of modern life?,main reason for people in need today
+LiTS,2006,spend_education,q304a,999,included,LITS-2006-data.dta,First priority for extra government spending: education?,field with 1st priority for extra (gov.) investment
+LiTS,2006,spend_health,q304a,999,included,LITS-2006-data.dta,First priority for extra government spending: health?,field with 1st priority for extra (gov.) investment
+LiTS,2006,spend_housing,q304a,999,included,LITS-2006-data.dta,First priority for extra government spending: housing?,field with 1st priority for extra (gov.) investment
+LiTS,2006,spend_pensions,q304a,999,included,LITS-2006-data.dta,First priority for extra government spending: pensions?,field with 1st priority for extra (gov.) investment
+LiTS,2006,spend_the_environment,q304a,999,included,LITS-2006-data.dta,First priority for extra government spending: the environment?,field with 1st priority for extra (gov.) investment
+LiTS,2006,spend_public_infrastructure,q304a,999,included,LITS-2006-data.dta,First priority for extra government spending: public infrastructure?,field with 1st priority for extra (gov.) investment
+LiTS,2010,market,q310,1357,included,lits2.dta,Is a market economy preferable to any other economic system?,q310 - With which one of the following statements do you agree most?
+LiTS,2010,reduce_gap,q301h,1499,included,lits2.dta,Should the gap between rich and poor be reduced?,Q.3.01 To what extent do you agree with the following statements?: h) The gap be
+LiTS,2010,income_incentives,q316a,1558,included,lits2.dta,Should larger income differences reward individual effort?,Q.3.16a Place your views on this scale?:
+LiTS,2010,private_ownership,q316b,1558,included,lits2.dta,Should private ownership of business increase?,Q.3.16b Place your views on this scale?:
+LiTS,2010,competition,q316c,1558,included,lits2.dta,Is competition beneficial?,Q.3.16c Place your views on this scale?:
+LiTS,2010,pay_a,q306a,1406,included,lits2.dta,Would you give income or pay more taxes for public education?,"q306_1 - Would you be willing to give part of your income or pay more taxes, if"
+LiTS,2010,pay_b,q306b,1436,included,lits2.dta,Would you give income or pay more taxes for public health?,"q306_2 - Would you be willing to give part of your income or pay more taxes, if"
+LiTS,2010,pay_c,q306c,1338,included,lits2.dta,Would you give income or pay more taxes for combating climate change?,"q306_3 - Would you be willing to give part of your income or pay more taxes, if"
+LiTS,2010,pay_d,q306d,1361,included,lits2.dta,Would you give income or pay more taxes for helping people in need?,"q306_4 - Would you be willing to give part of your income or pay more taxes, if"
+LiTS,2010,support_1,q307a_01,1558,included,lits2.dta,Who deserves government support: elderly people?,q307a_01 - Which of the following groups of citizens deserve support from the go
+LiTS,2010,support_2,q307a_02,1558,included,lits2.dta,Who deserves government support: people with disabilities?,q307a_02 - Which of the following groups of citizens deserve support from the go
+LiTS,2010,support_3,q307a_03,1558,included,lits2.dta,Who deserves government support: war veterans?,q307a_03 - Which of the following groups of citizens deserve support from the go
+LiTS,2010,support_4,q307a_04,1558,included,lits2.dta,Who deserves government support: families with children?,q307a_04 - Which of the following groups of citizens deserve support from the go
+LiTS,2010,support_5,q307a_05,1558,included,lits2.dta,Who deserves government support: the working poor?,q307a_05 - Which of the following groups of citizens deserve support from the go
+LiTS,2010,support_6,q307a_06,1558,included,lits2.dta,Who deserves government support: unemployed people?,q307a_06 - Which of the following groups of citizens deserve support from the go
+LiTS,2010,support_7,q307a_10,1558,included,lits2.dta,Who deserves government support: nobody?,q307a_10 - Which of the following groups of citizens deserve support from the go
+LiTS,2010,trust_banks,q303j,1485,included,lits2.dta,Do you trust banks and the financial system?,Q.3.03 To what extent do you trust the following institutions ....?: j) Banks an
+LiTS,2010,trust_foreign_investors,q303k,1265,included,lits2.dta,Do you trust foreign investors?,Q.3.03 To what extent do you trust the following institutions ....?: k) Foreign
+LiTS,2010,trust_unions,q303m,1330,included,lits2.dta,Do you trust trade unions?,Q.3.03 To what extent do you trust the following institutions ....?: m) Trade un
+LiTS,2010,success_effort,q308,1416,included,lits2.dta,What matters most for success: effort and hard work?,"q308 - In your opinion, which of the following factors is the most important to"
+LiTS,2010,success_skill,q308,1416,included,lits2.dta,What matters most for success: intelligence and skills?,"q308 - In your opinion, which of the following factors is the most important to"
+LiTS,2010,poverty_1,q309,1489,included,lits2.dta,Why are some people poor: bad luck?,"q309 - In your opinion, what is the main reason why there are some people in nee"
+LiTS,2010,poverty_2,q309,1489,included,lits2.dta,Why are some people poor: laziness and lack of willpower?,"q309 - In your opinion, what is the main reason why there are some people in nee"
+LiTS,2010,poverty_3,q309,1489,included,lits2.dta,Why are some people poor: injustice in society?,"q309 - In your opinion, what is the main reason why there are some people in nee"
+LiTS,2010,poverty_4,q309,1489,included,lits2.dta,Why are some people poor: an inevitable part of modern life?,"q309 - In your opinion, what is the main reason why there are some people in nee"
+LiTS,2010,spend_education,q305_1,1505,included,lits2.dta,First priority for extra government spending: education?,"q3051 - In your opinion, which of these fields should be the first priority for"
+LiTS,2010,spend_health,q305_1,1505,included,lits2.dta,First priority for extra government spending: health?,"q3051 - In your opinion, which of these fields should be the first priority for"
+LiTS,2010,spend_housing,q305_1,1505,included,lits2.dta,First priority for extra government spending: housing?,"q3051 - In your opinion, which of these fields should be the first priority for"
+LiTS,2010,spend_pensions,q305_1,1505,included,lits2.dta,First priority for extra government spending: pensions?,"q3051 - In your opinion, which of these fields should be the first priority for"
+LiTS,2010,spend_helping_the_poor,q305_1,1505,included,lits2.dta,First priority for extra government spending: helping the poor?,"q3051 - In your opinion, which of these fields should be the first priority for"
+LiTS,2010,spend_the_environment,q305_1,1505,included,lits2.dta,First priority for extra government spending: the environment?,"q3051 - In your opinion, which of these fields should be the first priority for"
+LiTS,2010,spend_public_infrastructure,q305_1,1505,included,lits2.dta,First priority for extra government spending: public infrastructure?,"q3051 - In your opinion, which of these fields should be the first priority for"
+LiTS,2016,market,q411,1395,included,lits_iii.dta,Is a market economy preferable to any other economic system?,Statement about the economic system
+LiTS,2016,reduce_gap,q401h,1470,included,lits_iii.dta,Should the gap between rich and poor be reduced?,The gap between the rich and the poor in our country should be reduced
+LiTS,2016,income_incentives,q417a,1495,included,lits_iii.dta,Should larger income differences reward individual effort?,Incomes should be made more equal vs different
+LiTS,2016,private_ownership,q417b,1461,included,lits_iii.dta,Should private ownership of business increase?,Private vs government ownership of business and industry
+LiTS,2016,competition,q417c,1467,included,lits_iii.dta,Is competition beneficial?,Competition is good vs harmful
+LiTS,2016,pay_a,q407a,1450,included,lits_iii.dta,Would you give income or pay more taxes for public education?,Would give more money to - improve public education
+LiTS,2016,pay_b,q407b,1462,included,lits_iii.dta,Would you give income or pay more taxes for public health?,Would give more money to - improve the public health system
+LiTS,2016,pay_c,q407c,1434,included,lits_iii.dta,Would you give income or pay more taxes for combating climate change?,Would give more money to - combat climate change
+LiTS,2016,pay_d,q407d,1417,included,lits_iii.dta,Would you give income or pay more taxes for helping people in need?,Would give more money to - help the needy
+LiTS,2016,support_1,q408a,1507,included,lits_iii.dta,Who deserves government support: elderly people?,Deserve support from the government - elderly
+LiTS,2016,support_2,q408b,1507,included,lits_iii.dta,Who deserves government support: people with disabilities?,Deserve support from the government disabled
+LiTS,2016,support_3,q408c,1507,included,lits_iii.dta,Who deserves government support: war veterans?,Deserve support from the government - war veterans
+LiTS,2016,support_4,q408d,1507,included,lits_iii.dta,Who deserves government support: families with children?,Deserve support from the government - families with children
+LiTS,2016,support_5,q408e,1507,included,lits_iii.dta,Who deserves government support: the working poor?,Deserve support from the government - working poor
+LiTS,2016,support_6,q408f,1507,included,lits_iii.dta,Who deserves government support: unemployed people?,Deserve support from the government - unemployed
+LiTS,2016,support_7,q408g,1507,included,lits_iii.dta,Who deserves government support: nobody?,Deserve support from the government - nobody
+LiTS,2016,wealth_influence,q417f,1469,included,lits_iii.dta,Are stricter rules needed against wealthy people’s influence on government?,There is no problem with the influence of wealthy individuals vs need for strict
+LiTS,2016,corporate_donations,q417g,1425,included,lits_iii.dta,Should corporate funding of political parties and candidates be banned?,Financial support by companies to political parties and candidates should be ban
+LiTS,2016,inequality_increased,q421,1467,included,lits_iii.dta,Has the gap between rich and poor increased?,Change in the gap between rich and poor
+LiTS,2016,connections_a,q425a,1384,included,lits_iii.dta,Are connections important for obtaining a government job?,How important is the influence of connections - to get a good job in the governm
+LiTS,2016,connections_b,q425b,1385,included,lits_iii.dta,Are connections important for obtaining a private-sector job?,How important is the influence of connections - to get a good job in the private
+LiTS,2016,connections_d,q425d,1409,included,lits_iii.dta,Are connections important for obtaining permits or official papers?,How important is the influence of connections - to obtain permits or official pa
+LiTS,2016,trust_banks,q404j,1437,included,lits_iii.dta,Do you trust banks and the financial system?,Trust - banks and the financial system
+LiTS,2016,trust_foreign_investors,q404k,1300,included,lits_iii.dta,Do you trust foreign investors?,Trust - foreign investors
+LiTS,2016,trust_unions,q404m,1283,included,lits_iii.dta,Do you trust trade unions?,Trust - trade unions
+LiTS,2016,success_effort,q409,1405,included,lits_iii.dta,What matters most for success: effort and hard work?,Most important factor to succeed in the country
+LiTS,2016,success_skill,q409,1405,included,lits_iii.dta,What matters most for success: intelligence and skills?,Most important factor to succeed in the country
+LiTS,2016,poverty_1,q410,1476,included,lits_iii.dta,Why are some people poor: bad luck?,Main reason there are some people in need in the country
+LiTS,2016,poverty_2,q410,1476,included,lits_iii.dta,Why are some people poor: laziness and lack of willpower?,Main reason there are some people in need in the country
+LiTS,2016,poverty_3,q410,1476,included,lits_iii.dta,Why are some people poor: injustice in society?,Main reason there are some people in need in the country
+LiTS,2016,poverty_4,q410,1476,included,lits_iii.dta,Why are some people poor: an inevitable part of modern life?,Main reason there are some people in need in the country
+LiTS,2016,spend_education,q406a,1484,included,lits_iii.dta,First priority for extra government spending: education?,First priority of government spending
+LiTS,2016,spend_health,q406a,1484,included,lits_iii.dta,First priority for extra government spending: health?,First priority of government spending
+LiTS,2016,spend_housing,q406a,1484,included,lits_iii.dta,First priority for extra government spending: housing?,First priority of government spending
+LiTS,2016,spend_pensions,q406a,1484,included,lits_iii.dta,First priority for extra government spending: pensions?,First priority of government spending
+LiTS,2016,spend_helping_the_poor,q406a,1484,included,lits_iii.dta,First priority for extra government spending: helping the poor?,First priority of government spending
+LiTS,2016,spend_the_environment,q406a,1484,included,lits_iii.dta,First priority for extra government spending: the environment?,First priority of government spending
+LiTS,2016,spend_public_infrastructure,q406a,1484,included,lits_iii.dta,First priority for extra government spending: public infrastructure?,First priority of government spending

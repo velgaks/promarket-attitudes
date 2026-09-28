@@ -1,0 +1,124 @@
+{
+  "EVS": {
+    "sha256": "6e3cab793a87a21c00cc2ca5570e244fd4a6e152dc1394cb005b15a1b3843025",
+    "crosswalk_verified": true,
+    "evidence": "ZA7503 v3.0.0 variable report, PDF pp.87,361-365; Ukrainian microdata S001=1, S003=804, S020 years1999/2008/2020; all four items have observed 1-10 responses in each wave. Source missing codes retained. Numeric values unchanged by parser metadata workaround.",
+    "items": {
+      "1999:E035": "as_is",
+      "1999:E036": "reverse",
+      "1999:E037": "reverse",
+      "1999:E039": "reverse",
+      "2008:E035": "as_is",
+      "2008:E036": "reverse",
+      "2008:E037": "reverse",
+      "2008:E039": "reverse",
+      "2020:E035": "as_is",
+      "2020:E036": "reverse",
+      "2020:E037": "reverse",
+      "2020:E039": "reverse"
+    },
+    "regions": {
+      "1999": "X048_EVS",
+      "2008": "X048B_N2",
+      "2020": "X048I_N2"
+    },
+    "question_ids": {
+      "1999": {
+        "E035": "Q54E",
+        "E036": "Q54F",
+        "E037": "Q54A",
+        "E039": "Q54C"
+      },
+      "2008": {
+        "E035": "Q58E",
+        "E036": "Q58F",
+        "E037": "Q58A",
+        "E039": "Q58C"
+      },
+      "2020": {
+        "E035": "Q32",
+        "E036": "Q32",
+        "E037": "Q32",
+        "E039": "Q32"
+      }
+    },
+    "territory_evidence": "All observed Ukrainian codes matched country-specific labels. Crimea1999=804001, Donetsk=804005, Luhansk=804013; 2008 Crimea=UA52, Donetsk city/oblast=UA45/UA46, Luhansk=UA47;2020 Donetsk=UA71,Luhansk=UA73; no Crimea observed. Codes must not be matched across waves without labels."
+  },
+  "WVS": {
+    "sha256": "9e939f64e98bf702c956ec4ce4728b0ac8cd16c18d5a71fc8b9fafeb30dd81f7",
+    "crosswalk_verified": true,
+    "source_file": "WVS_Time_Series_1981-2022_spss_v5_0.sav",
+    "evidence": "WVS-only SPSS v5.0 metadata; S001=2/S003=804; 1996/2006/2011/2020 each has four items with integer 1-10 responses. Official master questionnaires: wave3 PDF p15 V125-128; wave5 p10 V116-119; wave6 pp7-8 V96-99; wave7 pp8-9 Q106-109. E037 archive polarity is reversed relative to master questionnaires; analysis reverses the archive variable. Ukraine 2020 report p28 income-incentive mean6.16 independently reproduced. Original country-language questionnaires not separately verified; translation effects remain a limitation.",
+    "items": {
+      "1996:E035": "as_is",
+      "1996:E036": "reverse",
+      "1996:E037": "reverse",
+      "1996:E039": "reverse",
+      "2006:E035": "as_is",
+      "2006:E036": "reverse",
+      "2006:E037": "reverse",
+      "2006:E039": "reverse",
+      "2011:E035": "as_is",
+      "2011:E036": "reverse",
+      "2011:E037": "reverse",
+      "2011:E039": "reverse",
+      "2020:E035": "as_is",
+      "2020:E036": "reverse",
+      "2020:E037": "reverse",
+      "2020:E039": "reverse"
+    },
+    "regions": {
+      "1996": "X048WVS",
+      "2011": "X048ISO",
+      "2020": "X048ISO"
+    },
+    "question_ids": {
+      "1996": {
+        "E035": "V125",
+        "E036": "V126",
+        "E037": "V127",
+        "E039": "V128"
+      },
+      "2006": {
+        "E035": "V116",
+        "E036": "V117",
+        "E037": "V118",
+        "E039": "V119"
+      },
+      "2011": {
+        "E035": "V96",
+        "E036": "V97",
+        "E037": "V98",
+        "E039": "V99"
+      },
+      "2020": {
+        "E035": "Q106",
+        "E036": "Q107",
+        "E037": "Q108",
+        "E039": "Q109"
+      }
+    },
+    "questionnaire_sources": {
+      "1996": "https://catalog.ihsn.org/catalog/8864/download/91577",
+      "2006": "https://catalog.ihsn.org/catalog/8839/download/91509",
+      "2011": "https://catalog.ihsn.org/catalog/8838/download/91503",
+      "2020": "https://www.worldvaluessurvey.org/docs/EVS_WVS_Joint_v1_0_0_bq_WVS7.pdf"
+    },
+    "fieldwork_months": {
+      "1996": "September-October",
+      "2006": "November",
+      "2011": "December",
+      "2020": "July-August"
+    },
+    "geography_limits": {
+      "2006": "Only four broad X048WVS regions; X048ISO entirely missing. Consistent oblast exclusion unavailable."
+    },
+    "coverage": {
+      "1996": "Observed Crimea, Donetsk, Luhansk; Sevastopol not a separate observed category",
+      "2006": "Broad regions only; pre-2014 coverage",
+      "2011": "Observed Crimea, Sevastopol, Donetsk, Luhansk",
+      "2020": "Crimea/Sevastopol and occupied parts of Donetsk/Luhansk excluded; remaining observations in both eastern oblasts removed for sensitivity"
+    },
+    "territory_evidence": "1996 X048WVS: Crimea804001 Donetsk804005 Luhansk804013. Do NOT use 1996 X048ISO: Donetsk maps to Vinnytsia and two northern oblast codes are swapped. 2011/2020 X048ISO: Crimea/Krym804043 Sevastopol804040 Donetsk804014 Luhansk804009. All selected-variable observed codes labelled; 2006 withheld. Explicit krym alias included in exclusion rule."
+  }
+}

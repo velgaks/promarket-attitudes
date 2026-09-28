@@ -1,0 +1,11 @@
+survey,fieldwork_year,microdata_verified,source_file,age,weight,survey_identity,psu,geography,territorial_coverage,geographic_limit
+WVS,1996,True,WVS_Time_Series_1981-2022_spss_v5_0.sav,X003 >=18,S017,S001=2,not supplied in verified trend-file fields; respondent-level intervals approximate,X048WVS,"Observed Crimea, Donetsk, Luhansk; Sevastopol not a separate observed category",
+WVS,2006,True,WVS_Time_Series_1981-2022_spss_v5_0.sav,X003 >=18,S017,S001=2,not supplied in verified trend-file fields; respondent-level intervals approximate,not verified,Broad regions only; pre-2014 coverage,Only four broad X048WVS regions; X048ISO entirely missing. Consistent oblast exclusion unavailable.
+WVS,2011,True,WVS_Time_Series_1981-2022_spss_v5_0.sav,X003 >=18,S017,S001=2,not supplied in verified trend-file fields; respondent-level intervals approximate,X048ISO,"Observed Crimea, Sevastopol, Donetsk, Luhansk",
+WVS,2020,True,WVS_Time_Series_1981-2022_spss_v5_0.sav,X003 >=18,S017,S001=2,not supplied in verified trend-file fields; respondent-level intervals approximate,X048ISO,Crimea/Sevastopol and occupied parts of Donetsk/Luhansk excluded; remaining observations in both eastern oblasts removed for sensitivity,
+EVS,1999,True,ZA7503_v3-0-0.sav,X003 >=18,S017,S001=1,not supplied in verified trend-file fields; respondent-level intervals approximate,X048_EVS,See geographic labels and sample audit,
+EVS,2008,True,ZA7503_v3-0-0.sav,X003 >=18,S017,S001=1,not supplied in verified trend-file fields; respondent-level intervals approximate,X048B_N2,See geographic labels and sample audit,
+EVS,2020,True,ZA7503_v3-0-0.sav,X003 >=18,S017,S001=1,not supplied in verified trend-file fields; respondent-level intervals approximate,X048I_N2,See geographic labels and sample audit,
+LiTS,2006,True,LITS-2006-data.dta,ageB >=18,weight_0,Ukraine country string,tabled,unlabelled region; sensitivity unavailable,,
+LiTS,2010,True,lits2.dta,respondentage >=18,weight,Ukraine country string,psu,Region1,,
+LiTS,2016,True,lits_iii.dta,age_pr >=18,weight_population,Ukraine country string,PSU_number,region_name,,

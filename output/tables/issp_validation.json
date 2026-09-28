@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "included_items": 59,
+  "item_waves": 95,
+  "html_items": 36,
+  "microdata_variables_audited": 851,
+  "years": [
+    2008,
+    2009,
+    2019
+  ],
+  "checks": [
+    "Unique Ukrainian respondent IDs; official sample sizes matched",
+    "Adults 18+; positive finite supplied weights",
+    "Known categorical codes; categories total 100",
+    "Monetary missing codes excluded; outlier sensitivity exported",
+    "Weighted/unweighted and consistent regional exclusion exported",
+    "Native tax wording checked in both years",
+    "Three published codebook tables: all 15 substantive counts and rounded percentages reproduced"
+  ],
+  "published_anchor_checks": 15
+}

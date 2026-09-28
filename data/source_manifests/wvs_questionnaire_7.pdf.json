@@ -1,0 +1,9 @@
+{
+  "path": "docs/wvs_questionnaire_7.pdf",
+  "url": "https://www.worldvaluessurvey.org/docs/EVS_WVS_Joint_v1_0_0_bq_WVS7.pdf",
+  "params": null,
+  "label": "WVS official Wave 7 questionnaire",
+  "retrieved_utc": "2026-09-24T21:27:49.683238+00:00",
+  "bytes": 659838,
+  "sha256": "2c2899460456152a92860a4634a0134a99be6657260c0a270a2684a4ab3b20e4"
+}

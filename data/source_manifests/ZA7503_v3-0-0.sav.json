@@ -1,0 +1,10 @@
+{
+  "path": "data\\raw\\ZA7503_v3-0-0.sav",
+  "url": "https://search.gesis.org/research_data/ZA7503",
+  "version": "3.0.0",
+  "doi": "10.4232/1.14021",
+  "acquisition": "Downloaded by user; received 2026-09-24; extracted from ZA7503_v3-0-0.sav.zip",
+  "sha256": "6e3cab793a87a21c00cc2ca5570e244fd4a6e152dc1394cb005b15a1b3843025",
+  "bytes": 227393114,
+  "parser_workaround": "See scripts/analyze.py:readable_sav; raw original preserved."
+}

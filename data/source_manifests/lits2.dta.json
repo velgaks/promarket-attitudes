@@ -1,0 +1,9 @@
+{
+  "path": "data/raw/lits2.dta",
+  "url": "https://www.ebrd.com/content/dam/ebrd_dxp/assets/dta/office-of-the-chief-economist/publications/life-in-transition-survey-ii/lits2.dta",
+  "params": null,
+  "label": "Stata format",
+  "retrieved_utc": "2026-09-24T20:32:32.001248+00:00",
+  "bytes": 199716969,
+  "sha256": "c43d0e1821c51398817d7dfdfad2c0a4a5bb0d492f6a58096670e623bb6130e9"
+}

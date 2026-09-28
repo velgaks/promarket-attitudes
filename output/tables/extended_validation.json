@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "latest_rows": 284,
+  "latest_rows_by_survey": {
+    "ESS": 47,
+    "EVS": 20,
+    "ISSP": 49,
+    "LiTS": 47,
+    "Monitoring": 67,
+    "Pew": 28,
+    "WVS": 26
+  },
+  "microdata_question_years": 341,
+  "ess_question_years": 63,
+  "issp_question_years": 75,
+  "additional_published_indicator_years": 185,
+  "published_source_cells": 328,
+  "ci": "Microdata: 95% intervals; ESS 2022/2024 use strata/PSUs, others approximate as documented. Published aggregates: unavailable.",
+  "scope": "See output/variable_audit.md; no claim of an exhaustive search of all historical Pew releases or unpublished Monitoring items."
+}

@@ -1,0 +1,143 @@
+{
+  "checked": "2026-09-28",
+  "status": "documentation and microdata acquired",
+  "participation_source": "https://www.gesis.org/issp/ueberblick",
+  "studies": [
+    {
+      "study": "ZA4950",
+      "version": "2.3.0",
+      "module": "Religion III",
+      "year": 2008,
+      "doi": "10.4232/1.13161",
+      "ukraine_n": 2036,
+      "fieldwork": "2008-10",
+      "role": "Business and industry confidence; single Ukrainian observation",
+      "catalog_url": "https://search.gesis.org/research_data/ZA4950",
+      "local_files": [
+        {
+          "file": "data\\raw\\issp\\ZA4950_v2-3-0.sav",
+          "sha256": "ac5927d0ff1cc1ce56f46fc7ad242684e9bb3a95654df459df7ba64e1d3feb16",
+          "bytes": 69283121
+        },
+        {
+          "file": "data\\raw\\issp\\ZA4950_v2-3-0.sav.zip",
+          "sha256": "9d7709049fb38abd830992f2b98497111d8582ca40a929161644651533352ef7",
+          "bytes": 6530380,
+          "members": [
+            "ZA4950_v2-3-0.sav"
+          ]
+        }
+      ],
+      "acquisition_status": "acquired; analysis checks recorded in issp_validation.json"
+    },
+    {
+      "study": "ZA5400",
+      "version": "4.0.0",
+      "module": "Social Inequality IV",
+      "year": 2009,
+      "doi": "10.4232/1.12777",
+      "ukraine_n": 2012,
+      "fieldwork": "2009-06",
+      "role": "Ukraine must be selected from the integrated file",
+      "catalog_url": "https://search.gesis.org/research_data/ZA5400",
+      "local_files": [
+        {
+          "file": "data\\raw\\issp\\ZA5400_v4-0-0.sav",
+          "sha256": "ff5bd2c5c8c7ba6e8e7ba11541b464be2d464ddfa95385d74507f226bbbaaa2d",
+          "bytes": 69599115
+        },
+        {
+          "file": "data\\raw\\issp\\ZA5400_v4-0-0.sav.zip",
+          "sha256": "c372ed54ec22512565c4076576fac1cd0f2f78d2264ee4d6b9472ad18ed40ac0",
+          "bytes": 7389133,
+          "members": [
+            "ZA5400_v4-0-0.sav"
+          ]
+        }
+      ],
+      "acquisition_status": "acquired; analysis checks recorded in issp_validation.json"
+    },
+    {
+      "study": "ZA7810",
+      "version": "1.0.0",
+      "module": "Social Inequality V (Ukraine)",
+      "year": 2019,
+      "doi": "10.4232/1.13853",
+      "ukraine_n": 2001,
+      "fieldwork": "2019-08-31/2019-09-14",
+      "role": "Separate Ukrainian study; Ukraine is absent from ZA7600; sampling deviations require review",
+      "catalog_url": "https://search.gesis.org/research_data/ZA7810",
+      "local_files": [
+        {
+          "file": "data\\raw\\issp\\ZA7810_v1-0-0.data.zip",
+          "sha256": "7a2d2773bbe769ccb6a5d813d69bd9768dd4ed0ba6b8201a72f0108913a2c5c4",
+          "bytes": 2000339,
+          "members": [
+            "SPSS/",
+            "SPSS/ZA7810_v1-0-0.sav",
+            "Stata/",
+            "Stata/ZA7810_v1-0-0.dta",
+            "Stata/ZA7810_v1-0-0_missing.txt",
+            "ZA7810_backgroundvar_ua.pdf",
+            "ZA7810_characteristics_ua.pdf",
+            "ZA7810_q_ua-ru.pdf",
+            "ZA7810_q_ua-ua.pdf",
+            "ZA7810_README.pdf",
+            "ZA7810_TechnicalReport_ua.pdf"
+          ]
+        },
+        {
+          "file": "data\\raw\\issp\\ZA7810_v1-0-0.sav",
+          "sha256": "694abfea6f4a06ec211c0e24428d0bce0acc0f3eff4453f98f44c99641d2bb43",
+          "bytes": 894495
+        }
+      ],
+      "acquisition_status": "acquired; analysis checks recorded in issp_validation.json"
+    }
+  ],
+  "documents": [
+    {
+      "file": "data\\documentation\\issp\\2008_source_questionnaire.pdf",
+      "source_url": "https://access.gesis.org/dbk/16201",
+      "sha256": "7b711ae8a0e8da8651846169734adee3d471367d6d216c3828f28e1fac1f95ac",
+      "pages": 20
+    },
+    {
+      "file": "data\\documentation\\issp\\2009_variable_report.pdf",
+      "source_url": "https://access.gesis.org/dbk/48548",
+      "sha256": "742b55aab4348a2ddb7187d832c0b749a34fa6edae733c2075e83e0b36b2d53b",
+      "pages": 943
+    },
+    {
+      "file": "data\\documentation\\issp\\2009_ua_questionnaire.pdf",
+      "source_url": "https://access.gesis.org/dbk/19329",
+      "sha256": "0a6c2663615eb773a628e6b102d7bee998e7fd7d7c989764fb42a616e9bf66ef",
+      "pages": 18
+    },
+    {
+      "file": "data\\documentation\\issp\\2009_ua_background.pdf",
+      "source_url": "https://access.gesis.org/dbk/19281",
+      "sha256": "cd2ecddfe1f8e3c049040f382bda16e3ea6c58597c7deac8aadc3464888ebe60",
+      "pages": 60
+    },
+    {
+      "file": "data\\documentation\\issp\\2009_monitoring.pdf",
+      "source_url": "https://access.gesis.org/dbk/20572",
+      "sha256": "1d6fab51de492610011d3d9c7d0cfdd3d390898a8ef657d55729836c11b555b5",
+      "pages": 42
+    },
+    {
+      "file": "data\\documentation\\issp\\2019_source_questionnaire.pdf",
+      "source_url": "https://access.gesis.org/dbk/70641",
+      "sha256": "9f7ba833b68880868c528c0af8bce49d1fe015a2af06d9f9c276831cfac43425",
+      "pages": 18
+    },
+    {
+      "file": "data\\documentation\\issp\\replication_crosswalk.pdf",
+      "source_url": "https://access.gesis.org/dbk/73907",
+      "sha256": "afd86cf4003730f4b8dfd0c430929312e16b75726d26b29f1d44c8eefb064567",
+      "pages": 8
+    }
+  ],
+  "instructions": "Sign in to GESIS and download the listed study versions as SPSS or Stata. Place original ZIP/SAV/DTA files in the project root or data/raw/issp. Retain supplied documentation. Raw files are not redistributed. Do not use ZA7600 for Ukraine 2019."
+}
