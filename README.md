@@ -18,7 +18,7 @@ The interactive HTML brings together 95 question-level trend charts, with downlo
 | European Social Survey (ESS) | 2005, 2006–07, 2009, 2011, 2013, 2022, 2024 | [ESS rounds 2–6 and 11; Ukrainian ESS10 study](docs/SOURCES.md#european-social-survey-ess) |
 | International Social Survey Programme (ISSP) | 2008, 2009, 2019 | [ISSP and Ukrainian study releases](docs/SOURCES.md#international-social-survey-programme-issp) |
 
-[Full source citations](docs/SOURCES.md) · [Question-by-year inventory](output/tables/question_year_inventory.csv) · [Reproduce the analysis](docs/REPRODUCIBILITY.md)
+[Full source citations](docs/SOURCES.md) · [Question wording audit](docs/chart_wording_audit.csv) · [Question-by-year inventory](output/tables/question_year_inventory.csv) · [Reproduce the analysis](docs/REPRODUCIBILITY.md)
 
 <details>
 <summary>Methodology by source</summary>

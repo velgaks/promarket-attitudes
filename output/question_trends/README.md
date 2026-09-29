@@ -23,7 +23,11 @@ The files reuse the verified coding and historical source coverage of the resear
 
 Every plotted row is in all_chart_data.csv with source-table keys and available original metadata. The source_tables/ and docs/ folders in the ZIP retain definitions, provenance, source cells and question comparability documentation. Raw microdata are not redistributed. selection_audit.csv documents every included/excluded indicator; chart_inventory.csv indexes the export files.
 
+## Question wording
+
+Chart questions are explicitly marked as summaries. The HTML's “Question wording and response options” panel provides source wording, full response alternatives, grouping/code mappings, source pages, and wave differences for all 95 charts. `source_response` retains the stable category key in the original estimate table; `response` is the corrected display label. `docs/chart_wording_audit.csv` is the display registry. Ukrainian national forms were checked for EVS 1999/2008/2020, ISSP 2009/2019 and ESS 2022; the Ukrainian WVS 2020 report and original Monitoring tables were also checked. Other WVS/ESS waves and Pew use their master/codebook/topline wording; complete national-language verification is not claimed. Pew's prospective 1991 transition question is drawn as an isolated point. The EVS 2020 competition question omits the explanatory phrases used in earlier waves; local EVS and WVS income endpoints retain explicit references to income rewards for work or effort.
+
 ## Rebuild
 
-From the project root, after the existing data pipeline: `python scripts/question_trend_data.py` then `python scripts/question_trends.py`.
+From the project root, after the existing data pipeline: `python scripts/question_trend_data.py` then `python scripts/question_trends.py`. To re-extract the wording audit from locally acquired documentation, run `python scripts/chart_wording.py` before rendering.
 The full `scripts/run.py` also runs this stage. Source estimate files are hashed in manifest.json. Existing figures and the research note are not modified by chart generation.

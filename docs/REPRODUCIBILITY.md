@@ -37,6 +37,8 @@ python scripts/question_trends.py
 
 1. Find the chart and its downloadable CSV in [the gallery](../output/question_trends/index.html).
 2. Use [all_chart_data.csv](../output/question_trends/all_chart_data.csv) and [manifest.json](../output/question_trends/manifest.json) to identify its generated source table and checksum.
-3. Consult the [question definitions](question_trend_definitions.csv), programme crosswalks and source manifests for coding, weights and original wording. Published margins have a separate [source-cell trace](../output/tables/question_trend_source_cells.csv).
+3. Consult the [question definitions](question_trend_definitions.csv), programme crosswalks and source manifests for coding and weights. The [wording audit](chart_wording_audit.csv) records corrected chart summaries, full alternatives, raw-code groupings, source pages and wording changes for all 95 gallery charts. Published margins have a separate [source-cell trace](../output/tables/question_trend_source_cells.csv).
+
+Chart CSVs retain `source_response`, the unchanged group key in the statistical output, alongside `response`, the corrected display wording. `scripts/chart_wording.py` rebuilds the wording register from local source documents; `scripts/question_trends.py` uses the committed register and verifies that no category membership changes. The HTML embeds the register and works offline. Master wording is explicitly distinguished from checked Ukrainian national forms or published tables; it is not presented as a verbatim translation used in every interview.
 
 The [selection audit](../output/question_trends/selection_audit.csv) records included and excluded series. Validation tables check counts, missing responses, valid ranges, weighting, scale direction and agreement between plotted values and source estimates.

@@ -11,6 +11,7 @@ from matplotlib.ticker import PercentFormatter
 
 from analyze import ROOT
 from figures import BLUE, INK
+from chart_wording import load_audit
 
 TABLES = ROOT / 'output/tables'
 OUT = ROOT / 'output/question_trends'
@@ -104,6 +105,7 @@ def load_series():
     audit=pd.read_csv(TABLES/'question_trend_selection.csv')
     definitions=pd.read_csv(ROOT/'docs/question_trend_definitions.csv').set_index(['survey','item'])
     estimates=pd.read_csv(TABLES/'question_trend_estimates.csv')
+    wording=load_audit()
     records=[]
     for (survey,item),z in estimates.groupby(['survey','item'],sort=False):
         meta=definitions.loc[(survey,item)]
@@ -116,13 +118,20 @@ def load_series():
         years=sorted(z.year.astype(int).unique().tolist())
         assert len(years)>=2 and years[-1]>=CUTOFF
         chart_id=survey.lower()+'__'+item.lower()
+        checked=wording[chart_id]
+        assert checked['years']==years
+        assert checked['original_groups']==groups
+        question=checked['question']
+        z['source_response']=z.response
+        z['response']=z.response.map(checked['response_renames'])
+        assert z.response.notna().all()
         monetary=survey=='ISSP' and item.startswith('earn_')
         scale_min=0 if survey in ['ESS','ISSP'] else 1
         metric='Weighted mean (monthly UAH, nominal)' if monetary else f'Weighted mean ({scale_min}–10)' if numeric else 'Response shares (%)'
-        response=POLARITY[item] if numeric else 'All categories; adjacent positive and negative answers combined.' if meta.question_type=='ordinal' else 'All response options shown separately.'
+        response=checked['polarity'] if numeric else 'All categories; adjacent positive and negative answers combined.' if meta.question_type=='ordinal' else 'All response options shown separately.'
         z['chart_id']=chart_id;z['question']=question;z['plotted_metric']=metric
         z.to_csv(OUT/f'{chart_id}.csv',index=False,encoding='utf-8-sig')
-        records.append(dict(id=chart_id,survey=survey,item=item,question=question,label=LABELS[item],
+        records.append(dict(id=chart_id,survey=survey,item=item,question=question,label=checked['label'],wording=checked,
             response=response,metric=metric,mean=numeric,kind=meta.question_type,note=meta.method_note,scale_min=scale_min,monetary=monetary,
             ci=bool(z.ci_low.notna().all()),data=z,source_table='question_trend_estimates.csv',
             first_year=years[0],latest_year=years[-1],years=years))
@@ -158,7 +167,7 @@ def draw(r):
     first, last = z.iloc[0], z.iloc[-1]
     finding = f"{r['label']}: {fmt(first.estimate)} to {fmt(last.estimate)}"
     headline = '\n'.join(textwrap.wrap(finding, width=76))
-    question = '\n'.join(textwrap.wrap(r['question'], width=116))
+    question = '\n'.join(textwrap.wrap('Question (summary): '+r['question'], width=116))
     header_bottom = compact_header(fig, headline, question,
         f"Ukraine · {r['survey']} · {r['metric']} · {int(first.year)}–{int(last.year)}")
     fig.subplots_adjust(top=header_bottom-.025)
@@ -212,7 +221,7 @@ def draw(r):
                     ha='center', va='bottom', fontsize=10, color=INK)
         used.append((row.year,y))
     fig.text(.06, .135, '\n'.join(textwrap.wrap(r['response'], 128)), fontsize=9, color='#52514e')
-    note = r['note']
+    note = r['wording'].get('chart_note') or r['note']
     fig.text(.06, .08, note, fontsize=8, color='#898781')
     fig.text(.06, .04,
              f"Chart: Valentyn Hatsko, TG: @gorbach_squad. Source: {SOURCES[r['survey']]}, retrieved September 2026.",
@@ -233,13 +242,13 @@ def draw_categories(r):
     fig,ax=plt.subplots(figsize=FIGSIZE)
     fig.subplots_adjust(left=.09,right=.94,top=.62,bottom=.22)
     last=z[z.year.eq(r['latest_year'])]
-    substantive=last[~last.response.str.contains("Don't know|No answer|missing",regex=True)]
+    substantive=last[~last.response.str.contains("Don't know|Hard to say|No answer|no answer|missing",regex=True)]
     lead=substantive.loc[substantive.estimate.idxmax()]
     header_bottom = compact_header(fig,
         '\n'.join(textwrap.wrap(r['label'],76)),
-        '\n'.join(textwrap.wrap(r['question'],116)),
+        '\n'.join(textwrap.wrap('Question (summary): '+r['question'],116)),
         f"Ukraine · {r['survey']} · All response categories (%) · {r['first_year']}–{r['latest_year']}",
-        subtitle=f"{r['latest_year']}: {lead.response} — {lead.estimate:.1f}%")
+        subtitle='\n'.join(textwrap.wrap(f"{r['latest_year']}: {lead.response} — {lead.estimate:.1f}%",100)))
     for side in ['left','right','top']:ax.spines[side].set_visible(False)
     ax.spines['bottom'].set_color('#e1e0d9');ax.set_axisbelow(True)
     ax.yaxis.grid(True,color='#e1e0d9',lw=.6);ax.tick_params(length=0,pad=8,labelsize=10)
@@ -248,6 +257,13 @@ def draw_categories(r):
         v=z[z.response.eq(response)].sort_values('year')
         color=colors[i];lw=1.7
         if r['item']=='market_relations_natural' and i>0:color=['#777777','#999999','#bbbbbb','#555555'][i-1];lw=1.1
+        isolated=r['wording'].get('isolated_years',[])
+        if isolated:
+            # Wording break: 1991 Pew asks about efforts to establish a market;
+            # later years ask retrospectively about the transition.
+            stand=v[v.year.isin(isolated)]
+            ax.plot(stand.year,stand.estimate,marker=markers[i],ls='none',color=color,ms=4,mfc='white')
+            v=v[~v.year.isin(isolated)]
         if r['ci']:
             ax.errorbar(v.year,v.estimate,yerr=[v.estimate-v.ci_low,v.ci_high-v.estimate],
                         color=color,marker=markers[i],ls=styles[i],ms=4,lw=lw,capsize=2,elinewidth=.7,
@@ -280,7 +296,8 @@ def draw_categories(r):
     legend_bottom = legend.get_window_extent(fig.canvas.get_renderer()).y0 / fig.bbox.height
     fig.subplots_adjust(top=legend_bottom-.025)
     interval='Approximate 95% confidence intervals.' if r['ci'] else 'Confidence intervals unavailable.'
-    fig.text(.06,.135,'Lines connect surveyed years; every response category is shown.',fontsize=9,color='#52514e')
+    chart_note=r['wording'].get('chart_note','')
+    fig.text(.06,.135,'\n'.join(textwrap.wrap(chart_note or 'Lines connect surveyed years; every response category is shown.',128)),fontsize=9,color='#52514e')
     fig.text(.06,.08,'All respondents. '+interval,fontsize=8,color='#898781')
     fig.text(.06,.04,f"Chart: Valentyn Hatsko, TG: @gorbach_squad. Source: {SOURCES[r['survey']]}, retrieved September 2026.",fontsize=8,weight='semibold')
     for ext in ['png','svg']:
@@ -318,6 +335,7 @@ main{padding:20px 28px;min-width:0}.toolbar{display:flex;gap:8px;align-items:cen
 details{max-width:1000px;margin:12px auto}summary{cursor:pointer}table{border-collapse:collapse;width:100%;margin-top:10px;font-size:13px}
 th,td{padding:7px 12px;border-bottom:1px solid #ddd;text-align:right}th:first-child,td:first-child,th:nth-child(2),td:nth-child(2){text-align:left}td{overflow-wrap:anywhere}
 .methods{font-size:13px;color:#555;padding-top:12px}.count{font-size:12px;color:#555;margin:0 0 8px}
+.wording p{margin:8px 0}.wording li{margin:5px 0}.wording h3{font-size:14px;margin:16px 0 6px}.wording blockquote{margin:8px 0;padding-left:12px;border-left:2px solid #ddd;color:#333}.wording a{overflow-wrap:anywhere}
 @media(max-width:800px){.layout{display:block}aside{position:static;height:auto;border-right:0;padding-bottom:8px}#list{max-height:190px;overflow:auto}main{padding:10px}header{padding:16px}h1{font-size:21px}}
 </style>
 <header><h1>Market and state attitudes in Ukraine</h1><p>A synthesis of attitudes toward markets and the state’s role in the economy, drawn from international and Ukrainian surveys.</p></header>
@@ -327,7 +345,9 @@ th,td{padding:7px 12px;border-bottom:1px solid #ddd;text-align:right}th:first-ch
 <div id="count" class="count" aria-live="polite"></div><nav id="list" aria-label="Questions"></nav></aside>
 <main><div class="toolbar"><span id="position" class="position"></span><button id="prev" aria-label="Previous chart">Previous</button><button id="next" aria-label="Next chart">Next</button>
 <button id="png">PNG</button><button id="svg">SVG</button><button id="csv">Data CSV</button></div>
-<div id="chart" role="img"></div><details><summary>Values and measurement</summary><div id="definition" class="methods"></div><table><thead><tr><th>Year</th><th>Response</th><th>Estimate</th><th>95% lower</th><th>95% upper</th></tr></thead><tbody id="values"></tbody></table></details>
+<div id="chart" role="img"></div>
+<details><summary>Question wording and response options</summary><div id="wording" class="methods wording"></div></details>
+<details><summary>Values and measurement</summary><div id="definition" class="methods"></div><table><thead><tr><th>Year</th><th>Response</th><th>Estimate</th><th>95% lower</th><th>95% upper</th></tr></thead><tbody id="values"></tbody></table></details>
 <details><summary>Sources and methodology</summary><div class="methods">
 <p>__CHART_COUNT__ question-level trends. Each series has at least two observations and a latest observation in 2019 or later. Lines connect actual survey years.</p>
 <p>Numeric questions show weighted means with 95% confidence intervals. Ordered responses combine positive and negative categories, retaining middle and missing responses. Nominal questions show all options. Numeric means use valid answers; categorical shares include nonresponse.</p>
@@ -348,14 +368,25 @@ th,td{padding:7px 12px;border-bottom:1px solid #ddd;text-align:right}th:first-ch
 let shown=DATA.slice(),current=DATA[0];
 const $=id=>document.getElementById(id);
 function download(text,name,type){const url=URL.createObjectURL(new Blob([text],{type}));const a=document.createElement('a');a.href=url;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)}
+function wording(r){const root=$('wording');root.replaceChildren();const w=r.wording;
+const add=(tag,text,parent=root)=>{const e=document.createElement(tag);e.textContent=text;parent.append(e);return e};
+add('p',w.wording_type+'. Chart questions are summaries, not verbatim quotations.');
+add('h3','Source question');add('blockquote',w.source_question);
+add('h3','Full response alternatives / scale');const options=add('ul','');for(const [code,label] of Object.entries(w.source_options))add('li',code+': '+label,options);
+add('h3',r.mean?'Plotted scale':'How responses are grouped in this chart');
+if(r.mean)add('p',r.response);else{const groups=add('ul','');for(const [label,codes] of Object.entries(w.display_groups))add('li',label+' ← source codes: '+codes.join(', '),groups)}
+add('h3','Wording across waves');const notes=add('ul','');for(const note of w.wording_notes)add('li',note,notes);
+add('h3','Checked sources');for(const ref of w.references){const d=add('details','');add('summary',ref.years.join(', ')+' · '+ref.file.split('/').pop()+(ref.pdf_pages.length?' · PDF p. '+ref.pdf_pages.join(', '):''),d);add('p',ref.verification,d);const link=add('a','Open source',d);link.href=ref.url+(ref.url.toLowerCase().endsWith('.pdf')&&ref.pdf_pages.length?'#page='+ref.pdf_pages[0]:'');link.target='_blank';link.rel='noopener';if(ref.excerpt)add('blockquote',ref.excerpt,d)}
+const p=add('p','');const a=add('a','Download the complete wording audit (all charts)',p);a.href='https://github.com/velgaks/promarket-attitudes/blob/main/docs/chart_wording_audit.csv';}
 function select(r){current=r;$('chart').innerHTML=r.svg;$('chart').setAttribute('aria-label',r.survey+': '+r.question+' '+r.years.join(', '));
+wording(r);
 $('position').textContent=(shown.indexOf(r)+1)+' / '+shown.length+' · '+r.survey+' · '+r.first_year+'–'+r.latest_year;
 $('definition').textContent=r.metric+'. '+r.response+' '+r.note+' Source table: '+r.source_table;
 $('values').replaceChildren();for(const point of r.points){const tr=document.createElement('tr');for(const key of ['year','response','estimate','ci_low','ci_high']){const td=document.createElement('td');td.textContent=point[key]===null?'Unavailable':(key==='year'||key==='response')?point[key]:point[key].toFixed(r.mean?2:1);tr.append(td)}$('values').append(tr)}
 document.querySelectorAll('.choice').forEach(b=>b.setAttribute('aria-current',String(b.dataset.id===r.id)))}
 function filter(){const q=$('search').value.toLowerCase(),s=$('survey').value,t=$('type').value;shown=DATA.filter(r=>(!s||r.survey===s)&&(!t||r.kind===t)&&(r.question+' '+r.label+' '+r.item+' '+r.survey).toLowerCase().includes(q));$('count').textContent=shown.length+' matching charts';$('list').replaceChildren();
 for(const r of shown){const b=document.createElement('button');b.className='choice';b.dataset.id=r.id;const label=document.createElement('span');label.textContent=r.label;const meta=document.createElement('span');meta.className='meta';meta.textContent=r.survey+' · '+r.first_year+'–'+r.latest_year+' · '+r.years.length+' observations';b.append(label,meta);b.onclick=()=>select(r);$('list').append(b)}
-if(shown.length)select(shown.includes(current)?current:shown[0]);else{$('position').textContent='No matching questions';$('chart').innerHTML='';$('values').replaceChildren();$('definition').textContent=''}
+if(shown.length)select(shown.includes(current)?current:shown[0]);else{$('position').textContent='No matching questions';$('chart').innerHTML='';$('values').replaceChildren();$('wording').replaceChildren();$('definition').textContent=''}
 for(const id of ['prev','next','png','svg','csv'])$(id).disabled=!shown.length}
 $('search').oninput=filter;$('survey').onchange=filter;$('type').onchange=filter;
 $('prev').onclick=()=>select(shown[(shown.indexOf(current)-1+shown.length)%shown.length]);$('next').onclick=()=>select(shown[(shown.indexOf(current)+1)%shown.length]);
@@ -388,7 +419,7 @@ def main():
                 if path.exists():path.replace(archive/path.name)
     data = pd.concat([r['data'] for r in records], ignore_index=True)
     data.to_csv(OUT/'all_chart_data.csv',index=False,encoding='utf-8-sig')
-    inventory = pd.DataFrame([{k:v for k,v in r.items() if k not in ['data','mean','ci']}
+    inventory = pd.DataFrame([{k:v for k,v in r.items() if k not in ['data','mean','ci','wording']}
                               for r in records])
     inventory['years'] = inventory.years.map(lambda y:', '.join(map(str,y)))
     inventory.to_csv(OUT/'chart_inventory.csv',index=False,encoding='utf-8-sig')
@@ -399,7 +430,7 @@ def main():
         original=original[original.survey.eq(r['survey']) & original.item.eq(r['item'])]
         if 'age_group' in original:
             original=original[original.age_group.eq('All')|original.age_group.isna()]
-        original=original.assign(_order=original.response.map({v:i for i,v in enumerate(r['data'].response.unique())})).sort_values(['_order','year'])
+        original=original.assign(_order=original.response.map({v:i for i,v in enumerate(r['data'].source_response.unique())})).sort_values(['_order','year'])
         assert np.allclose(original[['estimate','ci_low','ci_high']],r['data'][['estimate','ci_low','ci_high']],equal_nan=True)
     notes = f'''# Market and state attitudes in Ukraine
 
@@ -426,9 +457,13 @@ The files reuse the verified coding and historical source coverage of the resear
 
 Every plotted row is in all_chart_data.csv with source-table keys and available original metadata. The source_tables/ and docs/ folders in the ZIP retain definitions, provenance, source cells and question comparability documentation. Raw microdata are not redistributed. selection_audit.csv documents every included/excluded indicator; chart_inventory.csv indexes the export files.
 
+## Question wording
+
+Chart questions are explicitly marked as summaries. The HTML's “Question wording and response options” panel provides source wording, full response alternatives, grouping/code mappings, source pages, and wave differences for all 95 charts. `source_response` retains the stable category key in the original estimate table; `response` is the corrected display label. `docs/chart_wording_audit.csv` is the display registry. Ukrainian national forms were checked for EVS 1999/2008/2020, ISSP 2009/2019 and ESS 2022; the Ukrainian WVS 2020 report and original Monitoring tables were also checked. Other WVS/ESS waves and Pew use their master/codebook/topline wording; complete national-language verification is not claimed. Pew's prospective 1991 transition question is drawn as an isolated point. The EVS 2020 competition question omits the explanatory phrases used in earlier waves; local EVS and WVS income endpoints retain explicit references to income rewards for work or effort.
+
 ## Rebuild
 
-From the project root, after the existing data pipeline: `python scripts/question_trend_data.py` then `python scripts/question_trends.py`.
+From the project root, after the existing data pipeline: `python scripts/question_trend_data.py` then `python scripts/question_trends.py`. To re-extract the wording audit from locally acquired documentation, run `python scripts/chart_wording.py` before rendering.
 The full `scripts/run.py` also runs this stage. Source estimate files are hashed in manifest.json. Existing figures and the research note are not modified by chart generation.
 '''
     (OUT/'README.md').write_text(notes,encoding='utf8')
@@ -440,6 +475,7 @@ The full `scripts/run.py` also runs this stage. Source estimate files are hashed
                   chart_ids=[r['id'] for r in records],
                   checks='Passed: complete selection coverage; every point and interval matches its source; valid ranges; distinct years.',
                   source_tables={n:digest(TABLES/n) for n in source_names})
+    manifest['wording_audit_sha256']=digest(ROOT/'docs/chart_wording_audit.csv')
     (OUT/'manifest.json').write_text(json.dumps(manifest,indent=2),encoding='utf8')
     print(json.dumps(manifest,indent=2))
     package_exports(records)
@@ -455,9 +491,9 @@ def package_exports(records):
             archive.write(path,path.relative_to(OUT))
         for name in source_names + ['monitoring_analysis_trace.csv','monitoring_published_results.csv','extended_published_trace.csv','question_trend_validation.json','ess_validation.json','ess_sample_audit.csv','ess_estimates.csv','ess_sensitivity.csv','ess_variable_inventory.csv','issp_validation.json','issp_estimates.csv','issp_sample_audit.csv','issp_variable_inventory.csv','issp_sensitivity.csv','issp_monetary_audit.csv','issp_published_checks.csv','issp_correlations.csv','issp_joint_agreement.csv']:
             archive.write(TABLES/name,'source_tables/'+name)
-        for name in ['SOURCES.md','REPRODUCIBILITY.md','question_crosswalk.csv','extended_question_definitions.csv','monitoring_indicator_definitions.csv','question_trend_definitions.csv','ess_question_crosswalk.csv','ess_variable_catalogue.csv','issp_question_crosswalk.csv','issp_variable_catalogue.csv']:
+        for name in ['SOURCES.md','REPRODUCIBILITY.md','question_crosswalk.csv','extended_question_definitions.csv','monitoring_indicator_definitions.csv','question_trend_definitions.csv','chart_wording_audit.csv','ess_question_crosswalk.csv','ess_variable_catalogue.csv','issp_question_crosswalk.csv','issp_variable_catalogue.csv']:
             archive.write(ROOT/'docs'/name,'docs/'+name)
-        for name in ['issp_analysis.py','issp_documentation.py','acquire_issp_sources.py','ess_analysis.py','question_trends.py','question_trend_data.py','extended_attitudes.py','extended_published.py','monitoring_extract.py','acquire.py','figures.py','question_inventory.py','analyze.py']:
+        for name in ['issp_analysis.py','issp_documentation.py','acquire_issp_sources.py','ess_analysis.py','question_trends.py','question_trend_data.py','chart_wording.py','extended_attitudes.py','extended_published.py','monitoring_extract.py','acquire.py','figures.py','question_inventory.py','analyze.py']:
             archive.write(ROOT/'scripts'/name,'scripts/'+name)
     print(target)
 

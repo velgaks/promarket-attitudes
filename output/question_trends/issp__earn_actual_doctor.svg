@@ -58,7 +58,7 @@ z
      <g id="line2d_3">
       <path d="M 71.28 415.584 
 L 760.32 415.584 
-" clip-path="url(#p6936c7d87a)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
+" clip-path="url(#p4554d0e758)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
      </g>
      <g id="line2d_4"/>
      <g id="text_4">
@@ -69,7 +69,7 @@ L 760.32 415.584
      <g id="line2d_5">
       <path d="M 71.28 349.633198 
 L 760.32 349.633198 
-" clip-path="url(#p6936c7d87a)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
+" clip-path="url(#p4554d0e758)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
      </g>
      <g id="line2d_6"/>
      <g id="text_5">
@@ -80,7 +80,7 @@ L 760.32 349.633198
      <g id="line2d_7">
       <path d="M 71.28 283.682395 
 L 760.32 283.682395 
-" clip-path="url(#p6936c7d87a)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
+" clip-path="url(#p4554d0e758)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
      </g>
      <g id="line2d_8"/>
      <g id="text_6">
@@ -91,7 +91,7 @@ L 760.32 283.682395
      <g id="line2d_9">
       <path d="M 71.28 217.731593 
 L 760.32 217.731593 
-" clip-path="url(#p6936c7d87a)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
+" clip-path="url(#p4554d0e758)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
      </g>
      <g id="line2d_10"/>
      <g id="text_7">
@@ -102,7 +102,7 @@ L 760.32 217.731593
      <g id="line2d_11">
       <path d="M 71.28 151.780791 
 L 760.32 151.780791 
-" clip-path="url(#p6936c7d87a)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
+" clip-path="url(#p4554d0e758)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
      </g>
      <g id="line2d_12"/>
      <g id="text_8">
@@ -121,26 +121,26 @@ L 722.564384 415.584
    <g id="LineCollection_1">
     <path d="M 93.30411 368.84648 
 L 93.30411 366.636977 
-" clip-path="url(#p6936c7d87a)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
+" clip-path="url(#p4554d0e758)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
     <path d="M 722.564384 153.765551 
 L 722.564384 138.79078 
-" clip-path="url(#p6936c7d87a)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
+" clip-path="url(#p4554d0e758)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
    </g>
    <g id="line2d_13">
     <defs>
-     <path id="m0696e79aa5" d="M 3 0 
+     <path id="mf333e0e92a" d="M 3 0 
 L -3 -0 
 " style="stroke: #2a78d6"/>
     </defs>
-    <g clip-path="url(#p6936c7d87a)">
-     <use xlink:href="#m0696e79aa5" x="93.30411" y="368.84648" style="fill: #2a78d6; stroke: #2a78d6"/>
-     <use xlink:href="#m0696e79aa5" x="722.564384" y="153.765551" style="fill: #2a78d6; stroke: #2a78d6"/>
+    <g clip-path="url(#p4554d0e758)">
+     <use xlink:href="#mf333e0e92a" x="93.30411" y="368.84648" style="fill: #2a78d6; stroke: #2a78d6"/>
+     <use xlink:href="#mf333e0e92a" x="722.564384" y="153.765551" style="fill: #2a78d6; stroke: #2a78d6"/>
     </g>
    </g>
    <g id="line2d_14">
-    <g clip-path="url(#p6936c7d87a)">
-     <use xlink:href="#m0696e79aa5" x="93.30411" y="366.636977" style="fill: #2a78d6; stroke: #2a78d6"/>
-     <use xlink:href="#m0696e79aa5" x="722.564384" y="138.79078" style="fill: #2a78d6; stroke: #2a78d6"/>
+    <g clip-path="url(#p4554d0e758)">
+     <use xlink:href="#mf333e0e92a" x="93.30411" y="366.636977" style="fill: #2a78d6; stroke: #2a78d6"/>
+     <use xlink:href="#mf333e0e92a" x="722.564384" y="138.79078" style="fill: #2a78d6; stroke: #2a78d6"/>
     </g>
    </g>
    <g id="text_10">
@@ -152,9 +152,9 @@ L -3 -0
    <g id="line2d_15">
     <path d="M 93.30411 367.741728 
 L 722.564384 146.278165 
-" clip-path="url(#p6936c7d87a)" style="fill: none; stroke: #2a78d6; stroke-width: 1.6; stroke-linecap: square"/>
+" clip-path="url(#p4554d0e758)" style="fill: none; stroke: #2a78d6; stroke-width: 1.6; stroke-linecap: square"/>
     <defs>
-     <path id="m623aadbbb5" d="M 0 2.5 
+     <path id="m0fa4b91285" d="M 0 2.5 
 C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
 C 2.236584 1.29895 2.5 0.663008 2.5 0 
 C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
@@ -166,23 +166,23 @@ C -1.29895 2.236584 -0.663008 2.5 0 2.5
 z
 " style="stroke: #2a78d6"/>
     </defs>
-    <g clip-path="url(#p6936c7d87a)">
-     <use xlink:href="#m623aadbbb5" x="93.30411" y="367.741728" style="fill: #ffffff; stroke: #2a78d6"/>
-     <use xlink:href="#m623aadbbb5" x="722.564384" y="146.278165" style="fill: #ffffff; stroke: #2a78d6"/>
+    <g clip-path="url(#p4554d0e758)">
+     <use xlink:href="#m0fa4b91285" x="93.30411" y="367.741728" style="fill: #ffffff; stroke: #2a78d6"/>
+     <use xlink:href="#m0fa4b91285" x="722.564384" y="146.278165" style="fill: #ffffff; stroke: #2a78d6"/>
     </g>
    </g>
   </g>
   <g id="text_12">
-   <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #0b0b0b" x="47.52" y="30.8055" transform="rotate(-0 47.52 30.8055)">How much does a doctor earn per month after taxes: 1,451 to 8,167</text>
+   <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #0b0b0b" x="47.52" y="30.8055" transform="rotate(-0 47.52 30.8055)">Perceived monthly pay: a general physician: 1,451 to 8,167</text>
   </g>
   <g id="text_13">
-   <text style="font-size: 10.5px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #52514e" x="47.52" y="48.026359" transform="rotate(-0 47.52 48.026359)">How much does a doctor earn per month after taxes?</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #52514e" x="47.52" y="48.026359" transform="rotate(-0 47.52 48.026359)">Question (summary): How much do you think a general physician actually earns per month after all taxes?</text>
   </g>
   <g id="text_14">
    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #52514e" x="47.52" y="65.826359" transform="rotate(-0 47.52 65.826359)">Ukraine · ISSP · Weighted mean (monthly UAH, nominal) · 2009–2019</text>
   </g>
   <g id="text_15">
-   <text style="font-size: 9px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #52514e" x="47.52" y="460.872" transform="rotate(-0 47.52 460.872)">Monthly UAH after taxes, nominal prices; means among valid answers.</text>
+   <text style="font-size: 9px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #52514e" x="47.52" y="460.872" transform="rotate(-0 47.52 460.872)">Monthly UAH after all taxes, nominal prices; respondent estimates.</text>
   </g>
   <g id="text_16">
    <text style="font-size: 8px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #898781" x="47.52" y="490.176" transform="rotate(-0 47.52 490.176)">Adults 18+; weighted means and approximate 95% intervals. Nominal UAH; price levels differ.</text>
@@ -192,7 +192,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p6936c7d87a">
+  <clipPath id="p4554d0e758">
    <rect x="71.28" y="88.968" width="689.04" height="326.616"/>
   </clipPath>
  </defs>

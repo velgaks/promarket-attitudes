@@ -70,7 +70,7 @@ z
      <g id="line2d_5">
       <path d="M 71.28 415.584 
 L 760.32 415.584 
-" clip-path="url(#p1ef405b118)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
+" clip-path="url(#pa664d04235)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
      </g>
      <g id="line2d_6"/>
      <g id="text_6">
@@ -81,7 +81,7 @@ L 760.32 415.584
      <g id="line2d_7">
       <path d="M 71.28 343.002667 
 L 760.32 343.002667 
-" clip-path="url(#p1ef405b118)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
+" clip-path="url(#pa664d04235)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
      </g>
      <g id="line2d_8"/>
      <g id="text_7">
@@ -92,7 +92,7 @@ L 760.32 343.002667
      <g id="line2d_9">
       <path d="M 71.28 270.421333 
 L 760.32 270.421333 
-" clip-path="url(#p1ef405b118)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
+" clip-path="url(#pa664d04235)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
      </g>
      <g id="line2d_10"/>
      <g id="text_8">
@@ -103,7 +103,7 @@ L 760.32 270.421333
      <g id="line2d_11">
       <path d="M 71.28 197.84 
 L 760.32 197.84 
-" clip-path="url(#p1ef405b118)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
+" clip-path="url(#pa664d04235)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
      </g>
      <g id="line2d_12"/>
      <g id="text_9">
@@ -114,7 +114,7 @@ L 760.32 197.84
      <g id="line2d_13">
       <path d="M 71.28 88.968 
 L 760.32 88.968 
-" clip-path="url(#p1ef405b118)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
+" clip-path="url(#pa664d04235)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
      </g>
      <g id="line2d_14"/>
      <g id="text_10">
@@ -133,36 +133,36 @@ L 722.564384 415.584
    <g id="LineCollection_1">
     <path d="M 93.30411 172.384901 
 L 93.30411 164.313085 
-" clip-path="url(#p1ef405b118)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
+" clip-path="url(#pa664d04235)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
     <path d="M 355.49589 182.688503 
 L 355.49589 167.176008 
-" clip-path="url(#p1ef405b118)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
+" clip-path="url(#pa664d04235)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
     <path d="M 486.591781 155.552087 
 L 486.591781 146.778379 
-" clip-path="url(#p1ef405b118)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
+" clip-path="url(#pa664d04235)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
     <path d="M 722.564384 181.872893 
 L 722.564384 170.553413 
-" clip-path="url(#p1ef405b118)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
+" clip-path="url(#pa664d04235)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
    </g>
    <g id="line2d_15">
     <defs>
-     <path id="m1775df8dbe" d="M 3 0 
+     <path id="m01d2d8bb62" d="M 3 0 
 L -3 -0 
 " style="stroke: #2a78d6"/>
     </defs>
-    <g clip-path="url(#p1ef405b118)">
-     <use xlink:href="#m1775df8dbe" x="93.30411" y="172.384901" style="fill: #2a78d6; stroke: #2a78d6"/>
-     <use xlink:href="#m1775df8dbe" x="355.49589" y="182.688503" style="fill: #2a78d6; stroke: #2a78d6"/>
-     <use xlink:href="#m1775df8dbe" x="486.591781" y="155.552087" style="fill: #2a78d6; stroke: #2a78d6"/>
-     <use xlink:href="#m1775df8dbe" x="722.564384" y="181.872893" style="fill: #2a78d6; stroke: #2a78d6"/>
+    <g clip-path="url(#pa664d04235)">
+     <use xlink:href="#m01d2d8bb62" x="93.30411" y="172.384901" style="fill: #2a78d6; stroke: #2a78d6"/>
+     <use xlink:href="#m01d2d8bb62" x="355.49589" y="182.688503" style="fill: #2a78d6; stroke: #2a78d6"/>
+     <use xlink:href="#m01d2d8bb62" x="486.591781" y="155.552087" style="fill: #2a78d6; stroke: #2a78d6"/>
+     <use xlink:href="#m01d2d8bb62" x="722.564384" y="181.872893" style="fill: #2a78d6; stroke: #2a78d6"/>
     </g>
    </g>
    <g id="line2d_16">
-    <g clip-path="url(#p1ef405b118)">
-     <use xlink:href="#m1775df8dbe" x="93.30411" y="164.313085" style="fill: #2a78d6; stroke: #2a78d6"/>
-     <use xlink:href="#m1775df8dbe" x="355.49589" y="167.176008" style="fill: #2a78d6; stroke: #2a78d6"/>
-     <use xlink:href="#m1775df8dbe" x="486.591781" y="146.778379" style="fill: #2a78d6; stroke: #2a78d6"/>
-     <use xlink:href="#m1775df8dbe" x="722.564384" y="170.553413" style="fill: #2a78d6; stroke: #2a78d6"/>
+    <g clip-path="url(#pa664d04235)">
+     <use xlink:href="#m01d2d8bb62" x="93.30411" y="164.313085" style="fill: #2a78d6; stroke: #2a78d6"/>
+     <use xlink:href="#m01d2d8bb62" x="355.49589" y="167.176008" style="fill: #2a78d6; stroke: #2a78d6"/>
+     <use xlink:href="#m01d2d8bb62" x="486.591781" y="146.778379" style="fill: #2a78d6; stroke: #2a78d6"/>
+     <use xlink:href="#m01d2d8bb62" x="722.564384" y="170.553413" style="fill: #2a78d6; stroke: #2a78d6"/>
     </g>
    </g>
    <g id="text_12">
@@ -182,9 +182,9 @@ L -3 -0
 L 355.49589 174.932255 
 L 486.591781 151.165233 
 L 722.564384 176.213153 
-" clip-path="url(#p1ef405b118)" style="fill: none; stroke: #2a78d6; stroke-width: 1.6; stroke-linecap: square"/>
+" clip-path="url(#pa664d04235)" style="fill: none; stroke: #2a78d6; stroke-width: 1.6; stroke-linecap: square"/>
     <defs>
-     <path id="mf8bd11948f" d="M 0 2.5 
+     <path id="mf521ebe918" d="M 0 2.5 
 C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
 C 2.236584 1.29895 2.5 0.663008 2.5 0 
 C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
@@ -196,25 +196,25 @@ C -1.29895 2.236584 -0.663008 2.5 0 2.5
 z
 " style="stroke: #2a78d6"/>
     </defs>
-    <g clip-path="url(#p1ef405b118)">
-     <use xlink:href="#mf8bd11948f" x="93.30411" y="168.348993" style="fill: #ffffff; stroke: #2a78d6"/>
-     <use xlink:href="#mf8bd11948f" x="355.49589" y="174.932255" style="fill: #ffffff; stroke: #2a78d6"/>
-     <use xlink:href="#mf8bd11948f" x="486.591781" y="151.165233" style="fill: #ffffff; stroke: #2a78d6"/>
-     <use xlink:href="#mf8bd11948f" x="722.564384" y="176.213153" style="fill: #ffffff; stroke: #2a78d6"/>
+    <g clip-path="url(#pa664d04235)">
+     <use xlink:href="#mf521ebe918" x="93.30411" y="168.348993" style="fill: #ffffff; stroke: #2a78d6"/>
+     <use xlink:href="#mf521ebe918" x="355.49589" y="174.932255" style="fill: #ffffff; stroke: #2a78d6"/>
+     <use xlink:href="#mf521ebe918" x="486.591781" y="151.165233" style="fill: #ffffff; stroke: #2a78d6"/>
+     <use xlink:href="#mf521ebe918" x="722.564384" y="176.213153" style="fill: #ffffff; stroke: #2a78d6"/>
     </g>
    </g>
   </g>
   <g id="text_16">
-   <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #0b0b0b" x="47.52" y="30.8055" transform="rotate(-0 47.52 30.8055)">Rejecting unjustified benefit claims: 7.81 to 7.60</text>
+   <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #0b0b0b" x="47.52" y="30.8055" transform="rotate(-0 47.52 30.8055)">Rejection of unjustified benefit claims: 7.81 to 7.60</text>
   </g>
   <g id="text_17">
-   <text style="font-size: 10.5px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #52514e" x="47.52" y="48.026359" transform="rotate(-0 47.52 48.026359)">Is claiming benefits to which you are not entitled never justifiable?</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #52514e" x="47.52" y="48.026359" transform="rotate(-0 47.52 48.026359)">Question (summary): How justifiable is claiming government benefits to which you are not entitled?</text>
   </g>
   <g id="text_18">
    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #52514e" x="47.52" y="65.826359" transform="rotate(-0 47.52 65.826359)">Ukraine · WVS · Weighted mean (1–10) · 1996–2020</text>
   </g>
   <g id="text_19">
-   <text style="font-size: 9px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #52514e" x="47.52" y="460.872" transform="rotate(-0 47.52 460.872)">1 = always justifiable; 10 = never justifiable (reversed original scale)</text>
+   <text style="font-size: 9px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #52514e" x="47.52" y="460.872" transform="rotate(-0 47.52 460.872)">1 = always justifiable; 10 = never justifiable (original scale reversed)</text>
   </g>
   <g id="text_20">
    <text style="font-size: 8px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #898781" x="47.52" y="490.176" transform="rotate(-0 47.52 490.176)">Weighted mean of valid 1–10 responses; approximate 95% confidence intervals.</text>
@@ -224,7 +224,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p1ef405b118">
+  <clipPath id="pa664d04235">
    <rect x="71.28" y="88.968" width="689.04" height="326.616"/>
   </clipPath>
  </defs>

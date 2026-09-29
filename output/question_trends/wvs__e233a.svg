@@ -58,7 +58,7 @@ z
      <g id="line2d_3">
       <path d="M 71.28 415.584 
 L 760.32 415.584 
-" clip-path="url(#pcc73b0c535)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
+" clip-path="url(#p78c6154fd9)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
      </g>
      <g id="line2d_4"/>
      <g id="text_4">
@@ -69,7 +69,7 @@ L 760.32 415.584
      <g id="line2d_5">
       <path d="M 71.28 343.002667 
 L 760.32 343.002667 
-" clip-path="url(#pcc73b0c535)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
+" clip-path="url(#p78c6154fd9)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
      </g>
      <g id="line2d_6"/>
      <g id="text_5">
@@ -80,7 +80,7 @@ L 760.32 343.002667
      <g id="line2d_7">
       <path d="M 71.28 270.421333 
 L 760.32 270.421333 
-" clip-path="url(#pcc73b0c535)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
+" clip-path="url(#p78c6154fd9)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
      </g>
      <g id="line2d_8"/>
      <g id="text_6">
@@ -91,7 +91,7 @@ L 760.32 270.421333
      <g id="line2d_9">
       <path d="M 71.28 197.84 
 L 760.32 197.84 
-" clip-path="url(#pcc73b0c535)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
+" clip-path="url(#p78c6154fd9)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
      </g>
      <g id="line2d_10"/>
      <g id="text_7">
@@ -102,7 +102,7 @@ L 760.32 197.84
      <g id="line2d_11">
       <path d="M 71.28 88.968 
 L 760.32 88.968 
-" clip-path="url(#pcc73b0c535)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
+" clip-path="url(#p78c6154fd9)" style="fill: none; stroke: #e1e0d9; stroke-width: 0.6; stroke-linecap: square"/>
      </g>
      <g id="line2d_12"/>
      <g id="text_8">
@@ -121,26 +121,26 @@ L 722.697998 415.584
    <g id="LineCollection_1">
     <path d="M 95.664631 181.463871 
 L 95.664631 172.319518 
-" clip-path="url(#pcc73b0c535)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
+" clip-path="url(#p78c6154fd9)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
     <path d="M 722.697998 184.500599 
 L 722.697998 174.199805 
-" clip-path="url(#pcc73b0c535)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
+" clip-path="url(#p78c6154fd9)" style="fill: none; stroke: #2a78d6; stroke-width: 1.1"/>
    </g>
    <g id="line2d_13">
     <defs>
-     <path id="m83611e5b56" d="M 3 0 
+     <path id="mb8ed5de0bf" d="M 3 0 
 L -3 -0 
 " style="stroke: #2a78d6"/>
     </defs>
-    <g clip-path="url(#pcc73b0c535)">
-     <use xlink:href="#m83611e5b56" x="95.664631" y="181.463871" style="fill: #2a78d6; stroke: #2a78d6"/>
-     <use xlink:href="#m83611e5b56" x="722.697998" y="184.500599" style="fill: #2a78d6; stroke: #2a78d6"/>
+    <g clip-path="url(#p78c6154fd9)">
+     <use xlink:href="#mb8ed5de0bf" x="95.664631" y="181.463871" style="fill: #2a78d6; stroke: #2a78d6"/>
+     <use xlink:href="#mb8ed5de0bf" x="722.697998" y="184.500599" style="fill: #2a78d6; stroke: #2a78d6"/>
     </g>
    </g>
    <g id="line2d_14">
-    <g clip-path="url(#pcc73b0c535)">
-     <use xlink:href="#m83611e5b56" x="95.664631" y="172.319518" style="fill: #2a78d6; stroke: #2a78d6"/>
-     <use xlink:href="#m83611e5b56" x="722.697998" y="174.199805" style="fill: #2a78d6; stroke: #2a78d6"/>
+    <g clip-path="url(#p78c6154fd9)">
+     <use xlink:href="#mb8ed5de0bf" x="95.664631" y="172.319518" style="fill: #2a78d6; stroke: #2a78d6"/>
+     <use xlink:href="#mb8ed5de0bf" x="722.697998" y="174.199805" style="fill: #2a78d6; stroke: #2a78d6"/>
     </g>
    </g>
    <g id="text_10">
@@ -152,9 +152,9 @@ L -3 -0
    <g id="line2d_15">
     <path d="M 95.664631 176.891695 
 L 722.697998 179.350202 
-" clip-path="url(#pcc73b0c535)" style="fill: none; stroke: #2a78d6; stroke-width: 1.6; stroke-linecap: square"/>
+" clip-path="url(#p78c6154fd9)" style="fill: none; stroke: #2a78d6; stroke-width: 1.6; stroke-linecap: square"/>
     <defs>
-     <path id="m02900456b3" d="M 0 2.5 
+     <path id="m048dbfaed2" d="M 0 2.5 
 C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
 C 2.236584 1.29895 2.5 0.663008 2.5 0 
 C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
@@ -166,9 +166,9 @@ C -1.29895 2.236584 -0.663008 2.5 0 2.5
 z
 " style="stroke: #2a78d6"/>
     </defs>
-    <g clip-path="url(#pcc73b0c535)">
-     <use xlink:href="#m02900456b3" x="95.664631" y="176.891695" style="fill: #ffffff; stroke: #2a78d6"/>
-     <use xlink:href="#m02900456b3" x="722.697998" y="179.350202" style="fill: #ffffff; stroke: #2a78d6"/>
+    <g clip-path="url(#p78c6154fd9)">
+     <use xlink:href="#m048dbfaed2" x="95.664631" y="176.891695" style="fill: #ffffff; stroke: #2a78d6"/>
+     <use xlink:href="#m048dbfaed2" x="722.697998" y="179.350202" style="fill: #ffffff; stroke: #2a78d6"/>
     </g>
    </g>
   </g>
@@ -176,13 +176,13 @@ z
    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #0b0b0b" x="47.52" y="30.8055" transform="rotate(-0 47.52 30.8055)">Equalising incomes as a feature of democracy: 7.58 to 7.51</text>
   </g>
   <g id="text_13">
-   <text style="font-size: 10.5px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #52514e" x="47.52" y="48.026359" transform="rotate(-0 47.52 48.026359)">Is state equalisation of incomes essential to democracy?</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #52514e" x="47.52" y="48.026359" transform="rotate(-0 47.52 48.026359)">Question (summary): How essential to democracy is it that the state makes people’s incomes equal?</text>
   </g>
   <g id="text_14">
    <text style="font-size: 10.5px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #52514e" x="47.52" y="65.826359" transform="rotate(-0 47.52 65.826359)">Ukraine · WVS · Weighted mean (1–10) · 2011–2020</text>
   </g>
   <g id="text_15">
-   <text style="font-size: 9px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #52514e" x="47.52" y="460.872" transform="rotate(-0 47.52 460.872)">1 = not essential to democracy; 10 = essential to democracy</text>
+   <text style="font-size: 9px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #52514e" x="47.52" y="460.872" transform="rotate(-0 47.52 460.872)">1 = not an essential characteristic of democracy; 10 = an essential characteristic</text>
   </g>
   <g id="text_16">
    <text style="font-size: 8px; font-family: 'DejaVu Sans', Arial, sans-serif; text-anchor: start; fill: #898781" x="47.52" y="490.176" transform="rotate(-0 47.52 490.176)">Mean of 1–10 ratings; spontaneous “against democracy” answers are outside the numeric scale.</text>
@@ -192,7 +192,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pcc73b0c535">
+  <clipPath id="p78c6154fd9">
    <rect x="71.28" y="88.968" width="689.04" height="326.616"/>
   </clipPath>
  </defs>
