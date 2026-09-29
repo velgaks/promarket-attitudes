@@ -131,21 +131,37 @@ def load_series():
     return records,audit
 
 
+def compact_header(fig, title, question, metadata, subtitle=None):
+    """Stack header lines by their rendered height, including wrapped titles."""
+    y = .965
+    rows = [(title, 16, 'bold', INK)]
+    if subtitle:
+        rows.append((subtitle, 12, 'normal', '#52514e'))
+    rows += [(question, 10.5, 'normal', '#52514e'),
+             (metadata, 10.5, 'normal', '#52514e')]
+    for text, size, weight, color in rows:
+        artist = fig.text(.06, y, text, fontsize=size, weight=weight,
+                          color=color, va='top', linespacing=1.2)
+        fig.canvas.draw()
+        bounds = artist.get_window_extent(fig.canvas.get_renderer())
+        y -= bounds.height / fig.bbox.height + 7 / (72 * fig.get_figheight())
+    return y
+
+
 def draw(r):
     if not r['mean']:
         return draw_categories(r)
     z = r['data']
     fig, ax = plt.subplots(figsize=FIGSIZE)
-    fig.subplots_adjust(left=.09, right=.96, top=.70, bottom=.25)
+    fig.subplots_adjust(left=.09, right=.96, top=.70, bottom=.22)
     fmt = (lambda v: f'{v:,.0f}') if r.get('monetary') else (lambda v: f'{v:.2f}') if r['mean'] else (lambda v: f'{v:.1f}%')
     first, last = z.iloc[0], z.iloc[-1]
     finding = f"{r['label']}: {fmt(first.estimate)} to {fmt(last.estimate)}"
     headline = '\n'.join(textwrap.wrap(finding, width=76))
-    fig.text(.06, .96, headline, fontsize=16, weight='bold', va='top', linespacing=1.3)
     question = '\n'.join(textwrap.wrap(r['question'], width=116))
-    fig.text(.06, .845, question, fontsize=10.5, color='#52514e', va='top', linespacing=1.45)
-    fig.text(.06, .752, f"Ukraine · {r['survey']} · {r['metric']} · {int(first.year)}–{int(last.year)}",
-             fontsize=10.5, color='#52514e', va='top')
+    header_bottom = compact_header(fig, headline, question,
+        f"Ukraine · {r['survey']} · {r['metric']} · {int(first.year)}–{int(last.year)}")
+    fig.subplots_adjust(top=header_bottom-.025)
     for side in ['left', 'right', 'top']:
         ax.spines[side].set_visible(False)
     ax.spines['bottom'].set_color('#e1e0d9')
@@ -195,14 +211,12 @@ def draw(r):
         ax.annotate(fmt(row.estimate), (row.year,y), xytext=(0,offset), textcoords='offset points',
                     ha='center', va='bottom', fontsize=10, color=INK)
         used.append((row.year,y))
-    fig.text(.06, .165, '\n'.join(textwrap.wrap(r['response'], 128)), fontsize=9, color='#52514e')
+    fig.text(.06, .135, '\n'.join(textwrap.wrap(r['response'], 128)), fontsize=9, color='#52514e')
     note = r['note']
-    fig.text(.06, .105, note, fontsize=8, color='#898781')
-    fig.text(.06, .066,
+    fig.text(.06, .08, note, fontsize=8, color='#898781')
+    fig.text(.06, .04,
              f"Chart: Valentyn Hatsko, TG: @gorbach_squad. Source: {SOURCES[r['survey']]}, retrieved September 2026.",
              fontsize=8, weight='semibold')
-    fig.text(.06, .028, 'Data, code and method: promarket-attitudes / scripts/question_trends.py / README.md',
-             fontsize=8, color='#898781')
     for ext in ['png', 'svg']:
         fig.savefig(OUT / f"{r['id']}.{ext}", dpi=300, facecolor='white',
                     metadata={'Date':None} if ext == 'svg' else None)
@@ -217,14 +231,15 @@ def draw_categories(r):
     colors=[BLUE,'#eb6834','#315778','#777777','#aaaaaa','#444444','#999999','#666666']
     markers=['o','s','^','D','v','P','X','*'];styles=['-','-','--',':','-.','--',':','-.']
     fig,ax=plt.subplots(figsize=FIGSIZE)
-    fig.subplots_adjust(left=.09,right=.94,top=.56 if len(responses)>6 else .62,bottom=.25)
+    fig.subplots_adjust(left=.09,right=.94,top=.62,bottom=.22)
     last=z[z.year.eq(r['latest_year'])]
     substantive=last[~last.response.str.contains("Don't know|No answer|missing",regex=True)]
     lead=substantive.loc[substantive.estimate.idxmax()]
-    fig.text(.06,.96,'\n'.join(textwrap.wrap(r['label'],76)),fontsize=16,weight='bold',va='top')
-    fig.text(.06,.901,f"{r['latest_year']}: {lead.response} — {lead.estimate:.1f}%",fontsize=12,color='#52514e',va='top')
-    fig.text(.06,.845,'\n'.join(textwrap.wrap(r['question'],116)),fontsize=10.5,color='#52514e',va='top')
-    fig.text(.06,.773,f"Ukraine · {r['survey']} · All response categories (%) · {r['first_year']}–{r['latest_year']}",fontsize=10.5,color='#52514e',va='top')
+    header_bottom = compact_header(fig,
+        '\n'.join(textwrap.wrap(r['label'],76)),
+        '\n'.join(textwrap.wrap(r['question'],116)),
+        f"Ukraine · {r['survey']} · All response categories (%) · {r['first_year']}–{r['latest_year']}",
+        subtitle=f"{r['latest_year']}: {lead.response} — {lead.estimate:.1f}%")
     for side in ['left','right','top']:ax.spines[side].set_visible(False)
     ax.spines['bottom'].set_color('#e1e0d9');ax.set_axisbelow(True)
     ax.yaxis.grid(True,color='#e1e0d9',lw=.6);ax.tick_params(length=0,pad=8,labelsize=10)
@@ -259,13 +274,15 @@ def draw_categories(r):
                     ha='left',va='center',fontsize=9,color=INK,
                     arrowprops=dict(arrowstyle='-',lw=.5,color='#999999'))
     handles,labels=ax.get_legend_handles_labels()
-    fig.legend(handles,labels,loc='upper left',bbox_to_anchor=(.055,.745),ncol=2 if len(labels)>3 else len(labels),
+    legend = fig.legend(handles,labels,loc='upper left',bbox_to_anchor=(.055,header_bottom),ncol=2 if len(labels)>3 else len(labels),
                frameon=False,fontsize=9,handlelength=2,columnspacing=2,labelspacing=.7)
+    fig.canvas.draw()
+    legend_bottom = legend.get_window_extent(fig.canvas.get_renderer()).y0 / fig.bbox.height
+    fig.subplots_adjust(top=legend_bottom-.025)
     interval='Approximate 95% confidence intervals.' if r['ci'] else 'Confidence intervals unavailable.'
-    fig.text(.06,.162,'Lines connect surveyed years; every response category is shown.',fontsize=9,color='#52514e')
-    fig.text(.06,.105,'All respondents. '+interval,fontsize=8,color='#898781')
-    fig.text(.06,.066,f"Chart: Valentyn Hatsko, TG: @gorbach_squad. Source: {SOURCES[r['survey']]}, retrieved September 2026.",fontsize=8,weight='semibold')
-    fig.text(.06,.028,'Data, code and method: promarket-attitudes / scripts/question_trends.py / README.md',fontsize=8,color='#898781')
+    fig.text(.06,.135,'Lines connect surveyed years; every response category is shown.',fontsize=9,color='#52514e')
+    fig.text(.06,.08,'All respondents. '+interval,fontsize=8,color='#898781')
+    fig.text(.06,.04,f"Chart: Valentyn Hatsko, TG: @gorbach_squad. Source: {SOURCES[r['survey']]}, retrieved September 2026.",fontsize=8,weight='semibold')
     for ext in ['png','svg']:
         path=OUT/f"{r['id']}.{ext}"
         fig.savefig(path,dpi=300,facecolor='white',metadata={'Date':None} if ext=='svg' else None)
